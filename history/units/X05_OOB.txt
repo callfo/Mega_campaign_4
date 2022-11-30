@@ -277,7 +277,7 @@ USA = {
 	level = 2
 }
 X00 = {
-	value = -22
+	value = 100
 	military_access = yes
 	level = 2
 }
