@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=ABO
+trade_goods = wool
+life_rating = 32
+terrain = savanna
+colonial=2
+naval_base = 1

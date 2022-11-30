@@ -1,0 +1,535 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = -1
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 48
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = -3
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -1
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = -17
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 50
+	level = 3
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 50
+	level = 3
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -313
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RUM = {
+	value = -15
+	level = 2
+}
+RUS = {
+	value = -9
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -5
+	level = 2
+}
+X00 = {
+	value = -22
+	military_access = yes
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = -15
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = -8
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 45
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Alexandre de Saint-Omer"
+	date="1808.9.2"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Philippe VII"
+	date="1829.5.14"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Louis de Crussol"
+	date="1819.12.3"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="7th Army"
+	location=1729
+	regiment = {
+		name="1st Frankfurt Infantry"
+		type=infantry
+		home=564
+	}
+	regiment = {
+		name="2nd Frankfurt Infantry"
+		type=infantry
+		home=564
+	}
+	regiment = {
+		name="3rd Frankfurt Infantry"
+		type=infantry
+		home=564
+	}
+	regiment = {
+		name="1st Düsseldorf Infantry"
+		type=infantry
+		home=578
+	}
+	regiment = {
+		name="1st Nuremberg Cavalry"
+		type=cavalry
+		home=595
+	}
+	regiment = {
+		name="1st Bielefeld Cavalry"
+		type=cavalry
+		home=582
+	}
+	regiment = {
+		name="2nd Bielefeld Cavalry"
+		type=cavalry
+		home=582
+	}
+	regiment = {
+		name="1st Stuttgart Infantry"
+		type=infantry
+		home=589
+	}
+	regiment = {
+		name="1st Lüneburg Cavalry"
+		type=cavalry
+		home=532
+	}
+}
+
+army = {
+	name="20th Army"
+	location=793
+	regiment = {
+		name="1st Nuremberg Infantry"
+		type=infantry
+		home=595
+	}
+	regiment = {
+		name="1st Osnabrück Infantry"
+		type=infantry
+		home=538
+	}
+	regiment = {
+		name="1st Detmold Infantry"
+		type=infantry
+		home=585
+	}
+	regiment = {
+		name="1st Fulda Infantry"
+		type=infantry
+		home=568
+	}
+	regiment = {
+		name="1st Darmstadt Cavalry"
+		type=cavalry
+		home=2560
+	}
+	regiment = {
+		name="1st Wiesbaden Artillery"
+		type=artillery
+		home=565
+	}
+	regiment = {
+		name="2nd Darmstadt Cavalry"
+		type=cavalry
+		home=2560
+	}
+	regiment = {
+		name="1st Mainz Artillery"
+		type=artillery
+		home=570
+	}
+}
+
+army = {
+	name="Free Company"
+	location=812
+	regiment = {
+		name="1st Wiesbaden Infantry"
+		type=infantry
+		home=565
+	}
+	regiment = {
+		name="1st Neuwied Infantry"
+		type=infantry
+		home=579
+	}
+	regiment = {
+		name="2nd Neuwied Infantry"
+		type=infantry
+		home=579
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=781
+	regiment = {
+		name="1st Siegen Artillery"
+		type=artillery
+		home=583
+	}
+	regiment = {
+		name="4th Siegen Artillery"
+		type=artillery
+		home=583
+	}
+	regiment = {
+		name="2nd Mainz Artillery"
+		type=artillery
+		home=570
+	}
+}
+
+army = {
+	name="5th Army"
+	location=602
+	regiment = {
+		name="2nd Siegen Artillery"
+		type=artillery
+		home=583
+	}
+	regiment = {
+		name="3rd Siegen Artillery"
+		type=artillery
+		home=583
+	}
+	regiment = {
+		name="1st Fulda Artillery"
+		type=artillery
+		home=568
+	}
+	regiment = {
+		name="1st Darmstadt Artillery"
+		type=artillery
+		home=2560
+	}
+}
+

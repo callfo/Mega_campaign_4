@@ -1,0 +1,255 @@
+908 = {
+	soldiers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 113
+	}
+
+	artisans=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 226
+	}
+
+	clergymen=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 13
+	}
+
+	officers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 5157
+	}
+
+}
+909 = {
+	soldiers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 598
+	}
+
+	clergymen=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 10
+	}
+
+	officers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 2484
+	}
+
+}
+910 = {
+	soldiers=
+	{
+		culture = jerusalemer
+		religion = sunni
+		size= 252
+	}
+
+	artisans=
+	{
+		culture = jerusalemer
+		religion = sunni
+		size= 384
+	}
+
+	clergymen=
+	{
+		culture = jerusalemer
+		religion = sunni
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = jerusalemer
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = jerusalemer
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = jerusalemer
+		religion = sunni
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = jerusalemer
+		religion = sunni
+		size= 2013
+	}
+
+}
+911 = {
+	soldiers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 865
+	}
+
+	clergymen=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 14
+	}
+
+	officers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 156
+	}
+
+	farmers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 4064
+	}
+
+}
+922 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 95
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 190
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 11
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 4316
+	}
+
+}

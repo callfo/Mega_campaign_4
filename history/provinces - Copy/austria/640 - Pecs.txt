@@ -1,0 +1,12 @@
+owner=RUM
+controller=RUM
+add_core=RUM
+trade_goods = cattle
+life_rating = 35
+fort = 1
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

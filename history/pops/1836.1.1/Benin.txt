@@ -1,0 +1,281 @@
+1919 = {
+	slaves=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 35891
+	}
+
+	soldiers=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 4023
+	}
+
+	artisans=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 20114
+	}
+
+	clergymen=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 934
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 259
+	}
+
+	officers=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 302
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 1810
+	}
+
+	farmers=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 80338
+	}
+
+}
+1920 = {
+	slaves=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 12175
+	}
+
+	soldiers=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 6824
+	}
+
+	artisans=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 10967
+	}
+
+	clergymen=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 792
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 341
+	}
+
+	officers=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 195
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 1024
+	}
+
+	farmers=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 89536
+	}
+
+}
+1921 = {
+	slaves=
+	{
+		culture = bambara
+		religion = sunni
+		size= 436
+	}
+
+	soldiers=
+	{
+		culture = bambara
+		religion = sunni
+		size= 96
+	}
+
+	artisans=
+	{
+		culture = bambara
+		religion = sunni
+		size= 675
+	}
+
+	clergymen=
+	{
+		culture = bambara
+		religion = sunni
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = bambara
+		religion = sunni
+		size= 12
+	}
+
+	officers=
+	{
+		culture = bambara
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = bambara
+		religion = sunni
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = bambara
+		religion = sunni
+		size= 3490
+	}
+
+	slaves=
+	{
+		culture = dynamic-yorumba-culture-num1
+		religion = sunni
+		size= 610
+	}
+
+	soldiers=
+	{
+		culture = dynamic-yorumba-culture-num1
+		religion = sunni
+		size= 135
+	}
+
+	artisans=
+	{
+		culture = dynamic-yorumba-culture-num1
+		religion = sunni
+		size= 946
+	}
+
+	clergymen=
+	{
+		culture = dynamic-yorumba-culture-num1
+		religion = sunni
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-yorumba-culture-num1
+		religion = sunni
+		size= 16
+	}
+
+	officers=
+	{
+		culture = dynamic-yorumba-culture-num1
+		religion = sunni
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-yorumba-culture-num1
+		religion = sunni
+		size= 113
+	}
+
+	farmers=
+	{
+		culture = dynamic-yorumba-culture-num1
+		religion = sunni
+		size= 4885
+	}
+
+}
+1922 = {
+	soldiers=
+	{
+		culture = fon
+		religion = sunni
+		size= 138
+	}
+
+	artisans=
+	{
+		culture = fon
+		religion = sunni
+		size= 277
+	}
+
+	clergymen=
+	{
+		culture = fon
+		religion = sunni
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = fon
+		religion = sunni
+		size= 17
+	}
+
+	officers=
+	{
+		culture = fon
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = fon
+		religion = sunni
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = fon
+		religion = sunni
+		size= 6382
+	}
+
+}

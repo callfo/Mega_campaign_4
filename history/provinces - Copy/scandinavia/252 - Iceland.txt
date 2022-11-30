@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=ENG
+add_core=ICL
+add_core=SCA
+trade_goods = fish
+life_rating = 32
+naval_base = 1

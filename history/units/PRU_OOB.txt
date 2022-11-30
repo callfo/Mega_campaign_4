@@ -1,0 +1,773 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = 153
+	influence_value = 25
+	level = 3
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = -41
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 6
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 157
+	influence_value = 26
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 38
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 4
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = -37
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 8
+	level = 2
+}
+MEC = {
+	value = -66
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 16
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = -9
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RUM = {
+	value = -7
+	level = 2
+}
+RUS = {
+	value = 1
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = -15
+	level = 2
+}
+SLZ = {
+	value = 43
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = -84
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 178
+	influence_value = 32
+	level = 4
+}
+TUN = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 41
+	level = 2
+}
+X00 = {
+	value = -255
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 16
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = -99
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = -51
+	level = 2
+}
+X11 = {
+	value = -5
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 45
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Urs von Plothow"
+	date="1811.7.5"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Philipp Below"
+	date="1811.12.24"
+	type=land
+	personality="persistant"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ferdinand Truxes"
+	date="1816.7.1"
+	type=land
+	personality="resolute"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Friedrich Wilhelm Treskaw"
+	date="1820.12.7"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Helmut Finck"
+	date="1826.11.11"
+	type=land
+	personality="audacious"
+	background="school_of_defense"
+}
+
+
+#Armies
+army = {
+	name="Armee von Glogau"
+	location=694
+	regiment = {
+		name="1st Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="1st Elbing Infantry"
+		type=infantry
+		home=693
+	}
+	regiment = {
+		name="1st Posen Infantry"
+		type=infantry
+		home=699
+	}
+	regiment = {
+		name="2nd Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="1st Teschen Artillery"
+		type=artillery
+		home=689
+	}
+	regiment = {
+		name="1st Gniezno Artillery"
+		type=artillery
+		home=701
+	}
+	regiment = {
+		name="1st Berlin Artillery"
+		type=artillery
+		home=549
+	}
+	regiment = {
+		name="1st Görlitz Artillery"
+		type=artillery
+		home=687
+	}
+	regiment = {
+		name="1st Olomouc Artillery"
+		type=artillery
+		home=632
+	}
+	regiment = {
+		name="2nd Teschen Artillery"
+		type=artillery
+		home=689
+	}
+}
+
+army = {
+	name="Armee von Ruppin"
+	location=717
+	regiment = {
+		name="1st Olomouc Infantry"
+		type=infantry
+		home=632
+	}
+	regiment = {
+		name="1st Breslau Infantry"
+		type=infantry
+		home=682
+	}
+	regiment = {
+		name="1st Cottbus Infantry"
+		type=infantry
+		home=552
+	}
+	regiment = {
+		name="1st Bromberg Infantry"
+		type=infantry
+		home=700
+	}
+	regiment = {
+		name="1st Breslau Artillery"
+		type=artillery
+		home=682
+	}
+	regiment = {
+		name="2nd Olomouc Artillery"
+		type=artillery
+		home=632
+	}
+	regiment = {
+		name="2nd Görlitz Artillery"
+		type=artillery
+		home=687
+	}
+	regiment = {
+		name="1st Pritzwalk Artillery"
+		type=artillery
+		home=551
+	}
+	regiment = {
+		name="2nd Berlin Artillery"
+		type=artillery
+		home=549
+	}
+	regiment = {
+		name="3rd Teschen Artillery"
+		type=artillery
+		home=689
+	}
+	regiment = {
+		name="3rd Berlin Artillery"
+		type=artillery
+		home=549
+	}
+	regiment = {
+		name="2nd Elbing Infantry"
+		type=infantry
+		home=693
+	}
+	regiment = {
+		name="3rd Görlitz Artillery"
+		type=artillery
+		home=687
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=680
+	ship = {
+		name="Carolus Secundus"
+		type=frigate
+	}
+	ship = {
+		name="Chur Prinz"
+		type=frigate
+	}
+	ship = {
+		name="Dorothea"
+		type=frigate
+	}
+	ship = {
+		name="Friedrich Wilhelm zu Pferde"
+		type=frigate
+	}
+	ship = {
+		name="Goldener Löwe"
+		type=frigate
+	}
+	ship = {
+		name="Kurprinz von Brandenburg"
+		type=frigate
+	}
+	ship = {
+		name="Wappen von Brandenburg"
+		type=frigate
+	}
+}
+
+army = {
+	name="Königliche Armee"
+	location=708
+	regiment = {
+		name="1st Prenzlau Infantry"
+		type=infantry
+		home=550
+	}
+	regiment = {
+		name="1st Gniezno Infantry"
+		type=infantry
+		home=701
+	}
+	regiment = {
+		name="2nd Bromberg Infantry"
+		type=infantry
+		home=700
+	}
+	regiment = {
+		name="1st Tuchel Artillery"
+		type=artillery
+		home=691
+	}
+	regiment = {
+		name="1st Posen Artillery"
+		type=artillery
+		home=699
+	}
+	regiment = {
+		name="2nd Gniezno Artillery"
+		type=artillery
+		home=701
+	}
+	regiment = {
+		name="1st Skierniewice Artillery"
+		type=artillery
+		home=710
+	}
+	regiment = {
+		name="2nd Tuchel Artillery"
+		type=artillery
+		home=691
+	}
+	regiment = {
+		name="1st Bromberg Artillery"
+		type=artillery
+		home=700
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=701
+	regiment = {
+		name="2nd Posen Infantry"
+		type=infantry
+		home=699
+	}
+	regiment = {
+		name="3rd Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="1st Pritzwalk Infantry"
+		type=infantry
+		home=551
+	}
+	regiment = {
+		name="1st Prenzlau Artillery"
+		type=artillery
+		home=550
+	}
+	regiment = {
+		name="1st Elbing Artillery"
+		type=artillery
+		home=693
+	}
+	regiment = {
+		name="2nd Prenzlau Artillery"
+		type=artillery
+		home=550
+	}
+	regiment = {
+		name="1st Deutsch Krone Artillery"
+		type=artillery
+		home=692
+	}
+	regiment = {
+		name="3rd Cottbus Infantry"
+		type=infantry
+		home=552
+	}
+}
+
+army = {
+	name="1st Army"
+	location=694
+	regiment = {
+		name="1st Görlitz Infantry"
+		type=infantry
+		home=687
+	}
+	regiment = {
+		name="2nd Cottbus Infantry"
+		type=infantry
+		home=552
+	}
+	regiment = {
+		name="2nd Breslau Infantry"
+		type=infantry
+		home=682
+	}
+}
+
+army = {
+	name="11th Army"
+	location=717
+	regiment = {
+		name="1st Neustrelitz Infantry"
+		type=infantry
+		home=545
+	}
+	regiment = {
+		name="2nd Breslau Artillery"
+		type=artillery
+		home=682
+	}
+	regiment = {
+		name="1st Tuchel Infantry"
+		type=infantry
+		home=691
+	}
+	regiment = {
+		name="3rd Gniezno Artillery"
+		type=artillery
+		home=701
+	}
+}
+
+army = {
+	name="4th Army"
+	location=710
+	regiment = {
+		name="2nd Neustrelitz Infantry"
+		type=infantry
+		home=545
+	}
+	regiment = {
+		name="4th Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="2nd Görlitz Infantry"
+		type=infantry
+		home=687
+	}
+	regiment = {
+		name="2nd Pritzwalk Infantry"
+		type=infantry
+		home=551
+	}
+	regiment = {
+		name="1st Deutsch Krone Infantry"
+		type=infantry
+		home=692
+	}
+	regiment = {
+		name="2nd Pritzwalk Artillery"
+		type=artillery
+		home=551
+	}
+	regiment = {
+		name="2nd Posen Artillery"
+		type=artillery
+		home=699
+	}
+	regiment = {
+		name="3rd Breslau Artillery"
+		type=artillery
+		home=682
+	}
+	regiment = {
+		name="4th Berlin Artillery"
+		type=artillery
+		home=549
+	}
+	regiment = {
+		name="5th Berlin Artillery"
+		type=artillery
+		home=549
+	}
+	regiment = {
+		name="2nd Prenzlau Infantry"
+		type=infantry
+		home=550
+	}
+	regiment = {
+		name="1st Cottbus Artillery"
+		type=artillery
+		home=552
+	}
+}
+
+navy = {
+	name="Ost See Squadron"
+	location=2711
+	ship = {
+		name="Morian"
+		type=frigate
+	}
+	ship = {
+		name="Rother Löwe"
+		type=frigate
+	}
+	ship = {
+		name="Adler"
+		type=frigate
+	}
+}
+

@@ -1,0 +1,362 @@
+916 = {
+	soldiers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 835
+	}
+
+	artisans=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 2038
+	}
+
+	clergymen=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 40
+	}
+
+	officers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 376
+	}
+
+	farmers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 10522
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 925
+	}
+
+}
+917 = {
+	soldiers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 1344
+	}
+
+	clergymen=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 186
+	}
+
+	bureaucrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 49
+	}
+
+	officers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 458
+	}
+
+	farmers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 14123
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 875
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 1175
+	}
+
+}
+918 = {
+	soldiers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 656
+	}
+
+	artisans=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 1641
+	}
+
+	clergymen=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 32
+	}
+
+	officers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 295
+	}
+
+	farmers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 8993
+	}
+
+}
+919 = {
+	soldiers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 716
+	}
+
+	artisans=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 1490
+	}
+
+	clergymen=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 35
+	}
+
+	officers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 322
+	}
+
+	farmers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 8135
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 1675
+	}
+
+}
+920 = {
+	soldiers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 228
+	}
+
+	artisans=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 1026
+	}
+
+	clergymen=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 26
+	}
+
+	officers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 9858
+	}
+
+}
+921 = {
+	soldiers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 620
+	}
+
+	artisans=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 335
+	}
+
+	clergymen=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 23
+	}
+
+	officers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 211
+	}
+
+	farmers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 7056
+	}
+
+}

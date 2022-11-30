@@ -1,0 +1,1183 @@
+1794 = {
+	slaves=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 11884
+	}
+
+	soldiers=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 4159
+	}
+
+	artisans=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 2971
+	}
+
+	clergymen=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 483
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 178
+	}
+
+	officers=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 119
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 1248
+	}
+
+	farmers=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 53231
+	}
+
+}
+1795 = {
+	slaves=
+	{
+		culture = mande
+		religion = shamanism
+		size= 2585
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 905
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = shamanism
+		size= 2261
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = shamanism
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 39
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 271
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 9961
+	}
+
+	slaves=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 5169
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 4523
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 210
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 77
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 543
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 17600
+	}
+
+}
+1796 = {
+	slaves=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 10472
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 4887
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 227
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 70
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 586
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 11405
+	}
+
+}
+1797 = {
+	slaves=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 11193
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 4962
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 230
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 71
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 298
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 17628
+	}
+
+}
+1798 = {
+	slaves=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 6088
+	}
+
+	soldiers=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 4213
+	}
+
+	artisans=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 3009
+	}
+
+	clergymen=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 489
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 181
+	}
+
+	officers=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 120
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 948
+	}
+
+	farmers=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 60185
+	}
+
+}
+1799 = {
+	slaves=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 14156
+	}
+
+	soldiers=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 881
+	}
+
+	artisans=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 6165
+	}
+
+	clergymen=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 286
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 88
+	}
+
+	officers=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 370
+	}
+
+	farmers=
+	{
+		culture = dynamic-mali-soninke-culture-num1
+		religion = shamanism
+		size= 22054
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = shamanism
+		size= 12976
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 807
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = shamanism
+		size= 5651
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = shamanism
+		size= 262
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 81
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 339
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 20217
+	}
+
+}
+1800 = {
+	slaves=
+	{
+		culture = mande
+		religion = shamanism
+		size= 20794
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 6759
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = shamanism
+		size= 4828
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = shamanism
+		size= 785
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 241
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 193
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 2028
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 85074
+	}
+
+}
+1801 = {
+	slaves=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 5575
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 1189
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 193
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 71
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = shamanism
+		size= 18273
+	}
+
+}
+1802 = {
+	slaves=
+	{
+		culture = mande
+		religion = shamanism
+		size= 11634
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 4892
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = shamanism
+		size= 3494
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = shamanism
+		size= 568
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 175
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 140
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 1712
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 64737
+	}
+
+}
+1803 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 15355
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 5978
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 9097
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 422
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 208
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 156
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 1637
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 32126
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = catholic
+		size= 7382
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = catholic
+		size= 2874
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = catholic
+		size= 4374
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = catholic
+		size= 203
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = catholic
+		size= 100
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = catholic
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = catholic
+		size= 787
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = catholic
+		size= 15445
+	}
+
+}
+1804 = {
+	slaves=
+	{
+		culture = bambara
+		religion = shamanism
+		size= 8521
+	}
+
+	soldiers=
+	{
+		culture = bambara
+		religion = shamanism
+		size= 5931
+	}
+
+	artisans=
+	{
+		culture = bambara
+		religion = shamanism
+		size= 9531
+	}
+
+	clergymen=
+	{
+		culture = bambara
+		religion = shamanism
+		size= 689
+	}
+
+	bureaucrats=
+	{
+		culture = bambara
+		religion = shamanism
+		size= 339
+	}
+
+	officers=
+	{
+		culture = bambara
+		religion = shamanism
+		size= 169
+	}
+
+	aristocrats=
+	{
+		culture = bambara
+		religion = shamanism
+		size= 2670
+	}
+
+	farmers=
+	{
+		culture = bambara
+		religion = shamanism
+		size= 78056
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = shamanism
+		size= 1385
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 964
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = shamanism
+		size= 1549
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = shamanism
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 55
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 434
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 12683
+	}
+
+}
+1805 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 5968
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 2869
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 4365
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 203
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 100
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 786
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 16816
+	}
+
+	slaves=
+	{
+		culture = bambara
+		religion = catholic
+		size= 3623
+	}
+
+	soldiers=
+	{
+		culture = bambara
+		religion = catholic
+		size= 1742
+	}
+
+	artisans=
+	{
+		culture = bambara
+		religion = catholic
+		size= 2650
+	}
+
+	clergymen=
+	{
+		culture = bambara
+		religion = catholic
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = bambara
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = bambara
+		religion = catholic
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = bambara
+		religion = catholic
+		size= 477
+	}
+
+	farmers=
+	{
+		culture = bambara
+		religion = catholic
+		size= 10211
+	}
+
+	slaves=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = catholic
+		size= 2984
+	}
+
+	soldiers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = catholic
+		size= 1434
+	}
+
+	artisans=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = catholic
+		size= 2183
+	}
+
+	clergymen=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = catholic
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = catholic
+		size= 50
+	}
+
+	officers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = catholic
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = catholic
+		size= 393
+	}
+
+	farmers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = catholic
+		size= 8409
+	}
+
+}
+1807 = {
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 319
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 863
+	}
+
+	soldiers=
+	{
+		culture = songhai
+		religion = catholic
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = songhai
+		religion = catholic
+		size= 142
+	}
+
+	clergymen=
+	{
+		culture = songhai
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = songhai
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = songhai
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = songhai
+		religion = catholic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = songhai
+		religion = catholic
+		size= 785
+	}
+
+}
+2609 = {
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 241
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 600
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 3369
+	}
+
+}

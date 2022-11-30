@@ -1,0 +1,6 @@
+owner=PRU
+controller=X05
+add_core=LUZ
+add_core=WSF
+trade_goods = cattle
+life_rating = 40

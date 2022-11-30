@@ -1,0 +1,6 @@
+owner=RUS
+controller=RUS
+add_core=LUZ
+add_core=WSF
+trade_goods = grain
+life_rating = 35

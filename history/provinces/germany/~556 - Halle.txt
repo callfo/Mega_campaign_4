@@ -1,0 +1,8 @@
+owner=HAN
+controller=HAN
+add_core=BAV
+add_core=HAN
+add_core=LUZ
+add_core=WSF
+trade_goods = fruit
+life_rating = 40

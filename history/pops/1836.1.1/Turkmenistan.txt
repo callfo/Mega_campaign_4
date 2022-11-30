@@ -1,0 +1,402 @@
+686 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = hindu
+		size= 177
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = hindu
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = hindu
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = hindu
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 982
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 147
+	}
+
+	artisans=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 446
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 2478
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-oghuz-culture-num1
+		religion = hindu
+		size= 94
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-oghuz-culture-num1
+		religion = hindu
+		size= 287
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-oghuz-culture-num1
+		religion = hindu
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-oghuz-culture-num1
+		religion = hindu
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-oghuz-culture-num1
+		religion = hindu
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-oghuz-culture-num1
+		religion = hindu
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-oghuz-culture-num1
+		religion = hindu
+		size= 1590
+	}
+
+	soldiers=
+	{
+		culture = persian
+		religion = hindu
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = hindu
+		size= 228
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = hindu
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 3
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = hindu
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = hindu
+		size= 1262
+	}
+
+}
+1196 = {
+	soldiers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 236
+	}
+
+	artisans=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 1654
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 22
+	}
+
+	officers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 9705
+	}
+
+}
+1204 = {
+	soldiers=
+	{
+		culture = persian
+		religion = hindu
+		size= 927
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = hindu
+		size= 4633
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = hindu
+		size= 248
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 17
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = hindu
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 649
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = hindu
+		size= 26568
+	}
+
+}
+1205 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 205
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = hindu
+		size= 658
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = hindu
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = hindu
+		size= 4
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = hindu
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = hindu
+		size= 6313
+	}
+
+}
+1206 = {
+	soldiers=
+	{
+		culture = dynamic-tajik-oghuz-culture-num1
+		religion = hindu
+		size= 708
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-oghuz-culture-num1
+		religion = hindu
+		size= 3540
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-oghuz-culture-num1
+		religion = hindu
+		size= 190
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-oghuz-culture-num1
+		religion = hindu
+		size= 23
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-oghuz-culture-num1
+		religion = hindu
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-oghuz-culture-num1
+		religion = hindu
+		size= 425
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-oghuz-culture-num1
+		religion = hindu
+		size= 20358
+	}
+
+}

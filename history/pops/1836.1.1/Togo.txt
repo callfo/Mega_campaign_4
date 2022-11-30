@@ -1,0 +1,167 @@
+1914 = {
+	slaves=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 6514
+	}
+
+	soldiers=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 1407
+	}
+
+	artisans=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 7036
+	}
+
+	clergymen=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 327
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 90
+	}
+
+	officers=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 106
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 633
+	}
+
+	farmers=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 34141
+	}
+
+}
+1917 = {
+	slaves=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 1779
+	}
+
+	soldiers=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 1594
+	}
+
+	artisans=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 2562
+	}
+
+	clergymen=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 185
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 80
+	}
+
+	officers=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 239
+	}
+
+	farmers=
+	{
+		culture = dynamic-berber-culture-num2
+		religion = sunni
+		size= 21982
+	}
+
+}
+1918 = {
+	soldiers=
+	{
+		culture = fon
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = fon
+		religion = sunni
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = fon
+		religion = sunni
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = fon
+		religion = sunni
+		size= 12
+	}
+
+	officers=
+	{
+		culture = fon
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = fon
+		religion = sunni
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = fon
+		religion = sunni
+		size= 4620
+	}
+
+}

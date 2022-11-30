@@ -1,0 +1,109 @@
+2241 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 3456
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 82
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 163
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 301
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 649
+	}
+
+}

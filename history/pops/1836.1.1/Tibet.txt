@@ -1,0 +1,658 @@
+1587 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 877
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1659
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 20
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 199
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 8918
+	}
+
+	soldiers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 512
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 968
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 12
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 5201
+	}
+
+	soldiers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 2060
+	}
+
+	artisans=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 3899
+	}
+
+	clergymen=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 363
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 47
+	}
+
+	officers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 468
+	}
+
+	farmers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 20957
+	}
+
+}
+1588 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 427
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 807
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 10
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 4340
+	}
+
+	soldiers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 249
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 471
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 6
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 2530
+	}
+
+	soldiers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 1003
+	}
+
+	artisans=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 1897
+	}
+
+	clergymen=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 175
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 22
+	}
+
+	officers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 227
+	}
+
+	farmers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 10200
+	}
+
+}
+1589 = {
+	soldiers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 224
+	}
+
+	artisans=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 1561
+	}
+
+	clergymen=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 10
+	}
+
+	officers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 188
+	}
+
+	farmers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 9086
+	}
+
+}
+1590 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 564
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1068
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 13
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 5737
+	}
+
+	soldiers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 329
+	}
+
+	artisans=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 623
+	}
+
+	clergymen=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 8
+	}
+
+	officers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = nanfaren
+		religion = gelugpa
+		size= 3346
+	}
+
+	soldiers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 1325
+	}
+
+	artisans=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 2509
+	}
+
+	clergymen=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 234
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 30
+	}
+
+	officers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 301
+	}
+
+	farmers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 13484
+	}
+
+}
+1591 = {
+	slaves=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 559
+	}
+
+	soldiers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 579
+	}
+
+	clergymen=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 2804
+	}
+
+}
+1592 = {
+	soldiers=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 25833
+	}
+
+	artisans=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 1246
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 233
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 84
+	}
+
+	officers=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 523
+	}
+
+	farmers=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 3169
+	}
+
+}
+1593 = {
+	soldiers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 3462
+	}
+
+	artisans=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 5268
+	}
+
+	clergymen=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 245
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 49
+	}
+
+	officers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 90
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 737
+	}
+
+	farmers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 27779
+	}
+
+}

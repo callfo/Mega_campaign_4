@@ -1,0 +1,6 @@
+owner=ENG
+controller=ENG
+add_core=ABO
+trade_goods = wool
+life_rating = 33
+naval_base = 1

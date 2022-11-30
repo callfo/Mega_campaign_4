@@ -1,0 +1,158 @@
+676 = {
+	soldiers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 2346
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 6180
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 487
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 121
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 182
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 2905
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 65861
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = orthodox
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1600
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+}
+677 = {
+	soldiers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 2257
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 5695
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 466
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 117
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 175
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 2798
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 62408
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = orthodox
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+}

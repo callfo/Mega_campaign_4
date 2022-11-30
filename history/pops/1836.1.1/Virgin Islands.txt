@@ -1,0 +1,58 @@
+2223 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 948
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 61
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 435
+	}
+
+}

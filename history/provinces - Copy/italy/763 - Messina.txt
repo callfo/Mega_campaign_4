@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=ENG
+add_core=ITA
+add_core=SIC
+trade_goods = sulphur
+life_rating = 40
+fort = 1

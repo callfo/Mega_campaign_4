@@ -1,0 +1,6 @@
+owner=MLC
+controller=ENG
+add_core=JAV
+trade_goods = sulphur
+life_rating = 35
+naval_base = 2

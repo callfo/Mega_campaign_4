@@ -1,0 +1,11 @@
+owner=MOR
+controller=MOR
+add_core=MOR
+trade_goods = fruit
+life_rating = 10
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

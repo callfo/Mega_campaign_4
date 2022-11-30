@@ -1,0 +1,5 @@
+owner = MNX
+controller = MNX
+trade_goods = fish
+life_rating = 32
+add_core = MNX

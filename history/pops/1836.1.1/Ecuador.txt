@@ -1,0 +1,364 @@
+2279 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 7301
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 4299
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 10748
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 499
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 154
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 123
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 645
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 52999
+	}
+
+}
+2280 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 3258
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 1167
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 834
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 58
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 263
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 15091
+	}
+
+}
+2281 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 10146
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 342
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 2393
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 144
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 3898
+	}
+
+}
+2282 = {
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 820
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 5741
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 267
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 131
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 689
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 33323
+	}
+
+}
+2283 = {
+	soldiers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 1742
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 283
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 105
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 366
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 36809
+	}
+
+}
+2284 = {
+	soldiers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 156
+	}
+
+	artisans=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 1091
+	}
+
+	clergymen=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 6404
+	}
+
+}
+2285 = {
+	soldiers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 61
+	}
+
+}

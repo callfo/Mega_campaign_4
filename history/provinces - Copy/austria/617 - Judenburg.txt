@@ -1,0 +1,5 @@
+owner = BAV
+controller = BAV
+add_core = GER
+trade_goods = iron
+life_rating = 35

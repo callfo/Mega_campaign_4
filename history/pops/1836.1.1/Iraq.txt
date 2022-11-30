@@ -1,0 +1,738 @@
+923 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 520
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 6617
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 10070
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 935
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 158
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 209
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 1208
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 52210
+	}
+
+}
+924 = {
+	soldiers=
+	{
+		culture = assyrian
+		religion = sunni
+		size= 616
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = sunni
+		size= 4310
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = sunni
+		size= 400
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = sunni
+		size= 80
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = sunni
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = sunni
+		size= 690
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = sunni
+		size= 24651
+	}
+
+}
+925 = {
+	soldiers=
+	{
+		culture = assyrian
+		religion = sunni
+		size= 2294
+	}
+
+	artisans=
+	{
+		culture = assyrian
+		religion = sunni
+		size= 3490
+	}
+
+	clergymen=
+	{
+		culture = assyrian
+		religion = sunni
+		size= 324
+	}
+
+	bureaucrats=
+	{
+		culture = assyrian
+		religion = sunni
+		size= 55
+	}
+
+	officers=
+	{
+		culture = assyrian
+		religion = sunni
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = assyrian
+		religion = sunni
+		size= 489
+	}
+
+	farmers=
+	{
+		culture = assyrian
+		religion = sunni
+		size= 18207
+	}
+
+	soldiers=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 1931
+	}
+
+	artisans=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 2939
+	}
+
+	clergymen=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 273
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 46
+	}
+
+	officers=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 411
+	}
+
+	farmers=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 15333
+	}
+
+}
+926 = {
+	slaves=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 1072
+	}
+
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 6269
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 847
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 131
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 211
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 1835
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 51194
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 3925
+	}
+
+}
+927 = {
+	soldiers=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 1093
+	}
+
+	artisans=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 1663
+	}
+
+	clergymen=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 26
+	}
+
+	officers=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 399
+	}
+
+	farmers=
+	{
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 8508
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 1121
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 1705
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 158
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 27
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 409
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 8726
+	}
+
+}
+928 = {
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 2021
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 3076
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 286
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 40
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 738
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 15746
+	}
+
+}
+929 = {
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 5320
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 494
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 68
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 638
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 30398
+	}
+
+}
+930 = {
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 2406
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 3662
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 340
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 47
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 879
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 18745
+	}
+
+}
+931 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 170
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 259
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 1325
+	}
+
+}
+932 = {
+	soldiers=
+	{
+		culture = dynamic-bedouin_arabic-oghuz-culture-num1
+		religion = sunni
+		size= 751
+	}
+
+	artisans=
+	{
+		culture = dynamic-bedouin_arabic-oghuz-culture-num1
+		religion = sunni
+		size= 1503
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bedouin_arabic-oghuz-culture-num1
+		religion = sunni
+		size= 488
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bedouin_arabic-oghuz-culture-num1
+		religion = sunni
+		size= 68
+	}
+
+	officers=
+	{
+		culture = dynamic-bedouin_arabic-oghuz-culture-num1
+		religion = sunni
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bedouin_arabic-oghuz-culture-num1
+		religion = sunni
+		size= 947
+	}
+
+	farmers=
+	{
+		culture = dynamic-bedouin_arabic-oghuz-culture-num1
+		religion = sunni
+		size= 33762
+	}
+
+}
+933 = {
+	soldiers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 5502
+	}
+
+	clergymen=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 511
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 71
+	}
+
+	officers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 660
+	}
+
+	farmers=
+	{
+		culture = dynamic-al_suryah_arabic-culture-num1
+		religion = sunni
+		size= 31473
+	}
+
+}
+934 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 548
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 1370
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 127
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 18
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 164
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 7537
+	}
+
+}

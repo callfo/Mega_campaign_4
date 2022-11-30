@@ -1,0 +1,116 @@
+1955 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = protestant
+		size= 537
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = protestant
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = protestant
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = protestant
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = protestant
+		size= 4
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = protestant
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = protestant
+		size= 1242
+	}
+
+}
+1973 = {
+	slaves=
+	{
+		culture = fang
+		religion = shamanism
+		size= 399
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 286
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 1145
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 215
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 57
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 241
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 26257
+	}
+
+}

@@ -1,0 +1,5 @@
+trade_goods = fish
+life_rating = 25
+terrain = semidesert
+fort = 1
+add_core = RUS

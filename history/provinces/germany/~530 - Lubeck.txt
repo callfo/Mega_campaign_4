@@ -1,0 +1,9 @@
+owner=HAN
+controller=HAN
+add_core=HAN
+add_core=LUZ
+add_core=WSF
+trade_goods = fish
+life_rating = 40
+naval_base = 1
+fort = 1

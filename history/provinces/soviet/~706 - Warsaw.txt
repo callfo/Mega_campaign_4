@@ -1,0 +1,6 @@
+owner=MAZ
+controller=MAZ
+add_core=MAZ
+trade_goods = cattle
+life_rating = 40
+fort = 1

@@ -1,0 +1,7 @@
+owner=X00
+controller=X00
+add_core=BEL
+add_core=FLA
+add_core=X00
+trade_goods = wool
+life_rating = 35

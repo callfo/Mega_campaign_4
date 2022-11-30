@@ -1,0 +1,7 @@
+owner=CEQ
+controller=CEQ
+add_core=BRZ
+add_core=CEQ
+trade_goods = cattle
+life_rating = 31
+terrain = new_world_semidesert

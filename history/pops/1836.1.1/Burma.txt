@@ -1,0 +1,1460 @@
+1330 = {
+	slaves=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 2435
+	}
+
+	soldiers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 1600
+	}
+
+	artisans=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 2435
+	}
+
+	clergymen=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 226
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 37
+	}
+
+	officers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 390
+	}
+
+	farmers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 10226
+	}
+
+	slaves=
+	{
+		culture = burmese
+		religion = hindu
+		size= 5727
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = hindu
+		size= 3762
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = hindu
+		size= 5727
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = hindu
+		size= 531
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = hindu
+		size= 86
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = hindu
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = hindu
+		size= 916
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = hindu
+		size= 24054
+	}
+
+	slaves=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 2390
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 1570
+	}
+
+	artisans=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 2390
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 222
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 36
+	}
+
+	officers=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 382
+	}
+
+	farmers=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 10037
+	}
+
+}
+1331 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = hindu
+		size= 549
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = hindu
+		size= 1099
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = hindu
+		size= 179
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = hindu
+		size= 25
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = hindu
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = hindu
+		size= 615
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = hindu
+		size= 24974
+	}
+
+}
+1332 = {
+	slaves=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 4870
+	}
+
+	soldiers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 2849
+	}
+
+	artisans=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 4336
+	}
+
+	clergymen=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 403
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 65
+	}
+
+	officers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 694
+	}
+
+	farmers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 17680
+	}
+
+	slaves=
+	{
+		culture = burmese
+		religion = hindu
+		size= 11452
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = hindu
+		size= 6701
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = hindu
+		size= 10197
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = hindu
+		size= 947
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = hindu
+		size= 153
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = hindu
+		size= 175
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = hindu
+		size= 1632
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = hindu
+		size= 41581
+	}
+
+	slaves=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 4779
+	}
+
+	soldiers=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 2797
+	}
+
+	artisans=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 4256
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 395
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 64
+	}
+
+	officers=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 681
+	}
+
+	farmers=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 17352
+	}
+
+}
+1333 = {
+	soldiers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 7627
+	}
+
+	artisans=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 11605
+	}
+
+	clergymen=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 1078
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 174
+	}
+
+	officers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 199
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 2089
+	}
+
+	farmers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 60126
+	}
+
+}
+1334 = {
+	slaves=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 5966
+	}
+
+	soldiers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 5881
+	}
+
+	artisans=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 8949
+	}
+
+	clergymen=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 831
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 134
+	}
+
+	officers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 153
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 1611
+	}
+
+	farmers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 40394
+	}
+
+}
+1335 = {
+	slaves=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 4890
+	}
+
+	soldiers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 11537
+	}
+
+	artisans=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 17558
+	}
+
+	clergymen=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 1631
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 263
+	}
+
+	officers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 302
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 3161
+	}
+
+	farmers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 86069
+	}
+
+}
+1336 = {
+	soldiers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 2904
+	}
+
+	artisans=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 4419
+	}
+
+	clergymen=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 411
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 66
+	}
+
+	officers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 619
+	}
+
+	farmers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 23076
+	}
+
+}
+1337 = {
+	soldiers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 5809
+	}
+
+	artisans=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 8840
+	}
+
+	clergymen=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 821
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 132
+	}
+
+	officers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 152
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 1238
+	}
+
+	farmers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 46150
+	}
+
+}
+1338 = {
+	slaves=
+	{
+		culture = shan
+		religion = hindu
+		size= 6447
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = hindu
+		size= 2505
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = hindu
+		size= 6263
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = hindu
+		size= 582
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = hindu
+		size= 76
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = hindu
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = hindu
+		size= 1128
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = hindu
+		size= 27666
+	}
+
+	slaves=
+	{
+		culture = shan
+		religion = theravada
+		size= 5742
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = theravada
+		size= 2231
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = theravada
+		size= 5578
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = theravada
+		size= 518
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 68
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = theravada
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = theravada
+		size= 1004
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = theravada
+		size= 24641
+	}
+
+	slaves=
+	{
+		culture = shan
+		religion = animist
+		size= 3324
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = animist
+		size= 1292
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = animist
+		size= 3230
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = animist
+		size= 300
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = animist
+		size= 39
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = animist
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = animist
+		size= 581
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = animist
+		size= 14266
+	}
+
+}
+1339 = {
+	soldiers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 817
+	}
+
+	artisans=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 2042
+	}
+
+	clergymen=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 95
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 19
+	}
+
+	officers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 245
+	}
+
+	farmers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 11345
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = hindu
+		size= 370
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = hindu
+		size= 924
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = hindu
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = hindu
+		size= 9
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = hindu
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = hindu
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = hindu
+		size= 5131
+	}
+
+	soldiers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 875
+	}
+
+	clergymen=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 105
+	}
+
+	farmers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 4862
+	}
+
+}
+1340 = {
+	slaves=
+	{
+		culture = shan
+		religion = hindu
+		size= 3611
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = hindu
+		size= 3560
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = hindu
+		size= 5417
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = hindu
+		size= 251
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = hindu
+		size= 81
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = hindu
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = hindu
+		size= 975
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = hindu
+		size= 24704
+	}
+
+	slaves=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 3659
+	}
+
+	soldiers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 3606
+	}
+
+	artisans=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 5487
+	}
+
+	clergymen=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 254
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 82
+	}
+
+	officers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 94
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 988
+	}
+
+	farmers=
+	{
+		culture = dynamic-burmese-rajput-culture-num1
+		religion = hindu
+		size= 25025
+	}
+
+}
+1341 = {
+	soldiers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 1121
+	}
+
+	artisans=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 7847
+	}
+
+	clergymen=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 729
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 95
+	}
+
+	officers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 549
+	}
+
+	farmers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 45664
+	}
+
+}
+1342 = {
+	slaves=
+	{
+		culture = shan
+		religion = hindu
+		size= 5917
+	}
+
+	soldiers=
+	{
+		culture = shan
+		religion = hindu
+		size= 3347
+	}
+
+	artisans=
+	{
+		culture = shan
+		religion = hindu
+		size= 8367
+	}
+
+	clergymen=
+	{
+		culture = shan
+		religion = hindu
+		size= 388
+	}
+
+	bureaucrats=
+	{
+		culture = shan
+		religion = hindu
+		size= 54
+	}
+
+	officers=
+	{
+		culture = shan
+		religion = hindu
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = shan
+		religion = hindu
+		size= 1004
+	}
+
+	farmers=
+	{
+		culture = shan
+		religion = hindu
+		size= 40595
+	}
+
+	slaves=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 4058
+	}
+
+	soldiers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 2295
+	}
+
+	artisans=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 5738
+	}
+
+	clergymen=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 266
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 37
+	}
+
+	officers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 689
+	}
+
+	farmers=
+	{
+		culture = dynamic-assamese-nepali-culture-num1
+		religion = hindu
+		size= 27834
+	}
+
+}
+1343 = {
+	soldiers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 1807
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = theravada
+		size= 786
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = theravada
+		size= 128
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 33
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = theravada
+		size= 165
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = theravada
+		size= 16679
+	}
+
+	soldiers=
+	{
+		culture = burmese
+		religion = hindu
+		size= 2169
+	}
+
+	artisans=
+	{
+		culture = burmese
+		religion = hindu
+		size= 943
+	}
+
+	clergymen=
+	{
+		culture = burmese
+		religion = hindu
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = burmese
+		religion = hindu
+		size= 40
+	}
+
+	officers=
+	{
+		culture = burmese
+		religion = hindu
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = burmese
+		religion = hindu
+		size= 198
+	}
+
+	farmers=
+	{
+		culture = burmese
+		religion = hindu
+		size= 20015
+	}
+
+}
+1344 = {
+	soldiers=
+	{
+		culture = anglo_saxon
+		religion = protestant
+		size= 2345
+	}
+
+	artisans=
+	{
+		culture = anglo_saxon
+		religion = protestant
+		size= 3350
+	}
+
+	clergymen=
+	{
+		culture = anglo_saxon
+		religion = protestant
+		size= 1089
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_saxon
+		religion = protestant
+		size= 218
+	}
+
+	officers=
+	{
+		culture = anglo_saxon
+		religion = protestant
+		size= 176
+	}
+
+	aristocrats=
+	{
+		culture = anglo_saxon
+		religion = protestant
+		size= 704
+	}
+
+	farmers=
+	{
+		culture = anglo_saxon
+		religion = protestant
+		size= 75872
+	}
+
+}
+1345 = {
+	soldiers=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 886
+	}
+
+	artisans=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 6199
+	}
+
+	clergymen=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 288
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 40
+	}
+
+	officers=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 558
+	}
+
+	farmers=
+	{
+		culture = dynamic-bengali-culture-num1
+		religion = hindu
+		size= 36272
+	}
+
+}

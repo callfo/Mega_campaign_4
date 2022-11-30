@@ -1,0 +1,1405 @@
+#Sphere of Influence
+
+ADE = {
+	value = 87
+	military_access = yes
+	influence_value = 59
+	level = 5
+}
+ADU = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = -9
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 92
+	influence_value = 10
+	level = 2
+}
+BRZ = {
+	value = -9
+	level = 2
+}
+CEQ = {
+	value = -1
+	level = 2
+}
+CHA = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = -10
+	level = 2
+}
+DAI = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+DLH = {
+	value = -13
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -12
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 40
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 30
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 31
+	level = 2
+}
+LAN = {
+	value = 56
+	influence_value = 1
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 40
+	level = 2
+}
+MLC = {
+	value = 34
+	level = 2
+}
+MNA = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+MNX = {
+	value = 120
+	military_access = yes
+	influence_value = 67
+	level = 5
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 28
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = -57
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RUM = {
+	value = 96
+	influence_value = 11
+	level = 3
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = -9
+	level = 2
+}
+SIA = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+SIC = {
+	value = -9
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+SWA = {
+	value = 46
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 79
+	military_access = yes
+	influence_value = 57
+	level = 5
+}
+USA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = -90
+	level = 2
+}
+X04 = {
+	value = 28
+	level = 2
+}
+X05 = {
+	value = -10
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 263
+	military_access = yes
+	influence_value = 103
+	level = 5
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = -12
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = -82
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Mena Baibars"
+	date="1812.5.23"
+	type=sea
+	personality="active_p"
+	background="aristocrat"
+}
+
+leader = {
+	name="Marios Bay"
+	date="1829.8.21"
+	type=land
+	personality="disciplined"
+	background="brownnoser"
+}
+
+
+#Armies
+army = {
+	name="118th Army"
+	location=1870
+	regiment = {
+		name="1st Fayyum Irregulars"
+		type=irregular
+		home=1765
+	}
+	regiment = {
+		name="1st Asyut Irregulars"
+		type=irregular
+		home=1762
+	}
+	regiment = {
+		name="1st Tingzhou Irregulars"
+		type=irregular
+		home=1486
+	}
+	regiment = {
+		name="2nd Tingzhou Irregulars"
+		type=irregular
+		home=1486
+	}
+	regiment = {
+		name="1st Berbera Irregulars"
+		type=irregular
+		home=1873
+	}
+	regiment = {
+		name="1st Suez Irregulars"
+		type=irregular
+		home=1755
+	}
+	regiment = {
+		name="2nd Fayyum Irregulars"
+		type=irregular
+		home=1765
+	}
+	regiment = {
+		name="1st Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="1st Tingzhou Cavalry"
+		type=cavalry
+		home=1486
+	}
+	regiment = {
+		name="1st Minya Artillery"
+		type=artillery
+		home=1764
+	}
+	regiment = {
+		name="1st Hawassa Artillery"
+		type=artillery
+		home=1860
+	}
+	regiment = {
+		name="1st Tingzhou Artillery"
+		type=artillery
+		home=1486
+	}
+	regiment = {
+		name="1st Luxor Artillery"
+		type=artillery
+		home=1767
+	}
+	regiment = {
+		name="7th Dumyat Cavalry"
+		type=cavalry
+		home=1746
+	}
+	regiment = {
+		name="4th Suzhou Artillery"
+		type=artillery
+		home=1539
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1827
+	regiment = {
+		name="3rd Tingzhou Irregulars"
+		type=irregular
+		home=1486
+	}
+	regiment = {
+		name="4th Tingzhou Irregulars"
+		type=irregular
+		home=1486
+	}
+	regiment = {
+		name="5th Tingzhou Irregulars"
+		type=irregular
+		home=1486
+	}
+	regiment = {
+		name="1st Suzhou Irregulars"
+		type=irregular
+		home=1539
+	}
+	regiment = {
+		name="1st Dumyat Cavalry"
+		type=cavalry
+		home=1746
+	}
+	regiment = {
+		name="1st Harer Artillery"
+		type=artillery
+		home=1865
+	}
+	regiment = {
+		name="1st Asyut Artillery"
+		type=artillery
+		home=1762
+	}
+	regiment = {
+		name="1st Ogaden Artillery"
+		type=artillery
+		home=1867
+	}
+	regiment = {
+		name="3rd Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="6th Dumyat Cavalry"
+		type=cavalry
+		home=1746
+	}
+	regiment = {
+		name="4th Fuzhou Artillery"
+		type=artillery
+		home=1482
+	}
+}
+
+army = {
+	name="12th Army"
+	location=2034
+	regiment = {
+		name="1st Sidamo Irregulars"
+		type=irregular
+		home=1864
+	}
+	regiment = {
+		name="1st Sharm al-Shaykh Irregulars"
+		type=irregular
+		home=1757
+	}
+	regiment = {
+		name="2nd Suez Irregulars"
+		type=irregular
+		home=1755
+	}
+	regiment = {
+		name="1st Hawassa Irregulars"
+		type=irregular
+		home=1860
+	}
+	regiment = {
+		name="2nd Dumyat Cavalry"
+		type=cavalry
+		home=1746
+	}
+	regiment = {
+		name="1st Hobyo Artillery"
+		type=artillery
+		home=1871
+	}
+	regiment = {
+		name="2nd Harer Artillery"
+		type=artillery
+		home=1865
+	}
+	regiment = {
+		name="1st Zeyla Artillery"
+		type=artillery
+		home=1874
+	}
+	regiment = {
+		name="1st Debre Tabor Irregulars"
+		type=irregular
+		home=1853
+	}
+	regiment = {
+		name="8th Dumyat Cavalry"
+		type=cavalry
+		home=1746
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1460
+	regiment = {
+		name="2nd Hawassa Irregulars"
+		type=irregular
+		home=1860
+	}
+	regiment = {
+		name="1st Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="2nd Suzhou Irregulars"
+		type=irregular
+		home=1539
+	}
+	regiment = {
+		name="2nd Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="2nd Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="1st Luxor Irregulars"
+		type=irregular
+		home=1767
+	}
+	regiment = {
+		name="1st Bale Irregulars"
+		type=irregular
+		home=1866
+	}
+	regiment = {
+		name="2nd Sharm al-Shaykh Irregulars"
+		type=irregular
+		home=1757
+	}
+	regiment = {
+		name="6th Tingzhou Irregulars"
+		type=irregular
+		home=1486
+	}
+	regiment = {
+		name="1st Bani Suwayf Cavalry"
+		type=cavalry
+		home=1763
+	}
+	regiment = {
+		name="1st Khartoum Cavalry"
+		type=cavalry
+		home=1827
+	}
+	regiment = {
+		name="1st Berbera Artillery"
+		type=artillery
+		home=1873
+	}
+	regiment = {
+		name="1st Asmara Artillery"
+		type=artillery
+		home=1848
+	}
+	regiment = {
+		name="1st Asaita Artillery"
+		type=artillery
+		home=1858
+	}
+	regiment = {
+		name="1st Ankober Artillery"
+		type=artillery
+		home=1859
+	}
+	regiment = {
+		name="1st Debre Markos Artillery"
+		type=artillery
+		home=1855
+	}
+	regiment = {
+		name="1st Hayya Artillery"
+		type=artillery
+		home=1836
+	}
+	regiment = {
+		name="2nd Luxor Artillery"
+		type=artillery
+		home=1767
+	}
+	regiment = {
+		name="2nd Ankober Artillery"
+		type=artillery
+		home=1859
+	}
+	regiment = {
+		name="1st Suzhou Artillery"
+		type=artillery
+		home=1539
+	}
+	regiment = {
+		name="1st Aswan Irregulars"
+		type=irregular
+		home=1766
+	}
+	regiment = {
+		name="2nd Tingzhou Cavalry"
+		type=cavalry
+		home=1486
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=2030
+	regiment = {
+		name="1st Harer Irregulars"
+		type=irregular
+		home=1865
+	}
+	regiment = {
+		name="7th Tingzhou Irregulars"
+		type=irregular
+		home=1486
+	}
+	regiment = {
+		name="1st Dumyat Irregulars"
+		type=irregular
+		home=1746
+	}
+	regiment = {
+		name="3rd Suzhou Irregulars"
+		type=irregular
+		home=1539
+	}
+	regiment = {
+		name="1st Suhaj Artillery"
+		type=artillery
+		home=2559
+	}
+	regiment = {
+		name="1st Aksum Artillery"
+		type=artillery
+		home=1856
+	}
+	regiment = {
+		name="2nd Tingzhou Artillery"
+		type=artillery
+		home=1486
+	}
+	regiment = {
+		name="1st Fuzhou Artillery"
+		type=artillery
+		home=1482
+	}
+	regiment = {
+		name="3rd Ankober Artillery"
+		type=artillery
+		home=1859
+	}
+	regiment = {
+		name="1st Chaozhou Irregulars"
+		type=irregular
+		home=1494
+	}
+	regiment = {
+		name="1st Maoming Artillery"
+		type=artillery
+		home=1495
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1820
+	regiment = {
+		name="2nd Berbera Irregulars"
+		type=irregular
+		home=1873
+	}
+	regiment = {
+		name="3rd Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="1st Baidoa Irregulars"
+		type=irregular
+		home=1869
+	}
+	regiment = {
+		name="1st Bawiti Irregulars"
+		type=irregular
+		home=1759
+	}
+	regiment = {
+		name="3rd Dumyat Cavalry"
+		type=cavalry
+		home=1746
+	}
+	regiment = {
+		name="2nd Suzhou Artillery"
+		type=artillery
+		home=1539
+	}
+	regiment = {
+		name="2nd Fuzhou Artillery"
+		type=artillery
+		home=1482
+	}
+	regiment = {
+		name="2nd Asyut Artillery"
+		type=artillery
+		home=1762
+	}
+	regiment = {
+		name="10th Dumyat Cavalry"
+		type=cavalry
+		home=1746
+	}
+	regiment = {
+		name="1st Laizhou Artillery"
+		type=artillery
+		home=1565
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1870
+	regiment = {
+		name="8th Tingzhou Irregulars"
+		type=irregular
+		home=1486
+	}
+	regiment = {
+		name="2nd Asyut Irregulars"
+		type=irregular
+		home=1762
+	}
+	regiment = {
+		name="4th Suzhou Irregulars"
+		type=irregular
+		home=1539
+	}
+	regiment = {
+		name="1st Fuzhou Irregulars"
+		type=irregular
+		home=1482
+	}
+	regiment = {
+		name="1st Murzuk Irregulars"
+		type=irregular
+		home=1741
+	}
+	regiment = {
+		name="9th Tingzhou Irregulars"
+		type=irregular
+		home=1486
+	}
+	regiment = {
+		name="1st Ogaden Irregulars"
+		type=irregular
+		home=1867
+	}
+	regiment = {
+		name="1st Antalo Artillery"
+		type=artillery
+		home=1857
+	}
+	regiment = {
+		name="3rd Suzhou Artillery"
+		type=artillery
+		home=1539
+	}
+	regiment = {
+		name="1st Wad Madani Artillery"
+		type=artillery
+		home=1828
+	}
+	regiment = {
+		name="1st Yizhou Artillery"
+		type=artillery
+		home=1571
+	}
+	regiment = {
+		name="3rd Fuzhou Artillery"
+		type=artillery
+		home=1482
+	}
+	regiment = {
+		name="2nd Chaozhou Irregulars"
+		type=irregular
+		home=1494
+	}
+	regiment = {
+		name="1st Keren Artillery"
+		type=artillery
+		home=1850
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=1751
+	ship = {
+		name="Al-Qahira"
+		type=manowar
+	}
+	ship = {
+		name="Al-Iskandariyya"
+		type=manowar
+	}
+	ship = {
+		name="Dumyat"
+		type=manowar
+	}
+	ship = {
+		name="Mansura"
+		type=manowar
+	}
+	ship = {
+		name="Tanta"
+		type=manowar
+	}
+	ship = {
+		name="Al-Uqsur"
+		type=manowar
+	}
+	ship = {
+		name="Al-Suyut"
+		type=manowar
+	}
+	ship = {
+		name="Aswan"
+		type=manowar
+	}
+	ship = {
+		name="Al-Fayyum"
+		type=manowar
+	}
+	ship = {
+		name="Khartum"
+		type=manowar
+	}
+	ship = {
+		name="Qusayr"
+		type=manowar
+	}
+	ship = {
+		name="Suways"
+		type=manowar
+	}
+	ship = {
+		name="Minya"
+		type=manowar
+	}
+	ship = {
+		name="4th Zeyla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Suakin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Suakin Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Taizz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mombasa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tanga Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Lamu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Darna Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Matruh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Mombasa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Djibuti Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Akram"
+		type=frigate
+	}
+	ship = {
+		name="Atif"
+		type=frigate
+	}
+	ship = {
+		name="Ayman"
+		type=frigate
+	}
+	ship = {
+		name="Bahir"
+		type=frigate
+	}
+	ship = {
+		name="Fadil"
+		type=frigate
+	}
+	ship = {
+		name="5th Lamu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Tahir"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=1455
+	ship = {
+		name="Fath"
+		type=frigate
+	}
+	ship = {
+		name="Firas"
+		type=frigate
+	}
+	ship = {
+		name="Fawwaz"
+		type=frigate
+	}
+	ship = {
+		name="Ghalib"
+		type=frigate
+	}
+	ship = {
+		name="Hakim"
+		type=frigate
+	}
+	ship = {
+		name="Humam"
+		type=frigate
+	}
+	ship = {
+		name="Jabbar"
+		type=frigate
+	}
+	ship = {
+		name="Jawhar"
+		type=frigate
+	}
+	ship = {
+		name="Kamal"
+		type=frigate
+	}
+	ship = {
+		name="Khalid"
+		type=frigate
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=1751
+	ship = {
+		name="Masud"
+		type=frigate
+	}
+	ship = {
+		name="Mamun"
+		type=frigate
+	}
+	ship = {
+		name="Majid"
+		type=frigate
+	}
+	ship = {
+		name="Mufid"
+		type=frigate
+	}
+	ship = {
+		name="Mukhtar"
+		type=frigate
+	}
+	ship = {
+		name="Thabit"
+		type=frigate
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1701
+	regiment = {
+		name="1st Idfu Irregulars"
+		type=irregular
+		home=1768
+	}
+	regiment = {
+		name="1st Qingzhou Artillery"
+		type=artillery
+		home=1567
+	}
+	regiment = {
+		name="2nd Ogaden Irregulars"
+		type=irregular
+		home=1867
+	}
+}
+
+army = {
+	name="26th Army"
+	location=1735
+	regiment = {
+		name="1st Yizhou Irregulars"
+		type=irregular
+		home=1571
+	}
+	regiment = {
+		name="1st Qingzhou Irregulars"
+		type=irregular
+		home=1567
+	}
+	regiment = {
+		name="10th Tingzhou Irregulars"
+		type=irregular
+		home=1486
+	}
+	regiment = {
+		name="1st Maoming Irregulars"
+		type=irregular
+		home=1495
+	}
+	regiment = {
+		name="4th Dumyat Cavalry"
+		type=cavalry
+		home=1746
+	}
+	regiment = {
+		name="1st Jimma Artillery"
+		type=artillery
+		home=1863
+	}
+	regiment = {
+		name="2nd Debre Markos Artillery"
+		type=artillery
+		home=1855
+	}
+	regiment = {
+		name="1st Aswan Cavalry"
+		type=cavalry
+		home=1766
+	}
+	regiment = {
+		name="1st Bonga Artillery"
+		type=artillery
+		home=1862
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1991
+	regiment = {
+		name="1st Laizhou Irregulars"
+		type=irregular
+		home=1565
+	}
+	regiment = {
+		name="1st Asaita Irregulars"
+		type=irregular
+		home=1858
+	}
+	regiment = {
+		name="5th Suzhou Irregulars"
+		type=irregular
+		home=1539
+	}
+	regiment = {
+		name="5th Dumyat Cavalry"
+		type=cavalry
+		home=1746
+	}
+	regiment = {
+		name="2nd Ogaden Artillery"
+		type=artillery
+		home=1867
+	}
+	regiment = {
+		name="1st Bani Suwayf Artillery"
+		type=artillery
+		home=1763
+	}
+	regiment = {
+		name="2nd Laizhou Irregulars"
+		type=irregular
+		home=1565
+	}
+	regiment = {
+		name="9th Dumyat Cavalry"
+		type=cavalry
+		home=1746
+	}
+	regiment = {
+		name="3rd Harer Artillery"
+		type=artillery
+		home=1865
+	}
+}
+
+army = {
+	name="23rd Army"
+	location=1751
+	regiment = {
+		name="2nd Maoming Irregulars"
+		type=irregular
+		home=1495
+	}
+	regiment = {
+		name="1st Qusayr Irregulars"
+		type=irregular
+		home=1770
+	}
+	regiment = {
+		name="2nd Qingzhou Irregulars"
+		type=irregular
+		home=1567
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1746
+	regiment = {
+		name="2nd Fuzhou Irregulars"
+		type=irregular
+		home=1482
+	}
+	regiment = {
+		name="2nd Yizhou Irregulars"
+		type=irregular
+		home=1571
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1462
+	ship = {
+		name="1st Kismayo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Taizz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mogadishu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Djibuti Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Djibuti Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Massawa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mogadishu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Muntasir"
+		type=frigate
+	}
+	ship = {
+		name="Qudamat"
+		type=frigate
+	}
+	ship = {
+		name="Rashad"
+		type=frigate
+	}
+	ship = {
+		name="Sa'ad"
+		type=frigate
+	}
+	ship = {
+		name="2nd Alexandria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mukalla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bône Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Berbera Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Algiers Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gabes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Massawa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Gabes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Shanghai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aden Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Gabes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Mukalla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Algiers Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Yogyakarta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Manila Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Wenzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Gabes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Gabes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jiaxing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Hobyo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Gabes Clipper Transport"
+		type=clipper_transport
+	}
+}
+

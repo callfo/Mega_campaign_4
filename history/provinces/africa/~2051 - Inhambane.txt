@@ -1,0 +1,6 @@
+owner=X00
+controller=X00
+trade_goods = fruit
+life_rating = 35
+terrain = savanna
+colonial=2

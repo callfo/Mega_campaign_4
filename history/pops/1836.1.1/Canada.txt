@@ -1,0 +1,4761 @@
+6 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+}
+7 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1800
+	}
+
+}
+9 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 22
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1020
+	}
+
+}
+11 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 500
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 150
+	}
+
+}
+13 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 142
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2221
+	}
+
+}
+14 = {
+	soldiers=
+	{
+		culture = americano
+		religion = catholic
+		size= 129
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = catholic
+		size= 322
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = catholic
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = catholic
+		size= 1783
+	}
+
+}
+15 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 122
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 186
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 976
+	}
+
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 122
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 644
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 127
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = catholic
+		size= 668
+	}
+
+}
+16 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 990
+	}
+
+}
+17 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1000
+	}
+
+}
+18 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 465
+	}
+
+}
+19 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 324
+	}
+
+	soldiers=
+	{
+		culture = americano
+		religion = catholic
+		size= 90
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = catholic
+		size= 64
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = catholic
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = catholic
+		size= 1398
+	}
+
+}
+20 = {
+	soldiers=
+	{
+		culture = americano
+		religion = catholic
+		size= 112
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = catholic
+		size= 80
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = catholic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = catholic
+		size= 1751
+	}
+
+}
+21 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 274
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1576
+	}
+
+}
+22 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 215
+	}
+
+	craftsmen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16340
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 154
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 58
+	}
+
+	clerks=
+	{
+		culture = yankee
+		religion = catholic
+		size= 986
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	capitalists=
+	{
+		culture = yankee
+		religion = catholic
+		size= 756
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 64
+	}
+
+}
+23 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 937
+	}
+
+}
+24 = {
+	soldiers=
+	{
+		culture = americano
+		religion = catholic
+		size= 117
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = catholic
+		size= 84
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = catholic
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = catholic
+		size= 230
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = catholic
+		size= 1615
+	}
+
+}
+25 = {
+	soldiers=
+	{
+		culture = americano
+		religion = catholic
+		size= 107
+	}
+
+	artisans=
+	{
+		culture = americano
+		religion = catholic
+		size= 76
+	}
+
+	clergymen=
+	{
+		culture = americano
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = americano
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = americano
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = americano
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = americano
+		religion = catholic
+		size= 1688
+	}
+
+}
+26 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 227
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 665
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = catholic
+		size= 580
+	}
+
+}
+27 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 557
+	}
+
+	aristocrats=
+	{
+		culture = metis
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = catholic
+		size= 185
+	}
+
+}
+28 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1441
+	}
+
+}
+30 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 171
+	}
+
+	craftsmen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 428
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 46
+	}
+
+	clerks=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 7
+	}
+
+	capitalists=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 379
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = metis
+		religion = catholic
+		size= 5
+	}
+
+}
+31 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+}
+32 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 205
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 564
+	}
+
+	clergymen=
+	{
+		culture = metis
+		religion = catholic
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = metis
+		religion = catholic
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = metis
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = catholic
+		size= 910
+	}
+
+}
+33 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 114
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 286
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 585
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = catholic
+		size= 1000
+	}
+
+}
+34 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 112
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 80
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 733
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = catholic
+		size= 1000
+	}
+
+}
+35 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 228
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 596
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = catholic
+		size= 655
+	}
+
+}
+36 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 119
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1049
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = catholic
+		size= 1000
+	}
+
+}
+37 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 902
+	}
+
+}
+38 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 790
+	}
+
+}
+39 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 717
+	}
+
+	clergymen=
+	{
+		culture = metis
+		religion = catholic
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = metis
+		religion = catholic
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = metis
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = catholic
+		size= 910
+	}
+
+}
+40 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 281
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 630
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = catholic
+		size= 1000
+	}
+
+}
+41 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 115
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 288
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 585
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = catholic
+		size= 1000
+	}
+
+}
+42 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 83
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 856
+	}
+
+	aristocrats=
+	{
+		culture = metis
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = catholic
+		size= 1000
+	}
+
+}
+46 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 2517
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 6292
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 674
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 94
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 755
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 34563
+	}
+
+}
+47 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 24
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 550
+	}
+
+}
+48 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1236
+	}
+
+}
+49 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 115
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1627
+	}
+
+	aristocrats=
+	{
+		culture = metis
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = catholic
+		size= 1000
+	}
+
+}
+50 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 86
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 61
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1342
+	}
+
+}
+51 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 277
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1611
+	}
+
+}
+52 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 665
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 65
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 358
+	}
+
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 106
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 590
+	}
+
+}
+53 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 97
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 531
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 253
+	}
+
+}
+54 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 177
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1240
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7215
+	}
+
+}
+55 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 337
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2357
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 253
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 141
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 13708
+	}
+
+}
+56 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 236
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 1653
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 298
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 9418
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 912
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 164
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5197
+	}
+
+}
+57 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 455
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 1137
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 6313
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 158
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 396
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2196
+	}
+
+}
+58 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 2111
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 5277
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 565
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 68
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 317
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 29274
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1468
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3671
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 393
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 47
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 220
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20366
+	}
+
+}
+59 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 32
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 80
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 451
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 73
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 411
+	}
+
+}
+61 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1121
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 73
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 183
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 1022
+	}
+
+}
+62 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 769
+	}
+
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 876
+	}
+
+}
+63 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 252
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1390
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 67
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 371
+	}
+
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 90
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 224
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1235
+	}
+
+}
+64 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 340
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2383
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 255
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 13861
+	}
+
+}
+65 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 2670
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 1907
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 358
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 601
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 42002
+	}
+
+}
+66 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 859
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1307
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 140
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6895
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 707
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 1076
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 115
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 5679
+	}
+
+}
+67 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 73
+	}
+
+	artisans=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 146
+	}
+
+	clergymen=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = catholic
+		size= 3342
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 73
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1673
+	}
+
+}
+68 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 987
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2468
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 264
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 50
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 222
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 13600
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 673
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 1683
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 180
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 34
+	}
+
+	officers=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 151
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 9273
+	}
+
+}
+69 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 173
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 347
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7909
+	}
+
+}
+70 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 156
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1092
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6346
+	}
+
+}
+71 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 735
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 409
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 817
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 306
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 57
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 17910
+	}
+
+}
+72 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 329
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 235
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5120
+	}
+
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 291
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 208
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4535
+	}
+
+}
+73 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 294
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 735
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4049
+	}
+
+}
+74 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 785
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 561
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 12393
+	}
+
+}
+75 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 331
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 237
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 5230
+	}
+
+}
+76 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 894
+	}
+
+}
+77 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = catholic
+		size= 87
+	}
+
+}
+2592 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 910
+	}
+
+}
+2593 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 749
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+}
+2594 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 432
+	}
+
+}
+2595 = {
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = protestant
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 1135
+	}
+
+}
+2596 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 500
+	}
+
+}
+2597 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 99
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 551
+	}
+
+}
+2598 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 70
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1260
+	}
+
+}
+2625 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = catholic
+		size= 609
+	}
+
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 285
+	}
+
+}
+2626 = {
+	soldiers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = germanic_north_america_superregion_culture
+		religion = catholic
+		size= 896
+	}
+
+}
+2629 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 360
+	}
+
+}

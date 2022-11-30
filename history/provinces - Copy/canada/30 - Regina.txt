@@ -1,0 +1,12 @@
+owner=USA
+controller=USA
+add_core=USA
+trade_goods = grain
+life_rating = 31
+terrain = steppe
+state_building=
+{
+	level=1
+	building = lumber_mill
+	upgrade = yes
+}

@@ -1,0 +1,167 @@
+2234 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 950
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 188
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 469
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1618
+	}
+
+}
+2235 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 185
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 89
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 300
+	}
+
+}
+2236 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 151
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 81
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 315
+	}
+
+}

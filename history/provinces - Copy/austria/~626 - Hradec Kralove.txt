@@ -1,0 +1,6 @@
+owner=PRU
+controller=BOH
+add_core=BOH
+add_core=PRU
+trade_goods = coal
+life_rating = 35

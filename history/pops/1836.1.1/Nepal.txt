@@ -1,0 +1,172 @@
+1326 = {
+	slaves=
+	{
+		culture = nepali
+		religion = hindu
+		size= 10969
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 5475
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 13687
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1271
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 166
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 156
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 821
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 65219
+	}
+
+	slaves=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 2887
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 1441
+	}
+
+	artisans=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 3602
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 334
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 44
+	}
+
+	officers=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 216
+	}
+
+	farmers=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 17162
+	}
+
+}
+1327 = {
+	slaves=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 17152
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 5825
+	}
+
+	artisans=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 14565
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 779
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 280
+	}
+
+	officers=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 166
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 874
+	}
+
+	farmers=
+	{
+		culture = dynamic-tibetan-nepali-culture-num1
+		religion = hindu
+		size= 64388
+	}
+
+}

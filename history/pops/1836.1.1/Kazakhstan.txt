@@ -1,0 +1,1593 @@
+1181 = {
+	soldiers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 299
+	}
+
+	clergymen=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 1629
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 131
+	}
+
+	artisans=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 657
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 10
+	}
+
+	officers=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 237
+	}
+
+	farmers=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 3587
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 215
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 1075
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 17
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 387
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 5870
+	}
+
+}
+1182 = {
+	soldiers=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = hindu
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = hindu
+		size= 55
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = hindu
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = hindu
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = hindu
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = hindu
+		size= 510
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 357
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 8
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 2402
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 137
+	}
+
+}
+1183 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 742
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 10
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 134
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 3298
+	}
+
+}
+1184 = {
+	soldiers=
+	{
+		culture = dynamic-ostyaki-culture-num1
+		religion = sunni
+		size= 83
+	}
+
+	craftsmen=
+	{
+		culture = dynamic-ostyaki-culture-num1
+		religion = sunni
+		size= 957
+	}
+
+	artisans=
+	{
+		culture = dynamic-ostyaki-culture-num1
+		religion = sunni
+		size= 266
+	}
+
+	clergymen=
+	{
+		culture = dynamic-ostyaki-culture-num1
+		religion = sunni
+		size= 38
+	}
+
+	clerks=
+	{
+		culture = dynamic-ostyaki-culture-num1
+		religion = sunni
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-ostyaki-culture-num1
+		religion = sunni
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-ostyaki-culture-num1
+		religion = sunni
+		size= 6
+	}
+
+	capitalists=
+	{
+		culture = dynamic-ostyaki-culture-num1
+		religion = sunni
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-ostyaki-culture-num1
+		religion = sunni
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = dynamic-ostyaki-culture-num1
+		religion = sunni
+		size= 1446
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 296
+	}
+
+	craftsmen=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 3419
+	}
+
+	artisans=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 951
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 138
+	}
+
+	clerks=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 206
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 28
+	}
+
+	officers=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 22
+	}
+
+	capitalists=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 266
+	}
+
+	farmers=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 5159
+	}
+
+	soldiers=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 231
+	}
+
+	craftsmen=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 2666
+	}
+
+	artisans=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 742
+	}
+
+	clergymen=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 108
+	}
+
+	clerks=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 160
+	}
+
+	bureaucrats=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 21
+	}
+
+	officers=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 17
+	}
+
+	capitalists=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 207
+	}
+
+	farmers=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 4027
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 98
+	}
+
+	craftsmen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1128
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 314
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 45
+	}
+
+	clerks=
+	{
+		culture = tatar
+		religion = sunni
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 7
+	}
+
+	capitalists=
+	{
+		culture = tatar
+		religion = sunni
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1703
+	}
+
+}
+1185 = {
+	slaves=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 5134
+	}
+
+	soldiers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 1443
+	}
+
+	artisans=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 3608
+	}
+
+	clergymen=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 387
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 70
+	}
+
+	officers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 216
+	}
+
+	farmers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 14874
+	}
+
+}
+1186 = {
+	slaves=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 7197
+	}
+
+	soldiers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 1670
+	}
+
+	artisans=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 4175
+	}
+
+	clergymen=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 447
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 81
+	}
+
+	officers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 376
+	}
+
+	farmers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 15826
+	}
+
+}
+1187 = {
+	soldiers=
+	{
+		culture = kazak
+		religion = mahayana
+		size= 193
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = mahayana
+		size= 771
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = mahayana
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = mahayana
+		size= 27
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = mahayana
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = mahayana
+		size= 324
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = mahayana
+		size= 17800
+	}
+
+}
+1188 = {
+	soldiers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 594
+	}
+
+	artisans=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 2970
+	}
+
+	clergymen=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 138
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 55
+	}
+
+	officers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 356
+	}
+
+	farmers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 17056
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = sunni
+		size= 153
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = sunni
+		size= 764
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = sunni
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = kazak
+		religion = sunni
+		size= 14
+	}
+
+	officers=
+	{
+		culture = kazak
+		religion = sunni
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = sunni
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = sunni
+		size= 4386
+	}
+
+}
+1193 = {
+	soldiers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 263
+	}
+
+	artisans=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 3686
+	}
+
+	clergymen=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 171
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 37
+	}
+
+	officers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 885
+	}
+
+	farmers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 21249
+	}
+
+}
+1194 = {
+	soldiers=
+	{
+		culture = turkish
+		religion = hindu
+		size= 163
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = hindu
+		size= 233
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = hindu
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = turkish
+		religion = hindu
+		size= 12
+	}
+
+	officers=
+	{
+		culture = turkish
+		religion = hindu
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = turkish
+		religion = hindu
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = hindu
+		size= 5231
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 1744
+	}
+
+}
+1197 = {
+	slaves=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 6082
+	}
+
+	soldiers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 1034
+	}
+
+	artisans=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 7238
+	}
+
+	clergymen=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 776
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 139
+	}
+
+	officers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 1303
+	}
+
+	farmers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 35086
+	}
+
+}
+2606 = {
+	soldiers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 227
+	}
+
+	artisans=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 1136
+	}
+
+	clergymen=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 18
+	}
+
+	officers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 6475
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 307
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 1534
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 142
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 24
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 184
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = hindu
+		size= 8741
+	}
+
+}
+2610 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 94
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 302
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 8
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 2738
+	}
+
+}
+2611 = {
+	soldiers=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 97
+	}
+
+	artisans=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 484
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 2700
+	}
+
+	soldiers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 97
+	}
+
+	clergymen=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 541
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 132
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 737
+	}
+
+}
+2612 = {
+	soldiers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 1563
+	}
+
+	artisans=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 2378
+	}
+
+	clergymen=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 127
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 39
+	}
+
+	officers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 285
+	}
+
+	farmers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 12558
+	}
+
+}
+2702 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = hindu
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = hindu
+		size= 248
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = hindu
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = hindu
+		size= 2
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = hindu
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = hindu
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = hindu
+		size= 1397
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 84
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 422
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 2377
+	}
+
+	soldiers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 273
+	}
+
+	clergymen=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 66
+	}
+
+	farmers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 1536
+	}
+
+}

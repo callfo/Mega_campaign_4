@@ -1,0 +1,6 @@
+owner=X00
+controller=X00
+add_core=CST
+add_core=SPA
+trade_goods = iron
+life_rating = 35

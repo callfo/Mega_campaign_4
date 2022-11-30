@@ -1,0 +1,102 @@
+2219 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 4426
+	}
+
+	soldiers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 292
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 469
+	}
+
+	clergymen=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 12
+	}
+
+	officers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 44
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 733
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 103
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 12
+	}
+
+}

@@ -1,0 +1,6 @@
+owner = RUS
+controller = RUS
+trade_goods = iron
+life_rating = 35
+add_core = RUS
+state_building = { level = 1 building = fabric_factory upgrade = yes } 

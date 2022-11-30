@@ -1,0 +1,682 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = -19
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -18
+	level = 2
+}
+CEQ = {
+	value = 139
+	influence_value = 22
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 195
+	influence_value = 36
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = -27
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	military_access = yes
+	level = 2
+}
+HAI = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = -22
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 197
+	influence_value = 36
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RUM = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = -16
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 45
+	level = 2
+}
+X00 = {
+	value = 102
+	influence_value = 13
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = -37
+	level = 2
+}
+X14 = {
+	value = 35
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 45
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Ernest Warwick"
+	date="1808.9.24"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Christopher Clinton"
+	date="1815.12.5"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="James Howard"
+	date="1816.9.29"
+	type=land
+	personality="persistant"
+	background="bootlicker"
+}
+
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=138
+	ship = {
+		name="México"
+		type=manowar
+	}
+	ship = {
+		name="Morales"
+		type=manowar
+	}
+	ship = {
+		name="Yucatán"
+		type=manowar
+	}
+	ship = {
+		name="Vicente Guerrero"
+		type=manowar
+	}
+	ship = {
+		name="Zaragoza"
+		type=manowar
+	}
+	ship = {
+		name="Nuevo León"
+		type=manowar
+	}
+	ship = {
+		name="1st Belize Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Essequibo Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1723
+	regiment = {
+		name="1st San Antonio Infantry"
+		type=infantry
+		home=137
+	}
+	regiment = {
+		name="1st Cololo Infantry"
+		type=infantry
+		home=2171
+	}
+	regiment = {
+		name="1st Tampico Infantry"
+		type=infantry
+		home=2163
+	}
+	regiment = {
+		name="1st La Ceiba Infantry"
+		type=infantry
+		home=2195
+	}
+	regiment = {
+		name="1st Guanajuato Infantry"
+		type=infantry
+		home=2167
+	}
+	regiment = {
+		name="1st Parral Artillery"
+		type=artillery
+		home=2145
+	}
+	regiment = {
+		name="1st Guanajuato Artillery"
+		type=artillery
+		home=2167
+	}
+	regiment = {
+		name="1st Zacatecas Artillery"
+		type=artillery
+		home=2158
+	}
+	regiment = {
+		name="1st Monclova Artillery"
+		type=artillery
+		home=2152
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2203
+	regiment = {
+		name="1st Monclova Infantry"
+		type=infantry
+		home=2152
+	}
+	regiment = {
+		name="1st San Luis Potosí Infantry"
+		type=infantry
+		home=2159
+	}
+	regiment = {
+		name="1st León Infantry"
+		type=infantry
+		home=2199
+	}
+	regiment = {
+		name="1st Tepic Infantry"
+		type=infantry
+		home=2161
+	}
+	regiment = {
+		name="1st El Paso Infantry"
+		type=infantry
+		home=136
+	}
+	regiment = {
+		name="1st Durango Artillery"
+		type=artillery
+		home=2153
+	}
+	regiment = {
+		name="1st Santa María del Oro Artillery"
+		type=artillery
+		home=2154
+	}
+	regiment = {
+		name="1st Mexico City Artillery"
+		type=artillery
+		home=2172
+	}
+	regiment = {
+		name="2nd León Infantry"
+		type=infantry
+		home=2199
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2970
+	ship = {
+		name="California"
+		type=frigate
+	}
+	ship = {
+		name="2nd Cololo Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2964
+	ship = {
+		name="Chihuahua"
+		type=frigate
+	}
+	ship = {
+		name="Durango"
+		type=frigate
+	}
+	ship = {
+		name="Aldabaran"
+		type=frigate
+	}
+	ship = {
+		name="Veracrúz"
+		type=frigate
+	}
+	ship = {
+		name="Tlaxcala"
+		type=frigate
+	}
+	ship = {
+		name="Jalisco"
+		type=frigate
+	}
+	ship = {
+		name="4th Puerto Lempira Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="19th Army"
+	location=2204
+	regiment = {
+		name="1st Puebla Infantry"
+		type=infantry
+		home=2176
+	}
+	regiment = {
+		name="1st Zacatecas Infantry"
+		type=infantry
+		home=2158
+	}
+	regiment = {
+		name="1st Ciudad Juarez Infantry"
+		type=infantry
+		home=2143
+	}
+	regiment = {
+		name="1st Aguascalientes Infantry"
+		type=infantry
+		home=2160
+	}
+	regiment = {
+		name="1st Acapulco Infantry"
+		type=infantry
+		home=2179
+	}
+	regiment = {
+		name="1st Guaymas Artillery"
+		type=artillery
+		home=2141
+	}
+	regiment = {
+		name="2nd Guaymas Artillery"
+		type=artillery
+		home=2141
+	}
+	regiment = {
+		name="2nd Tampico Infantry"
+		type=infantry
+		home=2163
+	}
+}
+
+army = {
+	name="13th Army"
+	location=2141
+	regiment = {
+		name="2nd Mexico City Artillery"
+		type=artillery
+		home=2172
+	}
+	regiment = {
+		name="1st Tampico Artillery"
+		type=artillery
+		home=2163
+	}
+	regiment = {
+		name="1st La Ceiba Artillery"
+		type=artillery
+		home=2195
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2963
+	ship = {
+		name="Camotlán"
+		type=frigate
+	}
+	ship = {
+		name="El Tordo"
+		type=frigate
+	}
+	ship = {
+		name="1st San Antonio Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=137
+	ship = {
+		name="Repulsión"
+		type=frigate
+	}
+	ship = {
+		name="Valor"
+		type=frigate
+	}
+	ship = {
+		name="Iguala"
+		type=frigate
+	}
+	ship = {
+		name="Anáhuac"
+		type=frigate
+	}
+	ship = {
+		name="2nd La Ceiba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Acapulco Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Puerto Lempira Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Acapulco Frigate"
+		type=frigate
+	}
+}
+

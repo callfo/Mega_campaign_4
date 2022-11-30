@@ -1,0 +1,576 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = -19
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -18
+	level = 2
+}
+CEQ = {
+	value = 139
+	influence_value = 22
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 195
+	influence_value = 36
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = -27
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	military_access = yes
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 220
+	influence_value = 42
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = -22
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RUM = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = -71
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 186
+	influence_value = 34
+	level = 2
+}
+X00 = {
+	value = 29
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = -37
+	level = 2
+}
+X14 = {
+	value = 35
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 45
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Guy Moore"
+	date="1823.6.14"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Charles Cromwell"
+	date="1823.6.20"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Lawrence Hood"
+	date="1824.12.25"
+	type=land
+	personality="earnest"
+	background="armchair_general"
+}
+
+leader = {
+	name="Adam Dampier"
+	date="1826.8.3"
+	type=land
+	personality="earnest"
+	background="aristocrat"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=2291
+	regiment = {
+		name="1st Huancavelica Infantry"
+		type=infantry
+		home=2296
+	}
+	regiment = {
+		name="1st Puno Infantry"
+		type=infantry
+		home=2303
+	}
+	regiment = {
+		name="1st Pucallpa Artillery"
+		type=artillery
+		home=2300
+	}
+	regiment = {
+		name="2nd Pucallpa Artillery"
+		type=artillery
+		home=2300
+	}
+	regiment = {
+		name="3rd Pucallpa Artillery"
+		type=artillery
+		home=2300
+	}
+	regiment = {
+		name="1st Arequipa Infantry"
+		type=infantry
+		home=2304
+	}
+	regiment = {
+		name="1st Tacna Artillery"
+		type=artillery
+		home=2578
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2304
+	regiment = {
+		name="2nd Puno Infantry"
+		type=infantry
+		home=2303
+	}
+	regiment = {
+		name="1st Cusco Artillery"
+		type=artillery
+		home=2302
+	}
+	regiment = {
+		name="1st Puno Artillery"
+		type=artillery
+		home=2303
+	}
+	regiment = {
+		name="1st Cochabamba Infantry"
+		type=infantry
+		home=2311
+	}
+	regiment = {
+		name="2nd Puno Artillery"
+		type=artillery
+		home=2303
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=3000
+	ship = {
+		name="Amazonas"
+		type=frigate
+	}
+	ship = {
+		name="Apurimac"
+		type=frigate
+	}
+	ship = {
+		name="Callao"
+		type=frigate
+	}
+	ship = {
+		name="Independencia"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2297
+	ship = {
+		name="Arequipeño"
+		type=manowar
+	}
+	ship = {
+		name="Balcarce"
+		type=manowar
+	}
+	ship = {
+		name="Belgrano"
+		type=manowar
+	}
+	ship = {
+		name="Caupolican"
+		type=clipper_transport
+	}
+	ship = {
+		name="Chalaco"
+		type=clipper_transport
+	}
+	ship = {
+		name="Chimbote"
+		type=clipper_transport
+	}
+	ship = {
+		name="Colón"
+		type=clipper_transport
+	}
+	ship = {
+		name="Constitución"
+		type=clipper_transport
+	}
+	ship = {
+		name="Contraalmirante Haza"
+		type=clipper_transport
+	}
+	ship = {
+		name="General Lerzundi"
+		type=clipper_transport
+	}
+	ship = {
+		name="Coronel Spano"
+		type=manowar
+	}
+	ship = {
+		name="Guardian Ríos"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Bandeirantes"
+	location=2292
+	regiment = {
+		name="1st Tacna Infantry"
+		type=infantry
+		home=2578
+	}
+	regiment = {
+		name="2nd Tacna Infantry"
+		type=infantry
+		home=2578
+	}
+	regiment = {
+		name="3rd Tacna Infantry"
+		type=infantry
+		home=2578
+	}
+	regiment = {
+		name="4th Tacna Infantry"
+		type=infantry
+		home=2578
+	}
+	regiment = {
+		name="5th Tacna Infantry"
+		type=infantry
+		home=2578
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2312
+	regiment = {
+		name="1st Santa Cruz Infantry"
+		type=infantry
+		home=2316
+	}
+	regiment = {
+		name="1st La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+}
+

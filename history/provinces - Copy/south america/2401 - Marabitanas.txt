@@ -1,0 +1,12 @@
+owner=CEQ
+controller=CEQ
+add_core=BRZ
+add_core=CEQ
+trade_goods = tropical_wood
+life_rating = 31
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

@@ -1,0 +1,6 @@
+owner=X10
+controller=LOM
+add_core=ITA
+add_core=X10
+trade_goods = silk
+life_rating = 35

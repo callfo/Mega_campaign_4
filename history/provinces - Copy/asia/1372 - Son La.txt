@@ -1,0 +1,7 @@
+owner=ORI
+controller=ORI
+add_core=DAI
+add_core=IDO
+add_core=ORI
+trade_goods = tropical_wood
+life_rating = 33

@@ -1,0 +1,86 @@
+397 = {
+	soldiers=
+	{
+		culture = dynamic-franconian-italian-culture-num1
+		religion = protestant
+		size= 1197
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-italian-culture-num1
+		religion = protestant
+		size= 6385
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-italian-culture-num1
+		religion = protestant
+		size= 595
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-italian-culture-num1
+		religion = protestant
+		size= 130
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-italian-culture-num1
+		religion = protestant
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-italian-culture-num1
+		religion = protestant
+		size= 354
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-italian-culture-num1
+		religion = protestant
+		size= 37064
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+}

@@ -1,0 +1,9 @@
+owner=X12
+controller=X05
+add_core=GER
+add_core=HAN
+add_core=X05
+trade_goods = cattle
+life_rating = 40
+naval_base = 1
+fort = 1

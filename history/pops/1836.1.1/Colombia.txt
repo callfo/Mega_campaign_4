@@ -1,0 +1,1070 @@
+2247 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 4191
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 3804
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 618
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 342
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 152
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 1198
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 77556
+	}
+
+}
+2248 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 985
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1214
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 867
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 52
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 18200
+	}
+
+}
+2249 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 793
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 1983
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 40
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 11111
+	}
+
+}
+2250 = {
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1162
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 189
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 70
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 244
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 26322
+	}
+
+}
+2251 = {
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 323
+	}
+
+	craftsmen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 2298
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 808
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 38
+	}
+
+	clerks=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 139
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 9
+	}
+
+	capitalists=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 2076
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 826
+	}
+
+	craftsmen=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 5872
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 2065
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 96
+	}
+
+	clerks=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 354
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 50
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 24
+	}
+
+	capitalists=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 124
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 5308
+	}
+
+}
+2252 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 13566
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 10473
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 487
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 254
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 120
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1257
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 41417
+	}
+
+}
+2253 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 7050
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 483
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 46
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 203
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 3174
+	}
+
+}
+2254 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 21492
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 2071
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1480
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 240
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 141
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 932
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 10580
+	}
+
+}
+2255 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 19395
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1189
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 5352
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 386
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 202
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1499
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 31392
+	}
+
+}
+2256 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 3129
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 482
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 3373
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 92
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 16642
+	}
+
+}
+2257 = {
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 2403
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 65
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 288
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 10135
+	}
+
+}
+2258 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 7267
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 228
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1599
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 2103
+	}
+
+}
+2259 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 338
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 845
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = catholic
+		size= 4682
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 789
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1972
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 54
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 237
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 10921
+	}
+
+}
+2260 = {
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 173
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1214
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 7050
+	}
+
+}
+2261 = {
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 97
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 680
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 3946
+	}
+
+}
+2262 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 3117
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 873
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 2182
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 59
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 393
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 8835
+	}
+
+}
+2263 = {
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 416
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1419
+	}
+
+}

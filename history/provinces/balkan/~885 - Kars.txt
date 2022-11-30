@@ -1,0 +1,4 @@
+owner=RUM
+controller=RUM
+trade_goods = iron
+life_rating = 35

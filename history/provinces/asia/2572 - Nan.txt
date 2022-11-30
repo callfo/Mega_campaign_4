@@ -1,0 +1,8 @@
+owner=ORI
+controller=ORI
+add_core=IDO
+add_core=ORI
+add_core=SIA
+trade_goods = wool
+life_rating = 35
+fort = 1

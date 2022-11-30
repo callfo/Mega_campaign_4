@@ -1,0 +1,5 @@
+trade_goods = opium
+life_rating = 15
+terrain = desert
+fort = 1
+add_core = RUS

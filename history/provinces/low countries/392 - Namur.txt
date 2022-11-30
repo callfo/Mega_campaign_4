@@ -1,0 +1,11 @@
+owner=X00
+controller=X00
+add_core=X00
+trade_goods = iron
+life_rating = 35
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

@@ -1,0 +1,392 @@
+ADE = {
+	monarchy = yes
+	last_dynasty = "al-Qasimi"
+	last_ruler_name = "'Abdallah I"
+}
+ADU = {
+	monarchy = yes
+	last_dynasty = "Batalyawsid"
+	last_ruler_name = "Itber III"
+}
+ANH = {
+	monarchy = yes
+	last_dynasty = "von Miltitz"
+	last_ruler_name = "Balduin II"
+}
+ARN = {
+	monarchy = yes
+	last_dynasty = "Nasrid"
+	last_ruler_name = "Guiral IV"
+}
+ATJ = {
+	monarchy = yes
+	last_dynasty = "Jambi"
+	last_ruler_name = "Mengtsekya I"
+}
+SIA = {
+	monarchy = yes
+	last_dynasty = "Ban Phlu Luang"
+	last_ruler_name = "Phetracha"
+}
+BAV = {
+	monarchy = yes
+	last_dynasty = "Luitpolding-Ilmmünster"
+	last_ruler_name = "Pribislav II"
+}
+BRU = {
+	monarchy = yes
+	last_dynasty = "Bolkiah"
+	last_ruler_name = "Sulaymân"
+}
+BNE = {
+	monarchy = yes
+	last_dynasty = "Palopo"
+	last_ruler_name = "Karaeng Tunibatta I"
+}
+BOH = {
+	monarchy = yes
+	last_dynasty = "Kinsky"
+	last_ruler_name = "Bedrich III"
+}
+BRG = {
+	monarchy = yes
+}
+BRZ = {
+	monarchy = no
+}
+HAI = {
+	monarchy = no
+}
+SBA = {
+	monarchy = no
+}
+CLM = {
+	monarchy = no
+}
+MEX = {
+	monarchy = no
+}
+BOL = {
+	monarchy = no
+}
+X13 = {
+	monarchy = no
+}
+PEU = {
+	monarchy = no
+}
+CEQ = {
+	monarchy = no
+}
+X14 = {
+	monarchy = no
+}
+CST = {
+	monarchy = yes
+	last_dynasty = "Jimena"
+	last_ruler_name = "García II"
+}
+CHA = {
+	monarchy = yes
+	last_dynasty = "Kauthara"
+	last_ruler_name = "Po Chong Chan I"
+}
+SLO = {
+	monarchy = no
+	last_dynasty = "Zovneski"
+	last_ruler_name = "Herman III"
+}
+CSH = {
+	monarchy = yes
+	last_dynasty = "Chang"
+	last_ruler_name = "Heying"
+}
+DAI = {
+	monarchy = yes
+	last_dynasty = "Trinh"
+	last_ruler_name = "Nguyen Thi Anh"
+}
+DLH = {
+	monarchy = yes
+	last_dynasty = "Tughluq"
+	last_ruler_name = "Parâkkirama IV"
+}
+EGY = {
+	monarchy = no
+	last_dynasty = "Hedareb"
+	last_ruler_name = "Yazid II"
+}
+X00 = {
+	monarchy = yes
+	last_dynasty = "de Blois"
+	last_ruler_name = "Charles VI"
+}
+ENG = {
+	monarchy = yes
+	last_dynasty = "Randolph"
+	last_ruler_name = "Eadweard"
+}
+AUS = {
+	monarchy = yes
+	last_dynasty = "von Tannberg"
+	last_ruler_name = "Leopold II"
+}
+HAN = {
+	monarchy = yes
+	last_dynasty = "Luitpolding-Ilmmünster"
+	last_ruler_name = "Thankmar"
+}
+HWH = {
+	monarchy = yes
+	last_dynasty = "Waipuna"
+	last_ruler_name = "Kai II"
+}
+HES = {
+	monarchy = yes
+	last_dynasty = "von Stad"
+	last_ruler_name = "Wernhard III"
+}
+IRQ = {
+	monarchy = yes
+}
+JAP = {
+	monarchy = yes
+	last_dynasty = "Yamashina"
+	last_ruler_name = "Iesada I"
+}
+X01 = {
+	monarchy = yes
+	last_dynasty = "Kuba"
+	last_ruler_name = "Kateng I"
+}
+X02 = {
+	monarchy = no
+}
+X03 = {
+	monarchy = yes
+	last_dynasty = "Æbbing"
+	last_ruler_name = "Dvalinn I"
+}
+ITA = {
+	monarchy = yes
+	last_dynasty = "de la Tour"
+	last_ruler_name = "Oddone I"
+}
+X04 = {
+	monarchy = no
+}
+X05 = {
+	monarchy = yes
+	last_dynasty = "de la Tour"
+	last_ruler_name = "Gerhard I"
+}
+X06 = {
+	monarchy = no
+}
+X07 = {
+	monarchy = no
+}
+NAP = {
+	monarchy = yes
+	last_dynasty = "de la Tour"
+	last_ruler_name = "André I"
+}
+X08 = {
+	monarchy = no
+}
+HWK = {
+	monarchy = yes
+	last_dynasty = "Sanoe"
+	last_ruler_name = "Kuwalupaukamoku"
+}
+KMC = {
+	monarchy = yes
+	last_dynasty = "Dyaluncha"
+	last_ruler_name = "Uolan I"
+}
+KOR = {
+	monarchy = yes
+	last_dynasty = "Gye"
+	last_ruler_name = "Ho I"
+}
+LAN = {
+	monarchy = no
+	last_dynasty = "Sambas"
+	last_ruler_name = "Sepudak"
+}
+XMA = {
+	monarchy = yes
+	last_dynasty = "Thanjavuri"
+	last_ruler_name = "Irâcêntira VI"
+}
+HWM = {
+	monarchy = yes
+	last_dynasty = "Lokelani"
+	last_ruler_name = "Kawaokaohele"
+}
+MAZ = {
+	monarchy = yes
+	last_dynasty = "Premyslovci"
+	last_ruler_name = "Zegota II"
+}
+MHR = {
+	monarchy = no
+	last_dynasty = "Al-Barami"
+	last_ruler_name = "Isa I"
+}
+MEC = {
+	monarchy = yes
+	last_dynasty = "Luitpolding-Ilmmünster"
+	last_ruler_name = "Msciwoj II"
+}
+MLC = {
+	monarchy = yes
+	last_dynasty = "Perak"
+	last_ruler_name = "Abu Syahid I"
+}
+LOM = {
+	monarchy = yes
+	last_dynasty = "de Hauteville"
+	last_ruler_name = "Adolf II"
+}
+MNA = {
+	monarchy = yes
+	last_dynasty = "Soliman"
+	last_ruler_name = "Salilla"
+}
+MNX = {
+	monarchy = yes
+	last_dynasty = "Tang"
+	last_ruler_name = "Dong I"
+}
+MOR = {
+	monarchy = yes
+	last_dynasty = "van Brunesheim"
+	last_ruler_name = "Guij II"
+}
+MPA = {
+	monarchy = yes
+	last_dynasty = "Mong Pai"
+	last_ruler_name = "Hkun Hpa"
+}
+NOR = {
+	monarchy = yes
+	last_dynasty = "av Freysey"
+	last_ruler_name = "Markús"
+}
+HWO = {
+	monarchy = yes
+	last_dynasty = "'Ewalani"
+	last_ruler_name = "Akamu IV"
+}
+AWA = {
+	monarchy = no
+	last_dynasty = "Jayasimhid"
+	last_ruler_name = "Rajyapala III"
+}
+ORI = {
+	monarchy = yes
+	last_dynasty = "Somavamsi"
+	last_ruler_name = "Rangabhanja II"
+}
+PAL = {
+	monarchy = yes
+	last_dynasty = "Weimar-Pula"
+	last_ruler_name = "Eberhard II"
+}
+PRU = {
+	monarchy = yes
+	last_dynasty = "Chatenois-Tangermünde"
+	last_ruler_name = "Welf II"
+}
+RAJ = {
+	monarchy = no
+	last_dynasty = "Tomara"
+	last_ruler_name = "Singhraja II"
+}
+RUM = {
+	monarchy = no
+	last_dynasty = "Rumiyye"
+	last_ruler_name = "Davud IX"
+}
+RUS = {
+	monarchy = no
+	last_dynasty = "Maydell"
+	last_ruler_name = "Budziwuj"
+}
+SLZ = {
+	monarchy = no
+	last_dynasty = "Freundsberg"
+	last_ruler_name = "Kajetan"
+}
+SUL = {
+	monarchy = yes
+	last_dynasty = "Panay"
+	last_ruler_name = "Muizz ul Din I"
+}
+SWE = {
+	monarchy = yes
+	last_dynasty = "Stenkiling"
+	last_ruler_name = "Toste"
+}
+X09 = {
+	monarchy = yes
+	last_dynasty = "Jadeja"
+	last_ruler_name = "Jayaraja I"
+}
+TIR = {
+	monarchy = no
+	last_dynasty = "von Niederbayern"
+	last_ruler_name = "Mathilde"
+}
+TLC = {
+	monarchy = yes
+	last_dynasty = "Beni Isguen"
+	last_ruler_name = "Abu Abdallah III"
+}
+TTL = {
+	monarchy = yes
+	last_dynasty = "Luz"
+	last_ruler_name = "Waldo II"
+}
+SIC = {
+	monarchy = yes
+	last_dynasty = "de Hauteville"
+	last_ruler_name = "Beuves II"
+}
+TUN = {
+	monarchy = yes
+	last_dynasty = "Husainid"
+	last_ruler_name = "Muhammad IV"
+}
+USA = {
+	monarchy = no
+}
+X10 = {
+	monarchy = no
+	last_dynasty = "von Trier"
+	last_ruler_name = "Tommaso"
+}
+CRT = {
+	monarchy = yes
+	last_dynasty = "Turjaski"
+	last_ruler_name = "Landolf III"
+}
+X11 = {
+	monarchy = yes
+	last_dynasty = "van Brunesheim"
+	last_ruler_name = "Yuriy IV"
+}
+X12 = {
+	monarchy = yes
+}
+SWA = {
+	monarchy = yes
+	last_dynasty = "al-Mawahib"
+	last_ruler_name = "Suleiman"
+}
+ZUL = {
+	monarchy = yes
+	last_dynasty = "Rozwi"
+	last_ruler_name = "Siti I"
+}

@@ -1,0 +1,7 @@
+owner=RUM
+controller=RUM
+add_core=ARA
+trade_goods = opium
+life_rating = 32
+terrain = semidesert
+colonial=2

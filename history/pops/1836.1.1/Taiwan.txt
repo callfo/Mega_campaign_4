@@ -1,0 +1,218 @@
+1485 = {
+	slaves=
+	{
+		culture = min
+		religion = shinto
+		size= 20068
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = shinto
+		size= 18992
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = shinto
+		size= 47481
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = shinto
+		size= 4408
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = shinto
+		size= 611
+	}
+
+	officers=
+	{
+		culture = min
+		religion = shinto
+		size= 712
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = shinto
+		size= 13295
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = shinto
+		size= 233581
+	}
+
+}
+2406 = {
+	soldiers=
+	{
+		culture = min
+		religion = shinto
+		size= 855
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = shinto
+		size= 2139
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = shinto
+		size= 199
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = shinto
+		size= 27
+	}
+
+	officers=
+	{
+		culture = min
+		religion = shinto
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = shinto
+		size= 599
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = shinto
+		size= 11425
+	}
+
+}
+2562 = {
+	slaves=
+	{
+		culture = min
+		religion = shinto
+		size= 20067
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = shinto
+		size= 3272
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = shinto
+		size= 8179
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = shinto
+		size= 759
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = shinto
+		size= 105
+	}
+
+	officers=
+	{
+		culture = min
+		religion = shinto
+		size= 122
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = shinto
+		size= 2290
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = shinto
+		size= 23627
+	}
+
+}
+2681 = {
+	soldiers=
+	{
+		culture = min
+		religion = shinto
+		size= 20645
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = shinto
+		size= 51612
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = shinto
+		size= 4792
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = shinto
+		size= 663
+	}
+
+	officers=
+	{
+		culture = min
+		religion = shinto
+		size= 775
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = shinto
+		size= 14451
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = shinto
+		size= 275721
+	}
+
+}

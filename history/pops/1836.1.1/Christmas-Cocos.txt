@@ -1,0 +1,9 @@
+2244 = {
+	farmers=
+	{
+		culture = anglo_saxon
+		religion = protestant
+		size= 13
+	}
+
+}

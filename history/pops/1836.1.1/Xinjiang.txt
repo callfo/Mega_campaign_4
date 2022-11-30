@@ -1,0 +1,534 @@
+1594 = {
+	slaves=
+	{
+		culture = uighur
+		religion = hindu
+		size= 9293
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = hindu
+		size= 13893
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = hindu
+		size= 745
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = hindu
+		size= 307
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 159
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = hindu
+		size= 1250
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 63254
+	}
+
+}
+1595 = {
+	soldiers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 5750
+	}
+
+	clergymen=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 267
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 37
+	}
+
+	officers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 1380
+	}
+
+	farmers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 32547
+	}
+
+}
+1596 = {
+	soldiers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = hindu
+		size= 3045
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = hindu
+		size= 163
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = hindu
+		size= 42
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = hindu
+		size= 366
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 13969
+	}
+
+}
+1597 = {
+	soldiers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = hindu
+		size= 6938
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = hindu
+		size= 372
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = hindu
+		size= 134
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 119
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = hindu
+		size= 1249
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 27314
+	}
+
+}
+1598 = {
+	soldiers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = hindu
+		size= 2569
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = hindu
+		size= 138
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = hindu
+		size= 49
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = hindu
+		size= 462
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 4769
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 197
+	}
+
+	artisans=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 493
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 10
+	}
+
+	officers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = dynamic-tibetan-kashmiri-culture-num1
+		religion = hindu
+		size= 2698
+	}
+
+}
+1599 = {
+	slaves=
+	{
+		culture = uighur
+		religion = hindu
+		size= 4460
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = hindu
+		size= 6660
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = hindu
+		size= 356
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = hindu
+		size= 148
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 114
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = hindu
+		size= 799
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 24699
+	}
+
+}
+1600 = {
+	slaves=
+	{
+		culture = uighur
+		religion = hindu
+		size= 10308
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 4868
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = hindu
+		size= 12169
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = hindu
+		size= 1304
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = hindu
+		size= 235
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 139
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = hindu
+		size= 1461
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 56441
+	}
+
+	slaves=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 3600
+	}
+
+	soldiers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 1700
+	}
+
+	artisans=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 4250
+	}
+
+	clergymen=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 456
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 82
+	}
+
+	officers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 510
+	}
+
+	farmers=
+	{
+		culture = dynamic-uzbehk-khazak-culture-num1
+		religion = hindu
+		size= 19708
+	}
+
+}
+2607 = {
+	soldiers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 441
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = hindu
+		size= 1104
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = hindu
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = hindu
+		size= 21
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = hindu
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = hindu
+		size= 6112
+	}
+
+}

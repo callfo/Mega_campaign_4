@@ -1,0 +1,7 @@
+owner=ORI
+controller=CHA
+add_core=CHA
+add_core=IDO
+add_core=ORI
+trade_goods = fish
+life_rating = 35

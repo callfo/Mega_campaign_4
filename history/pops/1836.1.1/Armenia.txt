@@ -1,0 +1,211 @@
+1098 = {
+	soldiers=
+	{
+		culture = dynamic-armenian-oghuz-culture-num1
+		religion = orthodox
+		size= 1548
+	}
+
+	artisans=
+	{
+		culture = dynamic-armenian-oghuz-culture-num1
+		religion = orthodox
+		size= 1105
+	}
+
+	clergymen=
+	{
+		culture = dynamic-armenian-oghuz-culture-num1
+		religion = orthodox
+		size= 359
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-armenian-oghuz-culture-num1
+		religion = orthodox
+		size= 50
+	}
+
+	officers=
+	{
+		culture = dynamic-armenian-oghuz-culture-num1
+		religion = orthodox
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-armenian-oghuz-culture-num1
+		religion = orthodox
+		size= 464
+	}
+
+	farmers=
+	{
+		culture = dynamic-armenian-oghuz-culture-num1
+		religion = orthodox
+		size= 23850
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 200
+	}
+
+}
+1099 = {
+	soldiers=
+	{
+		culture = dynamic-armenian-oghuz-culture-num1
+		religion = orthodox
+		size= 1006
+	}
+
+	artisans=
+	{
+		culture = dynamic-armenian-oghuz-culture-num1
+		religion = orthodox
+		size= 719
+	}
+
+	clergymen=
+	{
+		culture = dynamic-armenian-oghuz-culture-num1
+		religion = orthodox
+		size= 234
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-armenian-oghuz-culture-num1
+		religion = orthodox
+		size= 32
+	}
+
+	officers=
+	{
+		culture = dynamic-armenian-oghuz-culture-num1
+		religion = orthodox
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-armenian-oghuz-culture-num1
+		religion = orthodox
+		size= 302
+	}
+
+	farmers=
+	{
+		culture = dynamic-armenian-oghuz-culture-num1
+		religion = orthodox
+		size= 15641
+	}
+
+}
+1100 = {
+	soldiers=
+	{
+		culture = persian
+		religion = hindu
+		size= 273
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = hindu
+		size= 391
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = hindu
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 5
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = hindu
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 164
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = hindu
+		size= 8843
+	}
+
+}
+1101 = {
+	soldiers=
+	{
+		culture = persian
+		religion = hindu
+		size= 348
+	}
+
+	artisans=
+	{
+		culture = persian
+		religion = hindu
+		size= 498
+	}
+
+	clergymen=
+	{
+		culture = persian
+		religion = hindu
+		size= 93
+	}
+
+	bureaucrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 6
+	}
+
+	officers=
+	{
+		culture = persian
+		religion = hindu
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = persian
+		religion = hindu
+		size= 209
+	}
+
+	farmers=
+	{
+		culture = persian
+		religion = hindu
+		size= 11268
+	}
+
+}

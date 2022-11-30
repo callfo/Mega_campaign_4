@@ -1,0 +1,6 @@
+owner = TTL
+controller = TTL
+add_core = GER
+trade_goods = cattle
+life_rating = 40
+fort = 1

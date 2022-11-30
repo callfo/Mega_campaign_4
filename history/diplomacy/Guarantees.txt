@@ -1,0 +1,16 @@
+guarantee=
+{
+	first="ORI"
+	second="CSH"
+	start_date="1794.6.4"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="TTL"
+	second="PAL"
+	start_date="1824.6.25"
+	end_date="1936.1.1"
+}
+

@@ -1,0 +1,2577 @@
+2468 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 309
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 617
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 130
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 14222
+	}
+
+}
+2469 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 82
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 164
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3768
+	}
+
+}
+2470 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 72
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 115
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1053
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 93
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 148
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1363
+	}
+
+}
+2471 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1736
+	}
+
+}
+2472 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 126
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1156
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 126
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1157
+	}
+
+}
+2473 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 153
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 247
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2265
+	}
+
+}
+2474 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 161
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1482
+	}
+
+}
+2475 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 155
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 248
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2302
+	}
+
+}
+2476 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 174
+	}
+
+	craftsmen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 279
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 20
+	}
+
+	clerks=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 7
+	}
+
+	capitalists=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 52
+	}
+
+}
+2477 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 76
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1783
+	}
+
+}
+2478 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 68
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1570
+	}
+
+}
+2479 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 68
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1552
+	}
+
+}
+2480 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 85
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 776
+	}
+
+}
+2481 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 796
+	}
+
+}
+2482 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 245
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 788
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 113
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 7417
+	}
+
+}
+2483 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1095
+	}
+
+}
+2484 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 96
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 887
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 697
+	}
+
+}
+2485 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 774
+	}
+
+}
+2486 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 98
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 155
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1435
+	}
+
+}
+2487 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1705
+	}
+
+}
+2488 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 199
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 142
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3143
+	}
+
+}
+2489 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 871
+	}
+
+}
+2490 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 721
+	}
+
+}
+2491 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 112
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2607
+	}
+
+}
+2492 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 836
+	}
+
+}
+2493 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 864
+	}
+
+}
+2494 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 836
+	}
+
+}
+2495 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 32
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 733
+	}
+
+}
+2496 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 803
+	}
+
+}
+2497 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 311
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 501
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4598
+	}
+
+}
+2498 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 106
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2420
+	}
+
+}
+2499 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 69
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1589
+	}
+
+}
+2500 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 77
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 739
+	}
+
+}
+2501 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 432
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 48
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1082
+	}
+
+}
+2502 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 384
+	}
+
+}
+2503 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 517
+	}
+
+}
+2504 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 793
+	}
+
+}
+2505 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 259
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 417
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3824
+	}
+
+}
+2506 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 101
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 161
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1475
+	}
+
+}
+2507 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 53
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 486
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+}
+2508 = {
+	soldiers=
+	{
+		culture = maori
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = catholic
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = maori
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = maori
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = catholic
+		size= 218
+	}
+
+}
+2601 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 101
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 252
+	}
+
+}
+2602 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = catholic
+		size= 112
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 279
+	}
+
+}
+2603 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+}
+2604 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 55
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1248
+	}
+
+}
+2605 = {
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 24
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 560
+	}
+
+}

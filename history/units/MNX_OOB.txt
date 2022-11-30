@@ -1,0 +1,479 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = -9
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -9
+	level = 2
+}
+CEQ = {
+	value = -1
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = -71
+	level = 2
+}
+CST = {
+	value = -10
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 12
+	level = 2
+}
+EGY = {
+	value = 90
+	military_access = yes
+	influence_value = 10
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 6
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RUM = {
+	value = -7
+	level = 2
+}
+RUS = {
+	value = 34
+	level = 2
+}
+SBA = {
+	value = -9
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = -9
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 31
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = -10
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = -12
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Shao'en Zhu"
+	date="1806.9.27"
+	type=land
+	personality="audacious"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Mian Qian"
+	date="1814.11.2"
+	type=sea
+	personality="intuitive"
+	background="generals_aide"
+}
+
+leader = {
+	name="Meng Xue"
+	date="1820.2.5"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Zairui Ding"
+	date="1827.3.15"
+	type=land
+	personality="coolminded"
+	background="school_of_offense"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=1379
+	regiment = {
+		name="1st Huaian Irregulars"
+		type=irregular
+		home=1536
+	}
+	regiment = {
+		name="1st Anqing Irregulars"
+		type=irregular
+		home=1470
+	}
+	regiment = {
+		name="1st Ningguo Cavalry"
+		type=cavalry
+		home=1475
+	}
+	regiment = {
+		name="1st Changzhou Artillery"
+		type=artillery
+		home=1537
+	}
+	regiment = {
+		name="1st Ningguo Artillery"
+		type=artillery
+		home=1475
+	}
+	regiment = {
+		name="1st Tongzhou Irregulars"
+		type=irregular
+		home=1541
+	}
+	regiment = {
+		name="1st Xuzhou Cavalry"
+		type=cavalry
+		home=1542
+	}
+	regiment = {
+		name="3rd Ningguo Artillery"
+		type=artillery
+		home=1475
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1557
+	regiment = {
+		name="1st Changzhou Irregulars"
+		type=irregular
+		home=1537
+	}
+	regiment = {
+		name="2nd Huaian Irregulars"
+		type=irregular
+		home=1536
+	}
+	regiment = {
+		name="1st Nantong Irregulars"
+		type=irregular
+		home=1540
+	}
+	regiment = {
+		name="2nd Changzhou Artillery"
+		type=artillery
+		home=1537
+	}
+	regiment = {
+		name="2nd Ningguo Artillery"
+		type=artillery
+		home=1475
+	}
+	regiment = {
+		name="1st Xuzhou Artillery"
+		type=artillery
+		home=1542
+	}
+	regiment = {
+		name="1st Huaian Artillery"
+		type=artillery
+		home=1536
+	}
+	regiment = {
+		name="3rd Huaian Irregulars"
+		type=irregular
+		home=1536
+	}
+	regiment = {
+		name="1st Luzhou Artillery"
+		type=artillery
+		home=1474
+	}
+}
+

@@ -1,0 +1,6 @@
+owner=RUM
+controller=RUM
+add_core=RUM
+add_core=TUR
+trade_goods = opium
+life_rating = 35

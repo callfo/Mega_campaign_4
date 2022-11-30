@@ -1,0 +1,871 @@
+#Sphere of Influence
+
+ADE = {
+	value = 43
+	level = 2
+}
+ADU = {
+	value = -1
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -65
+	level = 2
+}
+CEQ = {
+	value = -22
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -19
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 191
+	influence_value = 35
+	level = 4
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -59
+	level = 2
+}
+ENG = {
+	value = -182
+	level = 2
+}
+HAI = {
+	value = -16
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 158
+	influence_value = 27
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -139
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -17
+	level = 2
+}
+PRU = {
+	value = -1
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RUM = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 52
+	level = 2
+}
+USA = {
+	value = 31
+	level = 2
+}
+X00 = {
+	value = -35
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = -20
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 13
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 45
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Hashim II van Brunesheim"
+	date="1814.5.30"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Muhammad van Brunesheim"
+	date="1825.10.28"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Idris Berui"
+	date="1814.5.29"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Guij Alami"
+	date="1814.6.1"
+	type=land
+	personality="stalwart"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Malik Alami"
+	date="1814.6.2"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Ali Haida"
+	date="1814.6.5"
+	type=land
+	personality="chivalrous"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="5th Army"
+	location=1699
+	regiment = {
+		name="1st Chenachene Infantry"
+		type=infantry
+		home=1717
+	}
+	regiment = {
+		name="1st Wahiguya Infantry"
+		type=infantry
+		home=1902
+	}
+	regiment = {
+		name="1st Awka Infantry"
+		type=infantry
+		home=1933
+	}
+	regiment = {
+		name="1st Warri Infantry"
+		type=infantry
+		home=1931
+	}
+	regiment = {
+		name="1st Nioro Artillery"
+		type=artillery
+		home=1796
+	}
+	regiment = {
+		name="1st Timbuktu Artillery"
+		type=artillery
+		home=1803
+	}
+	regiment = {
+		name="1st Bandiagara Artillery"
+		type=artillery
+		home=1804
+	}
+	regiment = {
+		name="3rd Timbuktu Infantry"
+		type=infantry
+		home=1803
+	}
+}
+
+army = {
+	name="25th Army"
+	location=1698
+	regiment = {
+		name="2nd Awka Infantry"
+		type=infantry
+		home=1933
+	}
+	regiment = {
+		name="2nd Warri Infantry"
+		type=infantry
+		home=1931
+	}
+	regiment = {
+		name="1st Benin Infantry"
+		type=infantry
+		home=1928
+	}
+	regiment = {
+		name="1st Gao Infantry"
+		type=infantry
+		home=1805
+	}
+	regiment = {
+		name="1st Warri Artillery"
+		type=artillery
+		home=1931
+	}
+	regiment = {
+		name="1st Benin Artillery"
+		type=artillery
+		home=1928
+	}
+	regiment = {
+		name="2nd Warri Artillery"
+		type=artillery
+		home=1931
+	}
+	regiment = {
+		name="1st Bauchi Infantry"
+		type=infantry
+		home=1942
+	}
+	regiment = {
+		name="1st Kintampo Artillery"
+		type=artillery
+		home=1911
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2753
+	ship = {
+		name="Akram"
+		type=frigate
+	}
+	ship = {
+		name="Firas"
+		type=frigate
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1699
+	regiment = {
+		name="1st Mourdiah Infantry"
+		type=infantry
+		home=1801
+	}
+	regiment = {
+		name="1st Ibadan Infantry"
+		type=infantry
+		home=1925
+	}
+	regiment = {
+		name="1st Timbuktu Infantry"
+		type=infantry
+		home=1803
+	}
+	regiment = {
+		name="1st Kumasi Infantry"
+		type=infantry
+		home=1910
+	}
+	regiment = {
+		name="1st Say Infantry"
+		type=infantry
+		home=1809
+	}
+	regiment = {
+		name="1st Araouane Artillery"
+		type=artillery
+		home=2609
+	}
+	regiment = {
+		name="1st Ibadan Artillery"
+		type=artillery
+		home=1925
+	}
+	regiment = {
+		name="1st Kumasi Artillery"
+		type=artillery
+		home=1910
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1699
+	regiment = {
+		name="1st Aruchukwu Infantry"
+		type=infantry
+		home=1935
+	}
+	regiment = {
+		name="1st Sokoto Infantry"
+		type=infantry
+		home=1948
+	}
+	regiment = {
+		name="1st Marrakesh Infantry"
+		type=infantry
+		home=1690
+	}
+	regiment = {
+		name="1st Kebbi Infantry"
+		type=infantry
+		home=1946
+	}
+	regiment = {
+		name="2nd Bandiagara Artillery"
+		type=artillery
+		home=1804
+	}
+	regiment = {
+		name="1st Awka Artillery"
+		type=artillery
+		home=1933
+	}
+	regiment = {
+		name="1st Niamey Artillery"
+		type=artillery
+		home=1808
+	}
+	regiment = {
+		name="1st Odienne Infantry"
+		type=infantry
+		home=1900
+	}
+	regiment = {
+		name="1st Bonny Artillery"
+		type=artillery
+		home=1932
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1694
+	ship = {
+		name="Fas"
+		type=manowar
+	}
+	ship = {
+		name="Murrakush"
+		type=manowar
+	}
+	ship = {
+		name="Miknasa"
+		type=manowar
+	}
+	ship = {
+		name="Al-Rabat"
+		type=manowar
+	}
+	ship = {
+		name="Asfi"
+		type=manowar
+	}
+	ship = {
+		name="Tanja"
+		type=manowar
+	}
+	ship = {
+		name="Tatawin"
+		type=manowar
+	}
+	ship = {
+		name="Al-Qasr al-Kabir"
+		type=manowar
+	}
+	ship = {
+		name="Shafshawan"
+		type=manowar
+	}
+	ship = {
+		name="1st Rabat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bath Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arequipa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Safi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bath Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tangier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Casablanca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tangier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ajdir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tangier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Safi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Tangier Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Arequipa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Madeira Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rabat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Al-Araish"
+		type=manowar
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2748
+	ship = {
+		name="Atif"
+		type=frigate
+	}
+	ship = {
+		name="Fath"
+		type=frigate
+	}
+}
+
+army = {
+	name="30th Army"
+	location=1694
+	regiment = {
+		name="1st Timbo Infantry"
+		type=infantry
+		home=1880
+	}
+	regiment = {
+		name="2nd Say Infantry"
+		type=infantry
+		home=1809
+	}
+	regiment = {
+		name="2nd Timbuktu Infantry"
+		type=infantry
+		home=1803
+	}
+	regiment = {
+		name="2nd Benin Artillery"
+		type=artillery
+		home=1928
+	}
+	regiment = {
+		name="3rd Benin Artillery"
+		type=artillery
+		home=1928
+	}
+	regiment = {
+		name="4th Benin Artillery"
+		type=artillery
+		home=1928
+	}
+	regiment = {
+		name="1st Rashidia Artillery"
+		type=artillery
+		home=1698
+	}
+	regiment = {
+		name="4th Timbuktu Infantry"
+		type=infantry
+		home=1803
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1948
+	regiment = {
+		name="1st Bambuhu Artillery"
+		type=artillery
+		home=1795
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1794
+	regiment = {
+		name="1st Kintampo Infantry"
+		type=infantry
+		home=1911
+	}
+	regiment = {
+		name="2nd Rashidia Artillery"
+		type=artillery
+		home=1698
+	}
+	regiment = {
+		name="1st Bougouni Infantry"
+		type=infantry
+		home=1798
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1899
+	regiment = {
+		name="1st Marrakesh Artillery"
+		type=artillery
+		home=1690
+	}
+}
+
+army = {
+	name="34th Army"
+	location=1933
+	regiment = {
+		name="1st Bakel Artillery"
+		type=artillery
+		home=1791
+	}
+}
+
+army = {
+	name="18th Army"
+	location=1699
+	regiment = {
+		name="2nd Ibadan Artillery"
+		type=artillery
+		home=1925
+	}
+}
+
+army = {
+	name="20th Army"
+	location=2609
+	regiment = {
+		name="1st Kita Artillery"
+		type=artillery
+		home=1797
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1805
+	regiment = {
+		name="2nd Kumasi Artillery"
+		type=artillery
+		home=1910
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2738
+	ship = {
+		name="Ayman"
+		type=frigate
+	}
+	ship = {
+		name="Bahir"
+		type=frigate
+	}
+	ship = {
+		name="Fadil"
+		type=frigate
+	}
+	ship = {
+		name="Fawwaz"
+		type=frigate
+	}
+}
+

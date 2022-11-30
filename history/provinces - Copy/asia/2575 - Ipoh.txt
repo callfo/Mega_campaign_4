@@ -1,0 +1,8 @@
+owner=RUM
+controller=MLC
+add_core=MLC
+add_core=MLY
+trade_goods = timber
+life_rating = 35
+colonial=2
+fort = 1

@@ -1,0 +1,995 @@
+#Sphere of Influence
+
+ADE = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+ADU = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 139
+	influence_value = 22
+	level = 3
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = -10
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 19
+	level = 2
+}
+ITA = {
+	value = -89
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = -41
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 19
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RUM = {
+	value = -22
+	level = 2
+}
+RUS = {
+	value = -9
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 46
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = -3
+	level = 2
+}
+X05 = {
+	value = -99
+	level = 2
+}
+X06 = {
+	value = -69
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 125
+	influence_value = 18
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Yashovardhana Pratap"
+	date="1798.12.8"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Rajjila Vaghela"
+	date="1804.2.22"
+	type=sea
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Singhraja Chudasama"
+	date="1808.6.24"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Rajjila Khumba"
+	date="1809.1.26"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Vigraharaja Sahu"
+	date="1809.6.23"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Surajpala Vaghela"
+	date="1809.11.12"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Bahadur-Singh Bhati"
+	date="1826.8.3"
+	type=land
+	personality="audacious"
+	background="school_of_the_bayonet"
+}
+
+leader = {
+	name="Ambra-Prasad Jadeja"
+	date="1826.8.4"
+	type=land
+	personality="audacious"
+	background="school_of_offense"
+}
+
+
+#Armies
+army = {
+	name="4th Army"
+	location=1264
+	regiment = {
+		name="1st Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="1st Baroda Irregulars"
+		type=irregular
+		home=1295
+	}
+	regiment = {
+		name="2nd Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="1st Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="1st Ajmer Artillery"
+		type=artillery
+		home=1264
+	}
+	regiment = {
+		name="1st Udaipur Artillery"
+		type=artillery
+		home=1269
+	}
+	regiment = {
+		name="24th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="2nd Patan Artillery"
+		type=artillery
+		home=1294
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1212
+	regiment = {
+		name="1st Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="2nd Rajkot Irregulars"
+		type=irregular
+		home=1292
+	}
+	regiment = {
+		name="1st Ajmer Irregulars"
+		type=irregular
+		home=1264
+	}
+	regiment = {
+		name="2nd Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="1st Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="3rd Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="2nd Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="3rd Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="21st Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="3rd Patan Artillery"
+		type=artillery
+		home=1294
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1289
+	regiment = {
+		name="1st Patan Irregulars"
+		type=irregular
+		home=1294
+	}
+	regiment = {
+		name="1st Jodhpur Irregulars"
+		type=irregular
+		home=1266
+	}
+	regiment = {
+		name="2nd Ajmer Irregulars"
+		type=irregular
+		home=1264
+	}
+	regiment = {
+		name="2nd Ajmer Artillery"
+		type=artillery
+		home=1264
+	}
+	regiment = {
+		name="4th Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="5th Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="1st Bikaner Artillery"
+		type=artillery
+		home=1267
+	}
+	regiment = {
+		name="2nd Bikaner Artillery"
+		type=artillery
+		home=1267
+	}
+	regiment = {
+		name="23rd Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="5th Udaipur Artillery"
+		type=artillery
+		home=1269
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1136
+	regiment = {
+		name="3rd Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="4th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="1st Jask Irregulars"
+		type=irregular
+		home=1145
+	}
+	regiment = {
+		name="5th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="1st Patan Cavalry"
+		type=cavalry
+		home=1294
+	}
+	regiment = {
+		name="3rd Ajmer Artillery"
+		type=artillery
+		home=1264
+	}
+	regiment = {
+		name="6th Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="4th Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="22nd Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="2nd Patan Cavalry"
+		type=cavalry
+		home=1294
+	}
+	regiment = {
+		name="1st Udaipur Cavalry"
+		type=cavalry
+		home=1269
+	}
+	regiment = {
+		name="1st Jaipur Cavalry"
+		type=cavalry
+		home=1268
+	}
+	regiment = {
+		name="1st Jodhpur Cavalry"
+		type=cavalry
+		home=1266
+	}
+	regiment = {
+		name="4th Patan Artillery"
+		type=artillery
+		home=1294
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1108
+	regiment = {
+		name="6th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="1st Birjand Irregulars"
+		type=irregular
+		home=1148
+	}
+	regiment = {
+		name="7th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="7th Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="2nd Udaipur Artillery"
+		type=artillery
+		home=1269
+	}
+	regiment = {
+		name="5th Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2906
+	ship = {
+		name="3rd Hodeida Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Socotra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Karachi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Abha Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Karachi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bela Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Amfissa Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1194
+	regiment = {
+		name="2nd Jodhpur Irregulars"
+		type=irregular
+		home=1266
+	}
+	regiment = {
+		name="1st Zahedan Irregulars"
+		type=irregular
+		home=1144
+	}
+	regiment = {
+		name="3rd Jodhpur Irregulars"
+		type=irregular
+		home=1266
+	}
+	regiment = {
+		name="3rd Ajmer Irregulars"
+		type=irregular
+		home=1264
+	}
+	regiment = {
+		name="6th Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="3rd Udaipur Artillery"
+		type=artillery
+		home=1269
+	}
+	regiment = {
+		name="7th Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2791
+	ship = {
+		name="1st Bela Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bela Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Socotra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Socotra Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Karachi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Karachi Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="18th Army"
+	location=1142
+	regiment = {
+		name="8th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="9th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="10th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="11th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="12th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="3rd Bikaner Artillery"
+		type=artillery
+		home=1267
+	}
+	regiment = {
+		name="8th Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="4th Bikaner Artillery"
+		type=artillery
+		home=1267
+	}
+	regiment = {
+		name="4th Udaipur Artillery"
+		type=artillery
+		home=1269
+	}
+	regiment = {
+		name="20th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1269
+	regiment = {
+		name="1st Bikaner Irregulars"
+		type=irregular
+		home=1267
+	}
+	regiment = {
+		name="1st Udaipur Irregulars"
+		type=irregular
+		home=1269
+	}
+	regiment = {
+		name="4th Ajmer Irregulars"
+		type=irregular
+		home=1264
+	}
+	regiment = {
+		name="1st Mandvi Irregulars"
+		type=irregular
+		home=1293
+	}
+	regiment = {
+		name="1st Jaisalmer Irregulars"
+		type=irregular
+		home=1265
+	}
+}
+
+army = {
+	name="21st Army"
+	location=1136
+	regiment = {
+		name="13th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="14th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="4th Jodhpur Irregulars"
+		type=irregular
+		home=1266
+	}
+}
+
+army = {
+	name="23rd Army"
+	location=1117
+	regiment = {
+		name="15th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="2nd Bikaner Irregulars"
+		type=irregular
+		home=1267
+	}
+	regiment = {
+		name="16th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1117
+	regiment = {
+		name="3rd Bikaner Irregulars"
+		type=irregular
+		home=1267
+	}
+	regiment = {
+		name="17th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="5th Jodhpur Irregulars"
+		type=irregular
+		home=1266
+	}
+}
+
+army = {
+	name="17th Army"
+	location=1292
+	regiment = {
+		name="5th Ajmer Irregulars"
+		type=irregular
+		home=1264
+	}
+	regiment = {
+		name="18th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="19th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="8th Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="1st Patan Artillery"
+		type=artillery
+		home=1294
+	}
+	regiment = {
+		name="9th Jodhpur Artillery"
+		type=artillery
+		home=1266
+	}
+	regiment = {
+		name="5th Bikaner Artillery"
+		type=artillery
+		home=1267
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1290
+	regiment = {
+		name="4th Bikaner Irregulars"
+		type=irregular
+		home=1267
+	}
+	regiment = {
+		name="6th Jodhpur Irregulars"
+		type=irregular
+		home=1266
+	}
+	regiment = {
+		name="5th Bikaner Irregulars"
+		type=irregular
+		home=1267
+	}
+	regiment = {
+		name="7th Jodhpur Irregulars"
+		type=irregular
+		home=1266
+	}
+}
+

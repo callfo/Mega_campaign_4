@@ -1,0 +1,1521 @@
+1745 = {
+	slaves=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 11171
+	}
+
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 23431
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 43105
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 4091
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 855
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 792
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 3990
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 227956
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 1225
+	}
+
+}
+1746 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 35133
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 20484
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1902
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 336
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 308
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 3688
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 84465
+	}
+
+}
+1747 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 5336
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 8576
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1239
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 257
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 200
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1201
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 78476
+	}
+
+}
+1748 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 6545
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 9715
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 920
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 192
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 206
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1793
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 51524
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 245
+	}
+
+}
+1749 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 4929
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 9326
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 866
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 180
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 167
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 839
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 50306
+	}
+
+}
+1750 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 5075
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 8156
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1178
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 245
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 190
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1142
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 74634
+	}
+
+}
+1751 = {
+	slaves=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 6711
+	}
+
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 16878
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 24693
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 2375
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 422
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 532
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 2312
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 128530
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 990
+	}
+
+}
+1752 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 826
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 590
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 22
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 124
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 13053
+	}
+
+}
+1753 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 272
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 194
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 4293
+	}
+
+}
+1754 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 189
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 2993
+	}
+
+}
+1755 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1809
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 2752
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 256
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 53
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 496
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 14233
+	}
+
+}
+1756 = {
+	soldiers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 96
+	}
+
+	artisans=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 432
+	}
+
+	clergymen=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 11
+	}
+
+	officers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = jerusalemer
+		religion = noreligion
+		size= 4158
+	}
+
+}
+1757 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 958
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 13
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1584
+	}
+
+}
+1758 = {
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 1800
+	}
+
+}
+1759 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 103
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1378
+	}
+
+}
+1760 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 172
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 2977
+	}
+
+}
+1761 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 193
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 138
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 3015
+	}
+
+}
+1762 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 16533
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 9427
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 875
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 155
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 195
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1697
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 38456
+	}
+
+}
+1763 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1327
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 3317
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 308
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 54
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 298
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 18336
+	}
+
+}
+1764 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1558
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 3894
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 362
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 64
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 701
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 21179
+	}
+
+}
+1765 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 4677
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 7117
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 661
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 117
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 147
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1281
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 36833
+	}
+
+}
+1766 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1109
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 482
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 23
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 203
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 10043
+	}
+
+}
+1767 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 702
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 228
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 33
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 442
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 11972
+	}
+
+}
+1768 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 773
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 251
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 37
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 487
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 10512
+	}
+
+}
+1769 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1224
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 532
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 173
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 36
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 112
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 11183
+	}
+
+}
+1770 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 97
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 1220
+	}
+
+}
+1771 = {
+	soldiers=
+	{
+		culture = beja
+		religion = noreligion
+		size= 84
+	}
+
+	artisans=
+	{
+		culture = beja
+		religion = noreligion
+		size= 585
+	}
+
+	clergymen=
+	{
+		culture = beja
+		religion = noreligion
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = beja
+		religion = noreligion
+		size= 6
+	}
+
+	officers=
+	{
+		culture = beja
+		religion = noreligion
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = beja
+		religion = noreligion
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = beja
+		religion = noreligion
+		size= 3399
+	}
+
+}
+1772 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 97
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 2182
+	}
+
+}
+2559 = {
+	soldiers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 2263
+	}
+
+	clergymen=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 327
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 78
+	}
+
+	officers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 634
+	}
+
+	farmers=
+	{
+		culture = dynamic-nubian-culture-num1
+		religion = noreligion
+		size= 14557
+	}
+
+}

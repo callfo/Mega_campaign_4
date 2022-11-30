@@ -1,0 +1,102 @@
+2240 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 11733
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 674
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 481
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 101
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 104
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 1637
+	}
+
+}

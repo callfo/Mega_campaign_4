@@ -1,0 +1,5 @@
+owner=CST
+controller=CST
+trade_goods = fruit
+life_rating = 35
+terrain = small_island

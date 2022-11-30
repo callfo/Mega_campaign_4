@@ -1,0 +1,204 @@
+2193 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 955
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1909
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 310
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 48
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 401
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 44069
+	}
+
+}
+2194 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 436
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 872
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 142
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 22
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 183
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 20125
+	}
+
+}
+2195 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 676
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 34
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 426
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 8429
+	}
+
+}
+2196 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 119
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1765
+	}
+
+}

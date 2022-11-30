@@ -1,0 +1,641 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = -1
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 74
+	influence_value = 6
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 31
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 179
+	influence_value = 32
+	level = 4
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 1
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = -1
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+MAZ = {
+	value = 123
+	influence_value = 18
+	level = 3
+}
+MEC = {
+	value = 207
+	military_access = yes
+	influence_value = 89
+	level = 5
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = -1
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -290
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RUM = {
+	value = -1
+	level = 2
+}
+RUS = {
+	value = -20
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 235
+	influence_value = 46
+	level = 4
+}
+TIR = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 46
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -6
+	level = 2
+}
+X00 = {
+	value = -520
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -9
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = -62
+	level = 2
+}
+X06 = {
+	value = -1
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = -11
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 7
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 43
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 45
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Otto III"
+	date="1807.8.4"
+	type=land
+	personality="persistant"
+	background="brownnoser"
+}
+
+leader = {
+	name="Hermann Aller"
+	date="1792.6.28"
+	type=sea
+	personality="active_p"
+	background="aristocrat"
+}
+
+leader = {
+	name="Peter Salzgitter"
+	date="1820.6.10"
+	type=land
+	personality="audacious"
+	background="school_of_the_bayonet"
+}
+
+leader = {
+	name="Theoderic Hamelm"
+	date="1821.12.26"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Heinrich Werden"
+	date="1829.4.19"
+	type=land
+	personality="audacious"
+	background="school_of_offense"
+}
+
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=2711
+	ship = {
+		name="Hannover"
+		type=manowar
+	}
+	ship = {
+		name="Victoria"
+		type=manowar
+	}
+	ship = {
+		name="König Georg"
+		type=manowar
+	}
+	ship = {
+		name="Askanian"
+		type=frigate
+	}
+	ship = {
+		name="Welf"
+		type=frigate
+	}
+	ship = {
+		name="1st Kolberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Stettin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Schwerin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Greifswald Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Schwerin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Stralsund Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kolberg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Lüneburg"
+		type=frigate
+	}
+	ship = {
+		name="3rd Schwerin Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Armee von Carniola"
+	location=559
+	regiment = {
+		name="1st Munich Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="1st Lübeck Infantry"
+		type=infantry
+		home=530
+	}
+	regiment = {
+		name="1st Kolberg Infantry"
+		type=infantry
+		home=679
+	}
+	regiment = {
+		name="2nd Kolberg Infantry"
+		type=infantry
+		home=679
+	}
+	regiment = {
+		name="2nd Munich Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="1st Stettin Artillery"
+		type=artillery
+		home=546
+	}
+	regiment = {
+		name="1st Prague Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="2nd Stettin Artillery"
+		type=artillery
+		home=546
+	}
+	regiment = {
+		name="3rd Stettin Artillery"
+		type=artillery
+		home=546
+	}
+	regiment = {
+		name="2nd Schwerin Infantry"
+		type=infantry
+		home=544
+	}
+	regiment = {
+		name="1st Munich Artillery"
+		type=artillery
+		home=599
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2721
+	ship = {
+		name="Heinrich der Löwe"
+		type=frigate
+	}
+	ship = {
+		name="Ernst August"
+		type=frigate
+	}
+	ship = {
+		name="Emden"
+		type=frigate
+	}
+	ship = {
+		name="Wittekind"
+		type=frigate
+	}
+	ship = {
+		name="Stade"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=616
+	regiment = {
+		name="3rd Kolberg Infantry"
+		type=infantry
+		home=679
+	}
+	regiment = {
+		name="1st Dresden Infantry"
+		type=infantry
+		home=558
+	}
+	regiment = {
+		name="1st Schwerin Infantry"
+		type=infantry
+		home=544
+	}
+	regiment = {
+		name="2nd Prague Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="3rd Prague Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="4th Prague Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="4th Stettin Artillery"
+		type=artillery
+		home=546
+	}
+	regiment = {
+		name="5th Prague Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="1st Dresden Artillery"
+		type=artillery
+		home=558
+	}
+	regiment = {
+		name="1st Lübeck Artillery"
+		type=artillery
+		home=530
+	}
+}
+
+army = {
+	name="Armee von Graz"
+	location=616
+	regiment = {
+		name="1st Budejovice Infantry"
+		type=infantry
+		home=630
+	}
+	regiment = {
+		name="6th Prague Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="7th Prague Artillery"
+		type=artillery
+		home=625
+	}
+	regiment = {
+		name="1st Karlsbad Artillery"
+		type=artillery
+		home=627
+	}
+	regiment = {
+		name="2nd Lübeck Infantry"
+		type=infantry
+		home=530
+	}
+}
+

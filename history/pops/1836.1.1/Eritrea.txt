@@ -1,0 +1,330 @@
+1848 = {
+	slaves=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 336
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 1041
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 562
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 27
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 354
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 11611
+	}
+
+	slaves=
+	{
+		culture = beja
+		religion = noreligion
+		size= 168
+	}
+
+	soldiers=
+	{
+		culture = beja
+		religion = noreligion
+		size= 520
+	}
+
+	artisans=
+	{
+		culture = beja
+		religion = noreligion
+		size= 281
+	}
+
+	clergymen=
+	{
+		culture = beja
+		religion = noreligion
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = beja
+		religion = noreligion
+		size= 13
+	}
+
+	officers=
+	{
+		culture = beja
+		religion = noreligion
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = beja
+		religion = noreligion
+		size= 177
+	}
+
+	farmers=
+	{
+		culture = beja
+		religion = noreligion
+		size= 5806
+	}
+
+}
+1849 = {
+	soldiers=
+	{
+		culture = beja
+		religion = noreligion
+		size= 137
+	}
+
+	artisans=
+	{
+		culture = beja
+		religion = noreligion
+		size= 614
+	}
+
+	clergymen=
+	{
+		culture = beja
+		religion = noreligion
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = beja
+		religion = noreligion
+		size= 16
+	}
+
+	officers=
+	{
+		culture = beja
+		religion = noreligion
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = beja
+		religion = noreligion
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = beja
+		religion = noreligion
+		size= 5950
+	}
+
+}
+1850 = {
+	slaves=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 661
+	}
+
+	soldiers=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 11
+	}
+
+	officers=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = tigray
+		religion = noreligion
+		size= 3192
+	}
+
+	slaves=
+	{
+		culture = beja
+		religion = noreligion
+		size= 331
+	}
+
+	soldiers=
+	{
+		culture = beja
+		religion = noreligion
+		size= 196
+	}
+
+	artisans=
+	{
+		culture = beja
+		religion = noreligion
+		size= 106
+	}
+
+	clergymen=
+	{
+		culture = beja
+		religion = noreligion
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = beja
+		religion = noreligion
+		size= 5
+	}
+
+	officers=
+	{
+		culture = beja
+		religion = noreligion
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = beja
+		religion = noreligion
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = beja
+		religion = noreligion
+		size= 1916
+	}
+
+}
+1851 = {
+	soldiers=
+	{
+		culture = afar
+		religion = noreligion
+		size= 207
+	}
+
+	artisans=
+	{
+		culture = afar
+		religion = noreligion
+		size= 414
+	}
+
+	clergymen=
+	{
+		culture = afar
+		religion = noreligion
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = afar
+		religion = noreligion
+		size= 28
+	}
+
+	officers=
+	{
+		culture = afar
+		religion = noreligion
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = afar
+		religion = noreligion
+		size= 174
+	}
+
+	farmers=
+	{
+		culture = afar
+		religion = noreligion
+		size= 9439
+	}
+
+}

@@ -1,0 +1,779 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = -19
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -18
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = -27
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 16
+	military_access = yes
+	level = 2
+}
+HAI = {
+	value = 20
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = -32
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = -22
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RUM = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = -16
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -17
+	level = 2
+}
+X00 = {
+	value = 71
+	influence_value = 5
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = -37
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 31
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Horatio Dampier"
+	date="1794.10.22"
+	type=land
+	personality="earnest"
+	background="armchair_general"
+}
+
+leader = {
+	name="Oliver Cabot"
+	date="1817.10.23"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Samuel Clarence"
+	date="1823.1.12"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Francis Beresford"
+	date="1823.1.14"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Jeremy Essex"
+	date="1829.8.24"
+	type=sea
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=2282
+	regiment = {
+		name="1st Bogotá Infantry"
+		type=infantry
+		home=2247
+	}
+	regiment = {
+		name="1st Curiapo Infantry"
+		type=infantry
+		home=2276
+	}
+	regiment = {
+		name="1st Quito Infantry"
+		type=infantry
+		home=2279
+	}
+	regiment = {
+		name="1st Barranquilla Infantry"
+		type=infantry
+		home=2255
+	}
+	regiment = {
+		name="2nd Curiapo Infantry"
+		type=infantry
+		home=2276
+	}
+	regiment = {
+		name="1st Bogotá Artillery"
+		type=artillery
+		home=2247
+	}
+	regiment = {
+		name="1st Valera Artillery"
+		type=artillery
+		home=2271
+	}
+	regiment = {
+		name="1st Liberia Artillery"
+		type=artillery
+		home=2202
+	}
+	regiment = {
+		name="1st Maracaibo Artillery"
+		type=artillery
+		home=2270
+	}
+	regiment = {
+		name="1st Medellín Artillery"
+		type=artillery
+		home=2252
+	}
+	regiment = {
+		name="1st Ibagué Artillery"
+		type=artillery
+		home=2248
+	}
+}
+
+army = {
+	name="4th Army"
+	location=2308
+	regiment = {
+		name="1st Valera Infantry"
+		type=infantry
+		home=2271
+	}
+	regiment = {
+		name="3rd Curiapo Infantry"
+		type=infantry
+		home=2276
+	}
+	regiment = {
+		name="4th Curiapo Infantry"
+		type=infantry
+		home=2276
+	}
+	regiment = {
+		name="5th Curiapo Infantry"
+		type=infantry
+		home=2276
+	}
+	regiment = {
+		name="1st Zamora Artillery"
+		type=artillery
+		home=2283
+	}
+	regiment = {
+		name="1st Quito Artillery"
+		type=artillery
+		home=2279
+	}
+	regiment = {
+		name="2nd Maracaibo Artillery"
+		type=artillery
+		home=2270
+	}
+	regiment = {
+		name="1st Georgetown Artillery"
+		type=artillery
+		home=2239
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2254
+	ship = {
+		name="Aventina"
+		type=manowar
+	}
+	ship = {
+		name="Confianza"
+		type=manowar
+	}
+	ship = {
+		name="Emprendedora"
+		type=manowar
+	}
+	ship = {
+		name="Espartana"
+		type=manowar
+	}
+	ship = {
+		name="Fama"
+		type=manowar
+	}
+	ship = {
+		name="Gran Bolívar"
+		type=manowar
+	}
+	ship = {
+		name="Independencia"
+		type=manowar
+	}
+	ship = {
+		name="Leona"
+		type=manowar
+	}
+	ship = {
+		name="Marina"
+		type=manowar
+	}
+	ship = {
+		name="Marte"
+		type=manowar
+	}
+	ship = {
+		name="5th Guayaquil Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Guayaquil Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Amenazante"
+		type=clipper_transport
+	}
+	ship = {
+		name="Arauca"
+		type=clipper_transport
+	}
+	ship = {
+		name="Auspicio"
+		type=clipper_transport
+	}
+	ship = {
+		name="Barranquilla"
+		type=clipper_transport
+	}
+	ship = {
+		name="Caquetá"
+		type=clipper_transport
+	}
+	ship = {
+		name="Catatumbo"
+		type=clipper_transport
+	}
+	ship = {
+		name="Chocó"
+		type=clipper_transport
+	}
+	ship = {
+		name="Estrella"
+		type=clipper_transport
+	}
+	ship = {
+		name="Florencia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Guainía"
+		type=clipper_transport
+	}
+	ship = {
+		name="Huila"
+		type=clipper_transport
+	}
+	ship = {
+		name="Indestructible"
+		type=clipper_transport
+	}
+	ship = {
+		name="La Guajira"
+		type=clipper_transport
+	}
+	ship = {
+		name="Leticia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Manizales"
+		type=clipper_transport
+	}
+	ship = {
+		name="Montería"
+		type=clipper_transport
+	}
+	ship = {
+		name="Nariño"
+		type=clipper_transport
+	}
+	ship = {
+		name="Natividad"
+		type=clipper_transport
+	}
+	ship = {
+		name="Salvador"
+		type=clipper_transport
+	}
+	ship = {
+		name="Vaupés"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Cartagena de Indias Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Guayaquil Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bluefields Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Cartagena de Indias Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Managua Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Guayaquil Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="8th Guayaquil Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2289
+	regiment = {
+		name="1st Barquisimeto Infantry"
+		type=infantry
+		home=2273
+	}
+	regiment = {
+		name="1st Quibdó Artillery"
+		type=artillery
+		home=2253
+	}
+	regiment = {
+		name="1st San José del Guaviare Artillery"
+		type=artillery
+		home=2260
+	}
+	regiment = {
+		name="1st San José del Guaviare Infantry"
+		type=infantry
+		home=2260
+	}
+	regiment = {
+		name="1st El Encanto Artillery"
+		type=artillery
+		home=2263
+	}
+}
+
+army = {
+	name="8th Army"
+	location=2276
+	regiment = {
+		name="1st Medellín Infantry"
+		type=infantry
+		home=2252
+	}
+	regiment = {
+		name="1st Maracaibo Infantry"
+		type=infantry
+		home=2270
+	}
+	regiment = {
+		name="1st Obando Infantry"
+		type=infantry
+		home=2261
+	}
+	regiment = {
+		name="2nd Zamora Artillery"
+		type=artillery
+		home=2283
+	}
+	regiment = {
+		name="1st Cartagena de Indias Artillery"
+		type=artillery
+		home=2254
+	}
+	regiment = {
+		name="1st Casanare Infantry"
+		type=infantry
+		home=2262
+	}
+	regiment = {
+		name="1st Caracas Artillery"
+		type=artillery
+		home=2264
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2967
+	ship = {
+		name="Antioquía"
+		type=frigate
+	}
+	ship = {
+		name="José Mª García y Toledo"
+		type=frigate
+	}
+	ship = {
+		name="República"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2975
+	ship = {
+		name="Caldas"
+		type=frigate
+	}
+	ship = {
+		name="Quitasueño"
+		type=frigate
+	}
+	ship = {
+		name="Valle del Cauca"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=3002
+	ship = {
+		name="Cartagena"
+		type=frigate
+	}
+	ship = {
+		name="Juan Nepomuceno Eslava"
+		type=frigate
+	}
+	ship = {
+		name="Santa Marta"
+		type=frigate
+	}
+}
+

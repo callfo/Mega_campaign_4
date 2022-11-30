@@ -1,0 +1,7 @@
+owner=RUM
+controller=RUM
+add_core=ARA
+trade_goods = fruit
+life_rating = 34
+terrain = semidesert
+colonial=2

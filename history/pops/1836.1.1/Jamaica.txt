@@ -1,0 +1,102 @@
+2217 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 95595
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 5691
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 14228
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1524
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 467
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 163
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 2561
+	}
+
+}
+2218 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 53
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 7
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 256
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+}

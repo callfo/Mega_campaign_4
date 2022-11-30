@@ -1,0 +1,4 @@
+owner=MLC
+controller=X00
+trade_goods = fish
+life_rating = 31

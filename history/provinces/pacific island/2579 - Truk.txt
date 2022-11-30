@@ -1,0 +1,5 @@
+owner=CST
+controller=CST
+trade_goods = fish
+life_rating = 10
+terrain = small_island

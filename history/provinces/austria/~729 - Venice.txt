@@ -1,0 +1,7 @@
+owner=LOM
+controller=REB
+add_core=ITA
+add_core=LOM
+trade_goods = fish
+life_rating = 40
+naval_base = 1

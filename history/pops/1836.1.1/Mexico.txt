@@ -1,0 +1,2938 @@
+2137 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 362
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 724
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 44
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 152
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 16690
+	}
+
+}
+2138 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 142
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 823
+	}
+
+}
+2139 = {
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 560
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2275
+	}
+
+}
+2140 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 112
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 2597
+	}
+
+}
+2141 = {
+	soldiers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = mexican
+		religion = catholic
+		size= 269
+	}
+
+	clergymen=
+	{
+		culture = mexican
+		religion = catholic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mexican
+		religion = catholic
+		size= 85
+	}
+
+	farmers=
+	{
+		culture = mexican
+		religion = catholic
+		size= 6160
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 242
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 15
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 5544
+	}
+
+}
+2142 = {
+	soldiers=
+	{
+		culture = texan
+		religion = protestant
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = protestant
+		size= 977
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = protestant
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 49
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = protestant
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 308
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = protestant
+		size= 18765
+	}
+
+}
+2143 = {
+	soldiers=
+	{
+		culture = texan
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = protestant
+		size= 141
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = protestant
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = protestant
+		size= 2280
+	}
+
+}
+2144 = {
+	soldiers=
+	{
+		culture = texan
+		religion = protestant
+		size= 141
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = protestant
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = protestant
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = protestant
+		size= 2213
+	}
+
+}
+2145 = {
+	soldiers=
+	{
+		culture = texan
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = protestant
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = protestant
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = protestant
+		size= 800
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1794
+	}
+
+}
+2147 = {
+	soldiers=
+	{
+		culture = texan
+		religion = protestant
+		size= 330
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = protestant
+		size= 143
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = protestant
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 4
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = protestant
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = protestant
+		size= 3031
+	}
+
+}
+2148 = {
+	soldiers=
+	{
+		culture = navajo
+		religion = catholic
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = navajo
+		religion = catholic
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = navajo
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = navajo
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = navajo
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = navajo
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = navajo
+		religion = catholic
+		size= 337
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 149
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 809
+	}
+
+	soldiers=
+	{
+		culture = pueblo
+		religion = catholic
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = pueblo
+		religion = catholic
+		size= 87
+	}
+
+	clergymen=
+	{
+		culture = pueblo
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = pueblo
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = pueblo
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = pueblo
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = pueblo
+		religion = catholic
+		size= 472
+	}
+
+}
+2149 = {
+	soldiers=
+	{
+		culture = texan
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = protestant
+		size= 443
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = protestant
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 31
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = protestant
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 279
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = protestant
+		size= 9216
+	}
+
+}
+2150 = {
+	soldiers=
+	{
+		culture = texan
+		religion = protestant
+		size= 1792
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = protestant
+		size= 1280
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = protestant
+		size= 208
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 32
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = protestant
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 806
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = protestant
+		size= 27823
+	}
+
+}
+2151 = {
+	soldiers=
+	{
+		culture = texan
+		religion = protestant
+		size= 616
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = protestant
+		size= 440
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = protestant
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 11
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = protestant
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 277
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = protestant
+		size= 9565
+	}
+
+}
+2152 = {
+	soldiers=
+	{
+		culture = texan
+		religion = protestant
+		size= 666
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = protestant
+		size= 476
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = protestant
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 24
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = protestant
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = protestant
+		size= 10488
+	}
+
+}
+2153 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 630
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 31
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 397
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 7328
+	}
+
+}
+2154 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 440
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 22
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 277
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 9160
+	}
+
+}
+2155 = {
+	soldiers=
+	{
+		culture = texan
+		religion = protestant
+		size= 808
+	}
+
+	artisans=
+	{
+		culture = texan
+		religion = protestant
+		size= 577
+	}
+
+	clergymen=
+	{
+		culture = texan
+		religion = protestant
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 20
+	}
+
+	officers=
+	{
+		culture = texan
+		religion = protestant
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = texan
+		religion = protestant
+		size= 363
+	}
+
+	farmers=
+	{
+		culture = texan
+		religion = protestant
+		size= 12539
+	}
+
+}
+2156 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1149
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 187
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 57
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 362
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 25907
+	}
+
+}
+2157 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 282
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 178
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 2391
+	}
+
+}
+2158 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 7870
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 3422
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 557
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 307
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 206
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 2156
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 71028
+	}
+
+}
+2159 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 4927
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 12318
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 572
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 211
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 140
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1108
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 68706
+	}
+
+}
+2160 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 728
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1456
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 236
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 36
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 458
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 33448
+	}
+
+}
+2161 = {
+	soldiers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 309
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 619
+	}
+
+	clergymen=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 28
+	}
+
+	officers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 195
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 14206
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 93
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 186
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 4262
+	}
+
+}
+2162 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 112
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 785
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 141
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 4520
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 586
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = protestant
+		size= 4099
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = protestant
+		size= 190
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 42
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 738
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 23598
+	}
+
+}
+2163 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 778
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 126
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 19
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 490
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 16986
+	}
+
+}
+2164 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 237
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = protestant
+		size= 473
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = protestant
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 16
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 10877
+	}
+
+}
+2165 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 308
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 2157
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 34
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 259
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 12538
+	}
+
+}
+2166 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 443
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 3100
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 144
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 31
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 558
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 17850
+	}
+
+	soldiers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 1044
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 7307
+	}
+
+	clergymen=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 339
+	}
+
+	bureaucrats=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 73
+	}
+
+	officers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 1315
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 42077
+	}
+
+}
+2167 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 9474
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 6767
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1099
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 170
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 271
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 2132
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 149267
+	}
+
+}
+2168 = {
+	soldiers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 731
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 5114
+	}
+
+	clergymen=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 237
+	}
+
+	bureaucrats=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 52
+	}
+
+	officers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 461
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 29906
+	}
+
+}
+2169 = {
+	soldiers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 524
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 1047
+	}
+
+	clergymen=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 170
+	}
+
+	bureaucrats=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 37
+	}
+
+	officers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 330
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 24058
+	}
+
+}
+2170 = {
+	soldiers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 1710
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 11970
+	}
+
+	clergymen=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 556
+	}
+
+	bureaucrats=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 187
+	}
+
+	officers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 2154
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 68861
+	}
+
+}
+2171 = {
+	soldiers=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 288
+	}
+
+	artisans=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 574
+	}
+
+	clergymen=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 20
+	}
+
+	officers=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 180
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 13192
+	}
+
+	soldiers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 258
+	}
+
+	artisans=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 517
+	}
+
+	clergymen=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 18
+	}
+
+	officers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 163
+	}
+
+	farmers=
+	{
+		culture = tarascan
+		religion = protestant
+		size= 11874
+	}
+
+}
+2172 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 7393
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = protestant
+		size= 5280
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = protestant
+		size= 858
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 238
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 211
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 1663
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 116366
+	}
+
+}
+2173 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 3309
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = protestant
+		size= 8272
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = protestant
+		size= 384
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 83
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 95
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 1489
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 45454
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1567
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 3918
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 39
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 705
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 21532
+	}
+
+}
+2174 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 962
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = protestant
+		size= 1923
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = protestant
+		size= 312
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 67
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 606
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 44167
+	}
+
+}
+2175 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 2514
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = protestant
+		size= 1796
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = protestant
+		size= 292
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 63
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 1131
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 39023
+	}
+
+}
+2176 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 7108
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = protestant
+		size= 5077
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = protestant
+		size= 825
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 177
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 203
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 3198
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 110332
+	}
+
+}
+2177 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 4943
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = protestant
+		size= 3530
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = protestant
+		size= 574
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 123
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 2223
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 76722
+	}
+
+}
+2178 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 128
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = protestant
+		size= 255
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = protestant
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 161
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 5778
+	}
+
+	soldiers=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 367
+	}
+
+	artisans=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 734
+	}
+
+	clergymen=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 40
+	}
+
+	officers=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 462
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 16610
+	}
+
+}
+2179 = {
+	soldiers=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 940
+	}
+
+	artisans=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 1879
+	}
+
+	clergymen=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 306
+	}
+
+	bureaucrats=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 103
+	}
+
+	officers=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 592
+	}
+
+	farmers=
+	{
+		culture = zapotec
+		religion = protestant
+		size= 43115
+	}
+
+}
+2180 = {
+	soldiers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 389
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = protestant
+		size= 2720
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = protestant
+		size= 127
+	}
+
+	bureaucrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 35
+	}
+
+	officers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = protestant
+		size= 245
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = protestant
+		size= 15900
+	}
+
+}
+2181 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 417
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 834
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 29
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 263
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 19141
+	}
+
+}
+2182 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 195
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 390
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 246
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 8832
+	}
+
+}
+2183 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 3187
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 5121
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 369
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 125
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 717
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 47296
+	}
+
+}
+2184 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 539
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 3770
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 175
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 38
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 226
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 22158
+	}
+
+}
+2185 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 471
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = protestant
+		size= 3295
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = protestant
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 32
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = protestant
+		size= 592
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = protestant
+		size= 18974
+	}
+
+}

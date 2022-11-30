@@ -1,0 +1,460 @@
+1901 = {
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size= 12545
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 2424
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 6059
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 281
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 104
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 727
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 21072
+	}
+
+	slaves=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 18818
+	}
+
+	soldiers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 3636
+	}
+
+	artisans=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 9089
+	}
+
+	clergymen=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 422
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 156
+	}
+
+	officers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 104
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 1091
+	}
+
+	farmers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 31606
+	}
+
+}
+1902 = {
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size= 17872
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 4615
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 11538
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 536
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 198
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size= 132
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 692
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 46829
+	}
+
+}
+1903 = {
+	slaves=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 14178
+	}
+
+	soldiers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 1285
+	}
+
+	artisans=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 8998
+	}
+
+	clergymen=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 418
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 129
+	}
+
+	officers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 1080
+	}
+
+	farmers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 38135
+	}
+
+}
+1904 = {
+	slaves=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 3459
+	}
+
+	soldiers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 850
+	}
+
+	clergymen=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 138
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 51
+	}
+
+	officers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 357
+	}
+
+	farmers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = shamanism
+		size= 15952
+	}
+
+	slaves=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 3113
+	}
+
+	soldiers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 382
+	}
+
+	artisans=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 765
+	}
+
+	clergymen=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 124
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 46
+	}
+
+	officers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 321
+	}
+
+	farmers=
+	{
+		culture = dynamic-mali-bozo-culture-num1
+		religion = sunni
+		size= 14358
+	}
+
+}
+1905 = {
+	slaves=
+	{
+		culture = mande
+		religion = shamanism
+		size= 4889
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 1949
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = shamanism
+		size= 1392
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = shamanism
+		size= 226
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 84
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 292
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 25922
+	}
+
+}
+1906 = {
+	slaves=
+	{
+		culture = mande
+		religion = shamanism
+		size= 11734
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 1760
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = shamanism
+		size= 3520
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = shamanism
+		size= 572
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 211
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = shamanism
+		size= 1478
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = shamanism
+		size= 68658
+	}
+
+}

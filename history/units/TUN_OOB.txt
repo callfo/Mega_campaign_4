@@ -1,0 +1,599 @@
+#Sphere of Influence
+
+ADE = {
+	value = 50
+	level = 3
+}
+ADU = {
+	value = -1
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = -9
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -9
+	level = 2
+}
+CEQ = {
+	value = -1
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = -10
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 7
+	level = 2
+}
+EGY = {
+	value = 160
+	military_access = yes
+	influence_value = 27
+	level = 2
+}
+ENG = {
+	value = -48
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 22
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -2
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RUM = {
+	value = -1
+	level = 2
+}
+RUS = {
+	value = 4
+	level = 2
+}
+SBA = {
+	value = -9
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = -9
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 2
+	level = 2
+}
+X00 = {
+	value = -123
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = -10
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = -12
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 15
+	level = 2
+}
+ZUL = {
+	value = 45
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Fakhri Adhoum"
+	date="1796.3.12"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Muhammad VII Husainid"
+	date="1818.7.21"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Harun Bassir"
+	date="1803.6.15"
+	type=land
+	personality="intuitive"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Hafiz Saber"
+	date="1810.11.29"
+	type=land
+	personality="disciplined"
+	background="artillerist"
+}
+
+leader = {
+	name="Mahir Dali"
+	date="1816.11.10"
+	type=sea
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=1725
+	regiment = {
+		name="1st Bizerte Irregulars"
+		type=irregular
+		home=1726
+	}
+	regiment = {
+		name="1st Constantine Irregulars"
+		type=irregular
+		home=1708
+	}
+	regiment = {
+		name="2nd Constantine Irregulars"
+		type=irregular
+		home=1708
+	}
+	regiment = {
+		name="1st Kairouan Artillery"
+		type=artillery
+		home=1728
+	}
+	regiment = {
+		name="2nd Kairouan Artillery"
+		type=artillery
+		home=1728
+	}
+	regiment = {
+		name="1st Bizerte Artillery"
+		type=artillery
+		home=1726
+	}
+	regiment = {
+		name="3rd Tunis Irregulars"
+		type=irregular
+		home=1725
+	}
+	regiment = {
+		name="4th Bizerte Artillery"
+		type=artillery
+		home=1726
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1703
+	regiment = {
+		name="1st Tunis Irregulars"
+		type=irregular
+		home=1725
+	}
+	regiment = {
+		name="1st Gafsa Irregulars"
+		type=irregular
+		home=1727
+	}
+	regiment = {
+		name="2nd Tunis Irregulars"
+		type=irregular
+		home=1725
+	}
+	regiment = {
+		name="3rd Kairouan Artillery"
+		type=artillery
+		home=1728
+	}
+	regiment = {
+		name="2nd Bizerte Artillery"
+		type=artillery
+		home=1726
+	}
+	regiment = {
+		name="1st Bône Artillery"
+		type=artillery
+		home=1709
+	}
+	regiment = {
+		name="2nd Kairouan Irregulars"
+		type=irregular
+		home=1728
+	}
+	regiment = {
+		name="1st Gabes Artillery"
+		type=artillery
+		home=1730
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1688
+	regiment = {
+		name="2nd Bizerte Irregulars"
+		type=irregular
+		home=1726
+	}
+	regiment = {
+		name="3rd Constantine Irregulars"
+		type=irregular
+		home=1708
+	}
+	regiment = {
+		name="1st Kairouan Irregulars"
+		type=irregular
+		home=1728
+	}
+	regiment = {
+		name="1st Bougie Artillery"
+		type=artillery
+		home=1701
+	}
+	regiment = {
+		name="4th Kairouan Artillery"
+		type=artillery
+		home=1728
+	}
+	regiment = {
+		name="3rd Bizerte Artillery"
+		type=artillery
+		home=1726
+	}
+	regiment = {
+		name="3rd Bizerte Irregulars"
+		type=irregular
+		home=1726
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=1725
+	ship = {
+		name="Tunus"
+		type=manowar
+	}
+	ship = {
+		name="Banzart"
+		type=manowar
+	}
+	ship = {
+		name="Safaqis"
+		type=manowar
+	}
+	ship = {
+		name="7th Gabes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ajdir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Ajdir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Reggio di Calabria Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Melilla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Misratah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Oran Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bizerte Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bône Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Gabes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Gabes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Gabes Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Misratah Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Qayrawan"
+		type=manowar
+	}
+	ship = {
+		name="1st Tripoli Clipper Transport"
+		type=clipper_transport
+	}
+}
+

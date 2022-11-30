@@ -1,0 +1,51 @@
+1097 = {
+	soldiers=
+	{
+		culture = janubii
+		religion = sunni
+		size= 292
+	}
+
+	artisans=
+	{
+		culture = janubii
+		religion = sunni
+		size= 209
+	}
+
+	clergymen=
+	{
+		culture = janubii
+		religion = sunni
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = janubii
+		religion = sunni
+		size= 8
+	}
+
+	officers=
+	{
+		culture = janubii
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = janubii
+		religion = sunni
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = janubii
+		religion = sunni
+		size= 4624
+	}
+
+}

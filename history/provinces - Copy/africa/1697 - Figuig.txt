@@ -1,0 +1,12 @@
+owner=MOR
+controller=MOR
+add_core=MOR
+trade_goods = wool
+life_rating = 31
+terrain = semidesert
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}

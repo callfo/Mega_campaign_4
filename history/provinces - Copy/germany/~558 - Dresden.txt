@@ -1,0 +1,9 @@
+owner=HAN
+controller=HAN
+add_core=BAV
+add_core=HAN
+add_core=LUZ
+add_core=WSF
+trade_goods = coal
+life_rating = 40
+fort = 1

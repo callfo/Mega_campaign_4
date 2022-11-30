@@ -1,0 +1,9 @@
+owner=X14
+controller=X14
+add_core=ABO
+add_core=X14
+trade_goods = wool
+life_rating = 32
+terrain = savanna
+colonial=2
+naval_base = 1

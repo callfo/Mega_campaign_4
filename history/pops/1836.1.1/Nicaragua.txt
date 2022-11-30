@@ -1,0 +1,323 @@
+2197 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 970
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1940
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 315
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 146
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 815
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 44279
+	}
+
+}
+2198 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 194
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 388
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 29
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 163
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 8853
+	}
+
+}
+2199 = {
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 493
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 12
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 10589
+	}
+
+}
+2200 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 169
+	}
+
+	soldiers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = celtic_american
+		religion = catholic
+		size= 630
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = protestant
+		size= 169
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = protestant
+		size= 630
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 206
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 22
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 770
+	}
+
+}

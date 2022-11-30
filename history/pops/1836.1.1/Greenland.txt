@@ -1,0 +1,102 @@
+251 = {
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 1185
+	}
+
+}
+2636 = {
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 406
+	}
+
+}

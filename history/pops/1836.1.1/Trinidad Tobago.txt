@@ -1,0 +1,102 @@
+2237 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 9845
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = catholic
+		size= 217
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = catholic
+		size= 1516
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = catholic
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = catholic
+		size= 182
+	}
+
+}
+2238 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 3593
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = catholic
+		size= 74
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = catholic
+		size= 517
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = catholic
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = catholic
+		size= 62
+	}
+
+}

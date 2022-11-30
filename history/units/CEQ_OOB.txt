@@ -1,0 +1,593 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = 0
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = -30
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = -18
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 20
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = -24
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	military_access = yes
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = 0
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 20
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MNA = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = -22
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 5
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RUM = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = -16
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -6
+	level = 2
+}
+X00 = {
+	value = 3
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 0
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = -32
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 45
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Oliver Leicester"
+	date="1811.2.12"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Daniel Clive"
+	date="1815.3.10"
+	type=land
+	personality="inspiring"
+	background="aristocrat"
+}
+
+leader = {
+	name="William Raleigh"
+	date="1815.10.18"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Daniel Beresford"
+	date="1816.4.3"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="William Cook"
+	date="1819.9.18"
+	type=sea
+	personality="coolminded"
+	background="bootlicker"
+}
+
+
+#Armies
+army = {
+	name="4th Army"
+	location=2432
+	regiment = {
+		name="1st Manaus Infantry"
+		type=infantry
+		home=2402
+	}
+	regiment = {
+		name="1st Santarém Infantry"
+		type=infantry
+		home=2411
+	}
+	regiment = {
+		name="1st Macapá Infantry"
+		type=infantry
+		home=2415
+	}
+	regiment = {
+		name="1st Maceió Infantry"
+		type=infantry
+		home=2434
+	}
+	regiment = {
+		name="1st Salvador da Bahia Infantry"
+		type=infantry
+		home=2436
+	}
+	regiment = {
+		name="1st Rio de Janeiro Artillery"
+		type=artillery
+		home=2447
+	}
+	regiment = {
+		name="1st Natal Artillery"
+		type=artillery
+		home=2431
+	}
+	regiment = {
+		name="1st Chapada Infantry"
+		type=infantry
+		home=2425
+	}
+	regiment = {
+		name="1st Altamira Artillery"
+		type=artillery
+		home=2600
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2984
+	ship = {
+		name="Primeiro De Marco"
+		type=manowar
+	}
+	ship = {
+		name="Parnahyba"
+		type=manowar
+	}
+	ship = {
+		name="1st Salvador da Bahia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Salvador da Bahia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vila do Poti Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fortaleza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aracaju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Aracaju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Salvador da Bahia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Salvador da Bahia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Paraíba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Royal British Brazil Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Aracaju Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Belém Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Porto Seguro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Guanabara"
+		type=manowar
+	}
+	ship = {
+		name="2nd Paraíba Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2410
+	regiment = {
+		name="1st Rio de Janeiro Infantry"
+		type=infantry
+		home=2447
+	}
+	regiment = {
+		name="1st Borba Artillery"
+		type=artillery
+		home=2405
+	}
+	regiment = {
+		name="1st Recife Artillery"
+		type=artillery
+		home=2432
+	}
+	regiment = {
+		name="1st Porto Seguro Infantry"
+		type=infantry
+		home=2439
+	}
+	regiment = {
+		name="1st Chapada Artillery"
+		type=artillery
+		home=2425
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2986
+	ship = {
+		name="Almirante Saldanha"
+		type=frigate
+	}
+	ship = {
+		name="Pernambuco"
+		type=frigate
+	}
+	ship = {
+		name="Inhauma"
+		type=frigate
+	}
+	ship = {
+		name="Jaceguay"
+		type=frigate
+	}
+	ship = {
+		name="Frontin"
+		type=frigate
+	}
+	ship = {
+		name="Julio De Noronha"
+		type=frigate
+	}
+	ship = {
+		name="Niteroi"
+		type=frigate
+	}
+	ship = {
+		name="Uniao"
+		type=frigate
+	}
+	ship = {
+		name="Belém"
+		type=frigate
+	}
+}
+

@@ -1,0 +1,6 @@
+owner=RUS
+controller=RUS
+add_core=UGR
+trade_goods = sulphur
+life_rating = 40
+fort = 1

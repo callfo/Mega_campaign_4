@@ -1,0 +1,8 @@
+owner=X00
+controller=X00
+add_core=ITA
+add_core=LOM
+add_core=X00
+trade_goods = silk
+life_rating = 35
+fort = 1

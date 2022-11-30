@@ -1,0 +1,1921 @@
+#Sphere of Influence
+
+ADE = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+ADU = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+ANH = {
+	value = 0
+	level = 2
+}
+ARN = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AWA = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+BNE = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOL = {
+	value = 0
+	level = 2
+}
+BRG = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = -1
+	level = 2
+}
+CHA = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRT = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CST = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 72
+	influence_value = 5
+	level = 3
+}
+ENG = {
+	value = -100
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAN = {
+	value = -10
+	level = 2
+}
+HES = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+HWK = {
+	value = 0
+	level = 2
+}
+HWM = {
+	value = 0
+	level = 2
+}
+HWO = {
+	value = 0
+	level = 2
+}
+IRQ = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = -89
+	level = 2
+}
+JAP = {
+	value = -28
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+MAZ = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 49
+	level = 2
+}
+MLC = {
+	value = 18
+	level = 2
+}
+MNA = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MPA = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = -78
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ORI = {
+	value = 0
+	level = 2
+}
+PAL = {
+	value = -8
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RAJ = {
+	value = 0
+	level = 2
+}
+RUM = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -82
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIC = {
+	value = 0
+	level = 2
+}
+SLO = {
+	value = 0
+	level = 2
+}
+SLZ = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+SWA = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TIR = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TTL = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+TUN = {
+	value = -73
+	level = 2
+}
+USA = {
+	value = 103
+	influence_value = 13
+	level = 2
+}
+X00 = {
+	value = -39
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -17
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X04 = {
+	value = 312
+	military_access = yes
+	influence_value = 115
+	level = 5
+}
+X05 = {
+	value = -198
+	level = 2
+}
+X06 = {
+	value = -94
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = -36
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+XMA = {
+	value = 0
+	level = 2
+}
+ZUL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="David Sokullu"
+	date="1806.10.13"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Dogan Nevsehirli"
+	date="1807.10.24"
+	type=land
+	personality="audacious"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Davud Nevsehirli"
+	date="1807.11.4"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Dobrinya Cerrah"
+	date="1813.9.10"
+	type=land
+	personality="au_fait"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Theophilos Köse"
+	date="1813.9.12"
+	type=land
+	personality="chivalrous"
+	background="cartographer"
+}
+
+leader = {
+	name="Theophilos Piri"
+	date="1813.9.14"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ertekin Gümülcineli"
+	date="1813.9.24"
+	type=land
+	personality="audacious"
+	background="cartographer"
+}
+
+leader = {
+	name="Dmitriy Çerkes"
+	date="1813.9.27"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Theodoros Lefkeli"
+	date="1822.3.24"
+	type=sea
+	personality="gallant"
+	background="drillmaster"
+}
+
+
+#Armies
+army = {
+	name="6th Army"
+	location=822
+	regiment = {
+		name="1st Burgas Infantry"
+		type=infantry
+		home=817
+	}
+	regiment = {
+		name="1st Plovdiv Infantry"
+		type=infantry
+		home=815
+	}
+	regiment = {
+		name="1st Ruse Infantry"
+		type=infantry
+		home=811
+	}
+	regiment = {
+		name="1st Sofia Infantry"
+		type=infantry
+		home=809
+	}
+	regiment = {
+		name="1st Pleven Infantry"
+		type=infantry
+		home=812
+	}
+	regiment = {
+		name="2nd Burgas Infantry"
+		type=infantry
+		home=817
+	}
+	regiment = {
+		name="1st Karbala Cavalry"
+		type=cavalry
+		home=929
+	}
+	regiment = {
+		name="5th Burgas Infantry"
+		type=infantry
+		home=817
+	}
+	regiment = {
+		name="2nd Bursa Cavalry"
+		type=cavalry
+		home=863
+	}
+}
+
+army = {
+	name="Antakya Ordusu"
+	location=799
+	regiment = {
+		name="1st Antakya Infantry"
+		type=infantry
+		home=900
+	}
+	regiment = {
+		name="2nd Antakya Infantry"
+		type=infantry
+		home=900
+	}
+	regiment = {
+		name="3rd Antakya Infantry"
+		type=infantry
+		home=900
+	}
+	regiment = {
+		name="4th Antakya Infantry"
+		type=infantry
+		home=900
+	}
+	regiment = {
+		name="5th Antakya Infantry"
+		type=infantry
+		home=900
+	}
+	regiment = {
+		name="6th Antakya Infantry"
+		type=infantry
+		home=900
+	}
+	regiment = {
+		name="1st Antep Cavalry"
+		type=cavalry
+		home=898
+	}
+	regiment = {
+		name="10th Antakya Infantry"
+		type=infantry
+		home=900
+	}
+	regiment = {
+		name="1st Latakia Cavalry"
+		type=cavalry
+		home=905
+	}
+}
+
+army = {
+	name="Oltenia Ordusu"
+	location=669
+	regiment = {
+		name="1st Tulcea Infantry"
+		type=infantry
+		home=675
+	}
+	regiment = {
+		name="1st Volos Infantry"
+		type=infantry
+		home=832
+	}
+	regiment = {
+		name="2nd Tulcea Infantry"
+		type=infantry
+		home=675
+	}
+	regiment = {
+		name="1st Vidin Infantry"
+		type=infantry
+		home=810
+	}
+	regiment = {
+		name="1st Athens Infantry"
+		type=infantry
+		home=834
+	}
+	regiment = {
+		name="1st Gjirokaster Infantry"
+		type=infantry
+		home=853
+	}
+	regiment = {
+		name="1st Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="1st Vlore Cavalry"
+		type=cavalry
+		home=852
+	}
+	regiment = {
+		name="1st Pristina Infantry"
+		type=infantry
+		home=802
+	}
+	regiment = {
+		name="1st Amfissa Cavalry"
+		type=cavalry
+		home=835
+	}
+}
+
+army = {
+	name="Sinjar Ordusu"
+	location=809
+	regiment = {
+		name="1st Rewanduz Infantry"
+		type=infantry
+		home=924
+	}
+	regiment = {
+		name="1st Hasakah Infantry"
+		type=infantry
+		home=1813
+	}
+	regiment = {
+		name="1st Aleppo Infantry"
+		type=infantry
+		home=897
+	}
+	regiment = {
+		name="1st Homs Infantry"
+		type=infantry
+		home=903
+	}
+	regiment = {
+		name="1st Adana Infantry"
+		type=infantry
+		home=894
+	}
+	regiment = {
+		name="1st Diyarbakir Infantry"
+		type=infantry
+		home=893
+	}
+	regiment = {
+		name="1st Akhaltsikhe Cavalry"
+		type=cavalry
+		home=1093
+	}
+	regiment = {
+		name="1st Trabzon Cavalry"
+		type=cavalry
+		home=882
+	}
+}
+
+navy = {
+	name="Jambi Donanmasî"
+	location=2772
+	ship = {
+		name="1st Khalkis Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Volos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Amiens Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Gallipoli Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Burgas Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kirklareli Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Volos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Istanbul Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Nafplion Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kavala Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Patras Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Cyclades Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rumite Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Amfissa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dedeagatch Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Balikesir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Polygyros Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mugla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Janina Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Janina Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Dedeagatch Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Polygyros Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Xanthe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mugla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Izmir Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bordeaux Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Zante Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Nafplion Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kochi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kuwait Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Taizhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Reggio di Calabria Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Ancona Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Volos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Nagasaki Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kanazawa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mugla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mugla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Shaoxing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Zhangzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gallipoli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chios Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kuantan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jambi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Myteline Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Khalkis Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Meakan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kangnung Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Padang Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Polygyros Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Adana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Mugla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Adana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Missolonghi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ancona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Adana Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Istanbul Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tokushima Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Üsküdar Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=666
+	regiment = {
+		name="1st Temesvar Infantry"
+		type=infantry
+		home=652
+	}
+	regiment = {
+		name="1st Požega Infantry"
+		type=infantry
+		home=777
+	}
+	regiment = {
+		name="1st Shkoder Infantry"
+		type=infantry
+		home=850
+	}
+	regiment = {
+		name="2nd Shkoder Infantry"
+		type=infantry
+		home=850
+	}
+	regiment = {
+		name="2nd Temesvar Infantry"
+		type=infantry
+		home=652
+	}
+	regiment = {
+		name="1st Kavala Infantry"
+		type=infantry
+		home=823
+	}
+	regiment = {
+		name="1st Skopje Cavalry"
+		type=cavalry
+		home=806
+	}
+	regiment = {
+		name="1st Volos Cavalry"
+		type=cavalry
+		home=832
+	}
+}
+
+army = {
+	name="Sivas Ordusu"
+	location=817
+	regiment = {
+		name="1st Amasya Infantry"
+		type=infantry
+		home=877
+	}
+	regiment = {
+		name="2nd Amasya Infantry"
+		type=infantry
+		home=877
+	}
+	regiment = {
+		name="1st Ardahan Infantry"
+		type=infantry
+		home=886
+	}
+	regiment = {
+		name="1st Giresun Infantry"
+		type=infantry
+		home=884
+	}
+	regiment = {
+		name="1st Mersin Infantry"
+		type=infantry
+		home=895
+	}
+	regiment = {
+		name="1st Ankara Infantry"
+		type=infantry
+		home=876
+	}
+	regiment = {
+		name="1st Eskishehir Cavalry"
+		type=cavalry
+		home=868
+	}
+	regiment = {
+		name="1st Batum Cavalry"
+		type=cavalry
+		home=1096
+	}
+}
+
+army = {
+	name="Karahisar Ordusu"
+	location=833
+	regiment = {
+		name="1st Denizli Infantry"
+		type=infantry
+		home=871
+	}
+	regiment = {
+		name="1st Bursa Infantry"
+		type=infantry
+		home=863
+	}
+	regiment = {
+		name="1st Myteline Infantry"
+		type=infantry
+		home=844
+	}
+	regiment = {
+		name="1st Bolu Infantry"
+		type=infantry
+		home=881
+	}
+	regiment = {
+		name="1st Kastamonu Infantry"
+		type=infantry
+		home=880
+	}
+	regiment = {
+		name="1st Sinop Infantry"
+		type=infantry
+		home=883
+	}
+	regiment = {
+		name="1st Homs Cavalry"
+		type=cavalry
+		home=903
+	}
+	regiment = {
+		name="1st Erzincan Cavalry"
+		type=cavalry
+		home=888
+	}
+}
+
+army = {
+	name="Sugla Ordusu"
+	location=828
+	regiment = {
+		name="2nd Bursa Infantry"
+		type=infantry
+		home=863
+	}
+	regiment = {
+		name="1st Sivas Infantry"
+		type=infantry
+		home=879
+	}
+	regiment = {
+		name="1st Hama Infantry"
+		type=infantry
+		home=904
+	}
+	regiment = {
+		name="3rd Amasya Infantry"
+		type=infantry
+		home=877
+	}
+	regiment = {
+		name="1st Antalya Infantry"
+		type=infantry
+		home=875
+	}
+	regiment = {
+		name="1st Konya Infantry"
+		type=infantry
+		home=873
+	}
+	regiment = {
+		name="1st Beirut Cavalry"
+		type=cavalry
+		home=913
+	}
+	regiment = {
+		name="1st Sinop Cavalry"
+		type=cavalry
+		home=883
+	}
+}
+
+army = {
+	name="15th Army"
+	location=666
+	regiment = {
+		name="1st Manisa Infantry"
+		type=infantry
+		home=870
+	}
+	regiment = {
+		name="1st Edirne Infantry"
+		type=infantry
+		home=828
+	}
+	regiment = {
+		name="1st Stara Zagora Infantry"
+		type=infantry
+		home=816
+	}
+	regiment = {
+		name="2nd Edirne Infantry"
+		type=infantry
+		home=828
+	}
+	regiment = {
+		name="3rd Burgas Infantry"
+		type=infantry
+		home=817
+	}
+	regiment = {
+		name="1st Izmit Infantry"
+		type=infantry
+		home=862
+	}
+	regiment = {
+		name="2nd Antep Cavalry"
+		type=cavalry
+		home=898
+	}
+	regiment = {
+		name="1st Petrich Cavalry"
+		type=cavalry
+		home=808
+	}
+}
+
+army = {
+	name="Ankara Ordusu"
+	location=667
+	regiment = {
+		name="1st Eskishehir Infantry"
+		type=infantry
+		home=868
+	}
+	regiment = {
+		name="2nd Izmit Infantry"
+		type=infantry
+		home=862
+	}
+	regiment = {
+		name="1st Malatya Infantry"
+		type=infantry
+		home=889
+	}
+	regiment = {
+		name="2nd Ankara Infantry"
+		type=infantry
+		home=876
+	}
+	regiment = {
+		name="2nd Kastamonu Infantry"
+		type=infantry
+		home=880
+	}
+	regiment = {
+		name="1st Üsküdar Infantry"
+		type=infantry
+		home=861
+	}
+	regiment = {
+		name="1st Burgas Cavalry"
+		type=cavalry
+		home=817
+	}
+	regiment = {
+		name="1st Hama Cavalry"
+		type=cavalry
+		home=904
+	}
+}
+
+army = {
+	name="Arta Ordusu"
+	location=675
+	regiment = {
+		name="1st Salonika Infantry"
+		type=infantry
+		home=805
+	}
+	regiment = {
+		name="4th Burgas Infantry"
+		type=infantry
+		home=817
+	}
+	regiment = {
+		name="1st Cetinje Infantry"
+		type=infantry
+		home=2583
+	}
+	regiment = {
+		name="2nd Vidin Infantry"
+		type=infantry
+		home=810
+	}
+	regiment = {
+		name="1st Cattaro Infantry"
+		type=infantry
+		home=2582
+	}
+	regiment = {
+		name="1st Grevena Infantry"
+		type=infantry
+		home=820
+	}
+	regiment = {
+		name="1st Manisa Cavalry"
+		type=cavalry
+		home=870
+	}
+	regiment = {
+		name="2nd Manisa Cavalry"
+		type=cavalry
+		home=870
+	}
+}
+
+army = {
+	name="5th Army"
+	location=669
+	regiment = {
+		name="2nd Athens Infantry"
+		type=infantry
+		home=834
+	}
+	regiment = {
+		name="2nd Konya Infantry"
+		type=infantry
+		home=873
+	}
+	regiment = {
+		name="3rd Konya Infantry"
+		type=infantry
+		home=873
+	}
+	regiment = {
+		name="1st Florina Infantry"
+		type=infantry
+		home=819
+	}
+	regiment = {
+		name="2nd Üsküdar Infantry"
+		type=infantry
+		home=861
+	}
+	regiment = {
+		name="1st Bucharest Infantry"
+		type=infantry
+		home=664
+	}
+	regiment = {
+		name="2nd Eskishehir Infantry"
+		type=infantry
+		home=868
+	}
+	regiment = {
+		name="1st Tirgoviste Cavalry"
+		type=cavalry
+		home=667
+	}
+	regiment = {
+		name="1st Amasya Artillery"
+		type=artillery
+		home=877
+	}
+	regiment = {
+		name="1st Malatya Artillery"
+		type=artillery
+		home=889
+	}
+	regiment = {
+		name="1st Kastamonu Artillery"
+		type=artillery
+		home=880
+	}
+	regiment = {
+		name="1st Antep Artillery"
+		type=artillery
+		home=898
+	}
+	regiment = {
+		name="1st Sivas Artillery"
+		type=artillery
+		home=879
+	}
+	regiment = {
+		name="1st Deir ez-Zor Artillery"
+		type=artillery
+		home=907
+	}
+	regiment = {
+		name="1st Homs Artillery"
+		type=artillery
+		home=903
+	}
+	regiment = {
+		name="3rd Izmit Infantry"
+		type=infantry
+		home=862
+	}
+	regiment = {
+		name="1st Mersin Artillery"
+		type=artillery
+		home=895
+	}
+}
+
+army = {
+	name="25th Army"
+	location=667
+	regiment = {
+		name="1st Bitlis Infantry"
+		type=infantry
+		home=891
+	}
+	regiment = {
+		name="2nd Ardahan Infantry"
+		type=infantry
+		home=886
+	}
+	regiment = {
+		name="1st Deir ez-Zor Infantry"
+		type=infantry
+		home=907
+	}
+	regiment = {
+		name="4th Konya Infantry"
+		type=infantry
+		home=873
+	}
+	regiment = {
+		name="2nd Hama Infantry"
+		type=infantry
+		home=904
+	}
+	regiment = {
+		name="1st Erivan Infantry"
+		type=infantry
+		home=1098
+	}
+	regiment = {
+		name="1st Rutbah Infantry"
+		type=infantry
+		home=931
+	}
+	regiment = {
+		name="1st Aleppo Cavalry"
+		type=cavalry
+		home=897
+	}
+	regiment = {
+		name="1st Ungvár Artillery"
+		type=artillery
+		home=950
+	}
+	regiment = {
+		name="1st Kayseri Artillery"
+		type=artillery
+		home=878
+	}
+	regiment = {
+		name="1st Tuzla Artillery"
+		type=artillery
+		home=786
+	}
+	regiment = {
+		name="1st Maribor Artillery"
+		type=artillery
+		home=767
+	}
+	regiment = {
+		name="1st Temesvar Artillery"
+		type=artillery
+		home=652
+	}
+	regiment = {
+		name="1st Niš Artillery"
+		type=artillery
+		home=798
+	}
+	regiment = {
+		name="1st Mostar Artillery"
+		type=artillery
+		home=788
+	}
+	regiment = {
+		name="2nd Bucharest Infantry"
+		type=infantry
+		home=664
+	}
+	regiment = {
+		name="1st Livno Artillery"
+		type=artillery
+		home=789
+	}
+}
+
+army = {
+	name="14th Army"
+	location=675
+	regiment = {
+		name="2nd Sinop Infantry"
+		type=infantry
+		home=883
+	}
+	regiment = {
+		name="3rd Kastamonu Infantry"
+		type=infantry
+		home=880
+	}
+	regiment = {
+		name="7th Antakya Infantry"
+		type=infantry
+		home=900
+	}
+	regiment = {
+		name="1st Burdur Infantry"
+		type=infantry
+		home=874
+	}
+	regiment = {
+		name="1st Erzincan Infantry"
+		type=infantry
+		home=888
+	}
+	regiment = {
+		name="2nd Bitlis Infantry"
+		type=infantry
+		home=891
+	}
+	regiment = {
+		name="2nd Burdur Infantry"
+		type=infantry
+		home=874
+	}
+	regiment = {
+		name="1st Ungvár Cavalry"
+		type=cavalry
+		home=950
+	}
+	regiment = {
+		name="1st Pleven Artillery"
+		type=artillery
+		home=812
+	}
+	regiment = {
+		name="1st Polygyros Artillery"
+		type=artillery
+		home=822
+	}
+	regiment = {
+		name="1st Istanbul Artillery"
+		type=artillery
+		home=860
+	}
+	regiment = {
+		name="1st Prizren Artillery"
+		type=artillery
+		home=803
+	}
+	regiment = {
+		name="1st Oradea Artillery"
+		type=artillery
+		home=647
+	}
+	regiment = {
+		name="1st Silistre Artillery"
+		type=artillery
+		home=818
+	}
+	regiment = {
+		name="1st Durres Artillery"
+		type=artillery
+		home=851
+	}
+	regiment = {
+		name="4th Sivas Infantry"
+		type=infantry
+		home=879
+	}
+}
+
+army = {
+	name="Aksaray Ordusu"
+	location=810
+	regiment = {
+		name="8th Antakya Infantry"
+		type=infantry
+		home=900
+	}
+	regiment = {
+		name="1st Urfa Infantry"
+		type=infantry
+		home=899
+	}
+	regiment = {
+		name="2nd Antalya Infantry"
+		type=infantry
+		home=875
+	}
+	regiment = {
+		name="1st Sulaymania Infantry"
+		type=infantry
+		home=925
+	}
+	regiment = {
+		name="9th Antakya Infantry"
+		type=infantry
+		home=900
+	}
+	regiment = {
+		name="3rd Bitlis Infantry"
+		type=infantry
+		home=891
+	}
+	regiment = {
+		name="1st Akhaltsikhe Infantry"
+		type=infantry
+		home=1093
+	}
+	regiment = {
+		name="2nd Malatya Infantry"
+		type=infantry
+		home=889
+	}
+	regiment = {
+		name="1st Kut Infantry"
+		type=infantry
+		home=930
+	}
+	regiment = {
+		name="1st Szeged Infantry"
+		type=infantry
+		home=649
+	}
+}
+
+army = {
+	name="1st Army"
+	location=834
+	regiment = {
+		name="1st Marash Infantry"
+		type=infantry
+		home=896
+	}
+	regiment = {
+		name="1st Antep Infantry"
+		type=infantry
+		home=898
+	}
+	regiment = {
+		name="2nd Deir ez-Zor Infantry"
+		type=infantry
+		home=907
+	}
+	regiment = {
+		name="2nd Sivas Infantry"
+		type=infantry
+		home=879
+	}
+	regiment = {
+		name="2nd Bolu Infantry"
+		type=infantry
+		home=881
+	}
+	regiment = {
+		name="3rd Sivas Infantry"
+		type=infantry
+		home=879
+	}
+	regiment = {
+		name="3rd Bolu Infantry"
+		type=infantry
+		home=881
+	}
+	regiment = {
+		name="1st Kayseri Cavalry"
+		type=cavalry
+		home=878
+	}
+	regiment = {
+		name="1st Konya Artillery"
+		type=artillery
+		home=873
+	}
+	regiment = {
+		name="2nd Oradea Artillery"
+		type=artillery
+		home=647
+	}
+	regiment = {
+		name="2nd Homs Artillery"
+		type=artillery
+		home=903
+	}
+	regiment = {
+		name="1st Beirut Artillery"
+		type=artillery
+		home=913
+	}
+	regiment = {
+		name="1st Raqqah Artillery"
+		type=artillery
+		home=901
+	}
+	regiment = {
+		name="2nd Kayseri Artillery"
+		type=artillery
+		home=878
+	}
+	regiment = {
+		name="2nd Amasya Artillery"
+		type=artillery
+		home=877
+	}
+	regiment = {
+		name="6th Konya Infantry"
+		type=infantry
+		home=873
+	}
+}
+
+army = {
+	name="Üsküp Ordusu"
+	location=818
+	regiment = {
+		name="1st Gyulafehervar Infantry"
+		type=infantry
+		home=655
+	}
+	regiment = {
+		name="2nd Gyulafehervar Infantry"
+		type=infantry
+		home=655
+	}
+	regiment = {
+		name="3rd Bursa Infantry"
+		type=infantry
+		home=863
+	}
+	regiment = {
+		name="1st Leskovac Infantry"
+		type=infantry
+		home=799
+	}
+	regiment = {
+		name="1st Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="2nd Plovdiv Infantry"
+		type=infantry
+		home=815
+	}
+	regiment = {
+		name="1st Durres Infantry"
+		type=infantry
+		home=851
+	}
+	regiment = {
+		name="1st Bjelovar Infantry"
+		type=infantry
+		home=776
+	}
+}
+
+army = {
+	name="4th Army"
+	location=664
+	regiment = {
+		name="1st Tuzla Infantry"
+		type=infantry
+		home=786
+	}
+	regiment = {
+		name="2nd Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="1st Tirana Infantry"
+		type=infantry
+		home=849
+	}
+	regiment = {
+		name="3rd Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="2nd Pleven Infantry"
+		type=infantry
+		home=812
+	}
+	regiment = {
+		name="2nd Sofia Infantry"
+		type=infantry
+		home=809
+	}
+	regiment = {
+		name="2nd Burgas Cavalry"
+		type=cavalry
+		home=817
+	}
+}
+
+army = {
+	name="Aydin Ordusu"
+	location=815
+	regiment = {
+		name="4th Bursa Infantry"
+		type=infantry
+		home=863
+	}
+	regiment = {
+		name="3rd Antalya Infantry"
+		type=infantry
+		home=875
+	}
+	regiment = {
+		name="1st Polygyros Infantry"
+		type=infantry
+		home=822
+	}
+	regiment = {
+		name="2nd Antep Infantry"
+		type=infantry
+		home=898
+	}
+	regiment = {
+		name="2nd Adana Infantry"
+		type=infantry
+		home=894
+	}
+	regiment = {
+		name="2nd Denizli Infantry"
+		type=infantry
+		home=871
+	}
+	regiment = {
+		name="1st Malatya Cavalry"
+		type=cavalry
+		home=889
+	}
+}
+
+army = {
+	name="7th Army"
+	location=811
+	regiment = {
+		name="1st Braila Infantry"
+		type=infantry
+		home=668
+	}
+	regiment = {
+		name="2nd Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="1st Bor Infantry"
+		type=infantry
+		home=795
+	}
+	regiment = {
+		name="3rd Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="1st Janina Infantry"
+		type=infantry
+		home=824
+	}
+	regiment = {
+		name="1st Užice Infantry"
+		type=infantry
+		home=797
+	}
+	regiment = {
+		name="1st Bursa Cavalry"
+		type=cavalry
+		home=863
+	}
+}
+
+army = {
+	name="Travik Ordusu"
+	location=664
+	regiment = {
+		name="1st Belgrade Infantry"
+		type=infantry
+		home=794
+	}
+	regiment = {
+		name="1st Maribor Infantry"
+		type=infantry
+		home=767
+	}
+	regiment = {
+		name="1st Novi Sad Infantry"
+		type=infantry
+		home=2538
+	}
+	regiment = {
+		name="1st Debrecen Infantry"
+		type=infantry
+		home=648
+	}
+	regiment = {
+		name="1st Novi Pazar Infantry"
+		type=infantry
+		home=804
+	}
+	regiment = {
+		name="1st Banja Luka Infantry"
+		type=infantry
+		home=785
+	}
+	regiment = {
+		name="2nd Ungvár Cavalry"
+		type=cavalry
+		home=950
+	}
+}
+
+army = {
+	name="Bosna Ordusu"
+	location=858
+	regiment = {
+		name="2nd Tirana Infantry"
+		type=infantry
+		home=849
+	}
+	regiment = {
+		name="1st Pest Infantry"
+		type=infantry
+		home=641
+	}
+	regiment = {
+		name="3rd Shkoder Infantry"
+		type=infantry
+		home=850
+	}
+	regiment = {
+		name="1st Bitola Infantry"
+		type=infantry
+		home=807
+	}
+	regiment = {
+		name="1st Dubrovnik Infantry"
+		type=infantry
+		home=782
+	}
+	regiment = {
+		name="1st Kaposvár Infantry"
+		type=infantry
+		home=644
+	}
+	regiment = {
+		name="1st Stara Zagora Cavalry"
+		type=cavalry
+		home=816
+	}
+}
+
+army = {
+	name="Kütahya Ordusu"
+	location=667
+	regiment = {
+		name="2nd Mersin Infantry"
+		type=infantry
+		home=895
+	}
+	regiment = {
+		name="1st Kütahya Infantry"
+		type=infantry
+		home=867
+	}
+	regiment = {
+		name="1st Izmir Infantry"
+		type=infantry
+		home=869
+	}
+	regiment = {
+		name="5th Konya Infantry"
+		type=infantry
+		home=873
+	}
+	regiment = {
+		name="1st Istanbul Infantry"
+		type=infantry
+		home=860
+	}
+	regiment = {
+		name="4th Antalya Infantry"
+		type=infantry
+		home=875
+	}
+	regiment = {
+		name="1st Grevena Cavalry"
+		type=cavalry
+		home=820
+	}
+}
+
+army = {
+	name="Yeni Pazar Ordusu"
+	location=667
+	regiment = {
+		name="3rd Plovdiv Infantry"
+		type=infantry
+		home=815
+	}
+	regiment = {
+		name="1st Pancevo Infantry"
+		type=infantry
+		home=792
+	}
+	regiment = {
+		name="1st Békéscsaba Infantry"
+		type=infantry
+		home=650
+	}
+	regiment = {
+		name="1st Kragujevac Infantry"
+		type=infantry
+		home=796
+	}
+	regiment = {
+		name="3rd Tirana Infantry"
+		type=infantry
+		home=849
+	}
+	regiment = {
+		name="4th Mitrovica Infantry"
+		type=infantry
+		home=791
+	}
+	regiment = {
+		name="1st Zagreb Cavalry"
+		type=cavalry
+		home=771
+	}
+}
+

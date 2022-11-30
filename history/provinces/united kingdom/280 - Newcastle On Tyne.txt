@@ -1,0 +1,12 @@
+owner=ENG
+controller=ENG
+add_core=ENG
+trade_goods = iron
+life_rating = 35
+terrain = mining_district
+state_building=
+{
+	level=1
+	building = luxury_furniture_factory
+	upgrade = yes
+}

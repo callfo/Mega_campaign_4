@@ -1,0 +1,6 @@
+owner=RUM
+controller=RUM
+add_core=IRQ
+trade_goods = sulphur
+life_rating = 35
+terrain = dryhills

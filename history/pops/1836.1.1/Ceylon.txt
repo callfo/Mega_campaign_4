@@ -1,0 +1,255 @@
+1321 = {
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 6009
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 15021
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 697
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 204
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 225
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 1352
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 83787
+	}
+
+}
+1322 = {
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 4101
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 10253
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 477
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 168
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 154
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 615
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 57470
+	}
+
+}
+1323 = {
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 7213
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 7056
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 510
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 212
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 227
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 988
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 62200
+	}
+
+}
+1324 = {
+	soldiers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 4973
+	}
+
+	artisans=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 4866
+	}
+
+	clergymen=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 351
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 147
+	}
+
+	officers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 157
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 681
+	}
+
+	farmers=
+	{
+		culture = dynamic-sinhala-tamil-culture-num1
+		religion = hindu
+		size= 42879
+	}
+
+}
+1325 = {
+	soldiers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 334
+	}
+
+	artisans=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 238
+	}
+
+	clergymen=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 3
+	}
+
+	officers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = sinhala
+		religion = hindu
+		size= 5280
+	}
+
+}

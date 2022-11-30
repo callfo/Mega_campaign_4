@@ -1,0 +1,8 @@
+owner=MAZ
+controller=MAZ
+add_core=MAZ
+add_core=POL
+add_core=WSF
+trade_goods = grain
+life_rating = 35
+fort = 1

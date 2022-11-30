@@ -1,0 +1,58 @@
+1954 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 3587
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 256
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 183
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 30
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 434
+	}
+
+}
