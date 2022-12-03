@@ -1,6 +1,5 @@
-capital = 1475
-primary_culture = beifaren
-culture = nanfaren
+capital = 2221
+primary_culture = nanfaren
 culture = zzz_religion_mahayana
 religion = mahayana
 government = absolute_monarchy

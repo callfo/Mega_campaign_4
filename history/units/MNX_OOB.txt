@@ -89,9 +89,7 @@ DLH = {
 	level = 2
 }
 EGY = {
-	value = 90
-	military_access = yes
-	influence_value = 10
+	value = 0
 	level = 2
 }
 ENG = {

@@ -56,4 +56,178 @@ political_decisions = {
 
         ai_will_do = { factor = 1 }
     }
+	
+	southern_pretenders_defeated = {
+        potential = {
+            tag = CSH
+			NOT = { has_country_flag = bandits_dead }
+        }
+
+        allow = {
+            war = no
+            owns = 2221
+            NOT = { has_country_flag = mandate }
+            MNX = { exists = no }
+        }
+
+        effect = {
+            prestige = 20
+            any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					any_core = {
+						is_core = MNX
+                    }
+				}
+				add_core = CSH
+				remove_core = MNX
+			}
+			1538 = {
+				remove_core = MNX
+				add_core = CSH
+			}
+			1608 = {
+				remove_core = MNX
+				add_core = CSH
+			}
+			1496 = {
+				remove_core = MNX
+				add_core = CSH
+			}
+			1498 = {
+				remove_core = MNX
+				add_core = CSH
+			}
+			1499 = {
+				remove_core = MNX
+				add_core = CSH
+			}
+            add_accepted_culture = nanfaren
+			any_pop = {
+                limit = { is_primary_culture = yes }
+                militancy = -5
+            }
+			set_country_flag = bandits_dead
+     
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+	
+	recover_yunnan = {
+		potential = {
+			has_country_flag = bandits_dead
+			NOT = { has_country_flag = yunnan_recovered }
+		}
+		
+		allow = {
+			has_country_flag = bandits_dead
+		}
+		
+		effect = {
+			badboy = 5
+			war = {
+				target = YNN
+				attacker_goal = {
+					casus_belli = conquest
+				}
+				defender_goal = {
+					casus_belli = status_quo
+					call_ally = no
+				}
+			}
+			set_country_flag = yunnan_recovered
+		}
+		
+		ai_will_do = { factor = 1 }
+	}
+	
+	recover_xinjiang = {
+		potential = {
+			has_country_flag = bandits_dead
+			NOT = { has_country_flag  = xinjiang_recovered }
+		}
+		
+		allow = {
+			has_country_flag = bandits_dead
+			has_country_flag = yunnan_recovered
+			YNN = { exist = no }
+		}
+		
+		effect = {
+			badboy = 5
+			war = {
+				target = XIN
+				attacker_goal = {
+					casus_belli = conquest
+				}
+				defender_goal = {
+					casus_belli = status_quo
+					call_ally = no
+				}
+			}
+			set_country_flag = xinjiang_recovered
+		}
+		
+		ai_will_do = { factor = 1 }
+	}
+	
+	form_china = {
+		potential = {
+			has_country_flag = bandits_dead
+			NOT = { has_global_flag = china_formed }
+		}
+		
+		allow = {
+			has_country_flag = bandits_dead
+			has_country_flag = yunnan_recovered
+			has_country_flag = xinjiang_recovered
+			YNN = { exists = no }
+			XIN = { exists = no }
+		}
+		
+		effect = {
+			prestige = 20
+            change_tag = CHI
+            primary_culture = beifaren
+            add_accepted_culture = nanfaren
+			add_accepted_culture = uighur
+			add_accepted_culture = mongol
+			set_country_flag = xinjiang_recovered
+			MCK = {
+				annex_to = CHI
+			}
+			set_global_flag = china_formed
+		}
+		ai_will_do = { factor = 1 }
+	}
+	
+	puppet_mongolia = {
+		potential = {
+			tag = CHI
+			NOT = { has_country_flag = mongolia_pup }
+		}
+		
+		allow = {
+			MON = { exists = yes }
+		}
+		
+		effect = {
+			badboy = 5
+			war = {
+				target = MON
+				attacker_goal = {
+					casus_belli = make_puppet
+				}
+				defender_goal = {
+					casus_belli = status_quo
+					call_ally = no
+				}
+			}
+			set_country_flag = mongolia_pup
+		}
+		
+		ai_will_do = { factor = 1 }
+	}
+	
 }

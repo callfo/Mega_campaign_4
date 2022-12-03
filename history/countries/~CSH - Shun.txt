@@ -1,4 +1,4 @@
-capital = 1616
+capital = 1612
 primary_culture = beifaren
 culture = zzz_religion_mahayana
 religion = mahayana
