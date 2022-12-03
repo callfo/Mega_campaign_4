@@ -1,7 +1,6 @@
 owner = X05
 controller = X05
 add_core = GER
-add_core = HAN
 add_core = HES
 add_core = X05
 trade_goods = cattle

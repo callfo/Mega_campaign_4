@@ -1,0 +1,5 @@
+owner=BRU
+controller=EGY
+trade_goods = iron
+life_rating = 35
+naval_base = 2

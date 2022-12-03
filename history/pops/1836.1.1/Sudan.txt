@@ -219,56 +219,56 @@
 1829 = {
 	slaves=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 9136
 	}
 
 	soldiers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 5881
 	}
 
 	artisans=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 2557
 	}
 
 	clergymen=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 416
 	}
 
 	bureaucrats=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 121
 	}
 
 	officers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 185
 	}
 
 	aristocrats=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 1074
 	}
 
 	farmers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 44556
 	}
@@ -277,56 +277,56 @@
 1830 = {
 	slaves=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 2041
 	}
 
 	soldiers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 2289
 	}
 
 	artisans=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 5722
 	}
 
 	clergymen=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 266
 	}
 
 	bureaucrats=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 78
 	}
 
 	officers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 86
 	}
 
 	aristocrats=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 343
 	}
 
 	farmers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 30047
 	}
@@ -451,56 +451,56 @@
 1833 = {
 	slaves=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 1855
 	}
 
 	soldiers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 7233
 	}
 
 	artisans=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 1252
 	}
 
 	clergymen=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 90
 	}
 
 	bureaucrats=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 32
 	}
 
 	officers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 18
 	}
 
 	aristocrats=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 117
 	}
 
 	farmers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 3318
 	}
@@ -509,49 +509,49 @@
 1834 = {
 	soldiers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 224
 	}
 
 	artisans=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 1571
 	}
 
 	clergymen=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 73
 	}
 
 	bureaucrats=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 17
 	}
 
 	officers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 189
 	}
 
 	farmers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 9133
 	}
@@ -618,49 +618,49 @@
 1836 = {
 	soldiers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 3165
 	}
 
 	clergymen=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 147
 	}
 
 	bureaucrats=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 43
 	}
 
 	officers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 48
 	}
 
 	aristocrats=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 380
 	}
 
 	farmers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 14693
 	}

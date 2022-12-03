@@ -1,7 +1,6 @@
-owner=MNA
-controller=EGY
-add_core=BRU
-add_core=PHL
+owner = EGY
+controller = EGY
+add_core = PHL
 trade_goods = coffee
 life_rating = 40
 naval_base = 2

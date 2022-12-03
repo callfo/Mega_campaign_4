@@ -1,6 +1,6 @@
-owner=MNX
-controller=CSH
-add_core=CHI
-add_core=MNX
+owner = MNX
+controller = MNX
+add_core = MNX
+add_core = CHI
 trade_goods = tea
 life_rating = 32

@@ -1,0 +1,19 @@
+name = "War for Mandate of Heaven"
+
+1828.3.13 = {
+	add_attacker = CSH
+	add_defender = MNX
+	war_goal = {
+		casus_belli = conquest
+		actor = CSH
+		receiver = MNX
+		
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = MNX
+		receiver = CSH
+		
+	}
+	
+}

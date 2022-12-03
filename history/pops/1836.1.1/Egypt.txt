@@ -1369,49 +1369,49 @@
 1771 = {
 	soldiers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 84
 	}
 
 	artisans=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 585
 	}
 
 	clergymen=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 27
 	}
 
 	bureaucrats=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 6
 	}
 
 	officers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 70
 	}
 
 	farmers=
 	{
-		culture = beja
+		culture = dynamic-nubian-culture-num1
 		religion = noreligion
 		size= 3399
 	}

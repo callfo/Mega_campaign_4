@@ -1,6 +1,6 @@
-owner=DLH
-controller=CSH
-add_core=DLH
-add_core=XIN
+owner = YNN
+controller = YNN
+add_core = CHI
+add_core = YNN
 trade_goods = cattle
 life_rating = 32

@@ -1,4 +1,5 @@
-owner=EGY
-controller=EGY
+owner = EGY
+controller = EGY
 trade_goods = grain
 life_rating = 35
+add_core = PHL

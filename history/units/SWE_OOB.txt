@@ -396,7 +396,7 @@ leader = {
 #Armies
 army = {
 	name="Kungliga Arméen"
-	location=362
+	location=322
 	regiment = {
 		name="1st Borås Infantry"
 		type=infantry

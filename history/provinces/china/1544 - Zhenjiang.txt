@@ -1,5 +1,5 @@
 owner=MNX
-controller=CSH
+controller=MNX
 add_core=CHI
 add_core=MNX
 trade_goods = silk

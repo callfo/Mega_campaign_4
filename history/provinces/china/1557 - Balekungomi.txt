@@ -1,6 +1,6 @@
-owner=DLH
-controller=DLH
-add_core=DLH
-add_core=XIN
+owner = XIN
+controller = XIN
+add_core = XIN
+add_core = CHI
 trade_goods = coal
 life_rating = 32

@@ -1,5 +1,8 @@
 capital = 1616
 primary_culture = beifaren
+culture = nanfaren
+culture = mongol
+culture = uighur
 culture = zzz_religion_mahayana
 religion = mahayana
 government = absolute_monarchy

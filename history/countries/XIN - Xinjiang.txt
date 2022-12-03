@@ -1,5 +1,5 @@
 capital = 1600
-primary_culture = beifaren
+primary_culture = uighur
 culture = zzz_religion_mahayana
 religion = mahayana
 government = absolute_monarchy

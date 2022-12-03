@@ -1,6 +1,7 @@
 capital = 425
 primary_culture = french
 culture = occitan
+culture = dutch
 culture = zzz_religion_catholic
 religion = catholic
 government = hms_government

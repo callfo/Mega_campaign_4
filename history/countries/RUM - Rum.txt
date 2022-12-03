@@ -1,5 +1,6 @@
 capital = 860
 primary_culture = turkish
+culture= mashriqi
 culture = zzz_religion_sunni
 religion = sunni
 government = bourgeois_dictatorship

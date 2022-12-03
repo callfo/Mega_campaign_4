@@ -1,0 +1,30 @@
+name = "Russian Conquest of Finland"
+
+1828.3.13 = {
+	add_attacker = RUS
+	add_defender = SWE
+	war_goal = {
+		casus_belli = acquire_state
+		actor = RUS
+		receiver = SWE
+		state_province_id = 339
+	}
+	war_goal = {
+		casus_belli = acquire_state
+		actor = RUS
+		receiver = SWE
+		state_province_id = 339
+	}
+	war_goal = {
+		casus_belli = acquire_state
+		actor = RUS
+		receiver = SWE
+		state_province_id = 337
+	}
+	war_goal = {
+		casus_belli = acquire_state
+		actor = RUS
+		receiver = SWE
+		state_province_id = 346
+	}
+}

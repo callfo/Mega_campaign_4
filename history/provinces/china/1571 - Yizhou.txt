@@ -1,4 +1,4 @@
-owner=EGY
+owner=CSH
 controller=CSH
 add_core=CHI
 add_core=CSH

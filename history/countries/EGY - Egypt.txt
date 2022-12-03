@@ -1,6 +1,6 @@
 capital = 1751
 primary_culture = dynamic-nubian-culture-num1
-culture = amhara
+culture = jerusalemer
 culture = zzz_religion_shamanist
 religion = shamanist
 government = presidential_dictatorship

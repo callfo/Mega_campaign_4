@@ -1,5 +1,6 @@
-owner=BRU
-controller=EGY
+owner = EGY
+controller = EGY
 trade_goods = iron
 life_rating = 35
 naval_base = 2
+add_core = PHL

@@ -3,6 +3,7 @@ controller=X00
 add_core=BEL
 add_core=FLA
 add_core=X00
+add_core=FRA
 trade_goods = iron
 life_rating = 31
 state_building=
