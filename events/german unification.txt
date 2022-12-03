@@ -1,0 +1,79 @@
+country_event = {
+	id = 23345674
+	news = yes
+    news_desc_long = "EVTDESC33403_NEWS_LONG"
+    news_desc_medium = "EVTDESC33403_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC33403_NEWS_SHORT"
+	trigger = {
+        OR = {
+			primary_culture = north_german
+			primary_culture = south_german
+		}
+        nationalism_n_imperialism = 1 #has the nationalism tech
+		NOT = { has_global_flag = german_unification }
+    }
+	
+	fire_only_once = yes
+	
+	mean_time_to_happen =  {
+        months = 1
+    }
+	
+	title = "EVTNAME33403"
+    desc = "EVTDESC33403"
+    picture = "wagner"
+
+    option = {
+        name = "EVTOPTA33403"
+        all_core = {
+            remove_core = THIS
+            add_core = GER
+        }
+		change_tag = GER
+        add_accepted_culture = north_german
+        add_accepted_culture = south_german
+		any_country = {
+			limit = {
+				NOT = { tag = X05 }
+				OR = {
+					primary_culture = north_german
+					primary_culture = south_german
+				}
+				exists = yes
+			}
+			country_event = 23345675
+		}
+        set_global_flag = german_unification
+    }
+
+}
+
+country_event = {
+	id = 23345675
+	fire_only_once = yes
+	is_triggered_only = yes
+	news = yes
+    news_desc_long = "EVTDESC33403_NEWS_LONG"
+    news_desc_medium = "EVTDESC33403_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC33403_NEWS_SHORT"
+	title = "EVTNAME33403"
+    desc = "EVTDESC33403"
+    picture = "wagner"
+	
+	option = {
+		name = "EVTOPTA23345675"
+		THIS = {
+			annex_to = GER
+		}
+		all_core = {
+            remove_core = THIS
+            add_core = GER
+        }
+		ai_chance = { factor = 100 }
+	}
+	
+	option = {
+		name = { "EVTOPTA233456755"
+		ai_chance = { factor = 0 }
+	}
+}
