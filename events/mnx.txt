@@ -1,0 +1,26 @@
+country_event = {
+	id = 0545262
+	news = yes
+    news_desc_long = "EVTDESC33403_NEWS_LONG"
+    news_desc_medium = "EVTDESC33403_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC33403_NEWS_SHORT"
+	
+	trigger = {
+        tag = MNX
+    }
+	mean_time_to_happen =  {
+        months = 1
+    }
+	fire_only_once = yes
+	title = "EVTNAME33403"
+    desc = "EVTDESC33403"
+    picture = "wagner"
+	
+	option = {
+        name = "EVTOPTA33403"
+        add_country_modifier = {
+			name = ming_no_rebels
+			duration = 3650
+		}
+    }
+}

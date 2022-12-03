@@ -2561,3 +2561,7 @@ emergency_tax_measures2 = {
     global_pop_militancy_modifier = 0.10
     icon = 10
 }
+
+ming_no_rebels = {
+	global_pop_militancy_modifier = -2.0
+}

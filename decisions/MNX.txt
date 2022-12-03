@@ -125,11 +125,10 @@ political_decisions = {
 		}
 		
 		effect = {
-			badboy = 5
 			war = {
 				target = YNN
 				attacker_goal = {
-					casus_belli = conquest
+					casus_belli = conquest_any
 				}
 				defender_goal = {
 					casus_belli = status_quo
@@ -139,7 +138,9 @@ political_decisions = {
 			set_country_flag = yunnan_recovered
 		}
 		
-		ai_will_do = { factor = 1 }
+		ai_will_do = { 
+			factor = 0.3
+		}
 	}
 	
 	recover_xinjiang = {
@@ -151,15 +152,14 @@ political_decisions = {
 		allow = {
 			has_country_flag = bandits_dead
 			has_country_flag = yunnan_recovered
-			YNN = { exist = no }
+			YNN = { exists = no }
 		}
 		
 		effect = {
-			badboy = 5
 			war = {
 				target = XIN
 				attacker_goal = {
-					casus_belli = conquest
+					casus_belli = conquest_any
 				}
 				defender_goal = {
 					casus_belli = status_quo
@@ -169,7 +169,7 @@ political_decisions = {
 			set_country_flag = xinjiang_recovered
 		}
 		
-		ai_will_do = { factor = 1 }
+		ai_will_do = { factor = 0.3 }
 	}
 	
 	form_china = {

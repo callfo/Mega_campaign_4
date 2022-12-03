@@ -764,7 +764,7 @@ army = {
 
 army = {
 	name="Grand Company"
-	location=1634
+	location=1613
 	regiment = {
 		name="4th Ulaan Chab Chuulghan Irregulars"
 		type=irregular
@@ -785,5 +785,445 @@ army = {
 		type=irregular
 		home=1613
 	}
+	regiment = {
+		name="1st Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="2nd Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="3rd Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="1st Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="2nd Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="3rd Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="1st Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="2nd Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="3rd Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+}
+
+army = {
+	name="Grand Company2"
+	location=1612
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="1st Chengde Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="2nd Chengde Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="3rd Chengde Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="1st Chengde Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="2nd Chengde Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="3rd Chengde Irregulars"
+		type=irregular
+		home=1612
+	}regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="1st Chengde Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="2nd Chengde Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="3rd Chengde Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="1st Chengde Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="2nd Chengde Irregulars"
+		type=irregular
+		home=1612
+	}
+	regiment = {
+		name="3rd Chengde Irregulars"
+		type=irregular
+		home=1612
+	}
+}
+
+army = {
+	name="Grand Company2"
+	location=1510
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1510
+	}
+}
+
+army = {
+	name="Grand Company5"
+	location=1559
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="4th Ulaan Chab Chuulghan Irregulars"
+		type=irregular
+		home=1559
+	}
+	
 }
 

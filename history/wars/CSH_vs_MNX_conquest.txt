@@ -4,13 +4,13 @@ name = "War for Mandate of Heaven"
 	add_attacker = CSH
 	add_defender = MNX
 	war_goal = {
-		casus_belli = conquest
+		casus_belli = civil_war 
 		actor = CSH
 		receiver = MNX
 		
 	}
 	war_goal = {
-		casus_belli = conquest
+		casus_belli = civil_war 
 		actor = MNX
 		receiver = CSH
 		

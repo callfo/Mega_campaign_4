@@ -653,8 +653,8 @@ pops = {
 	CON_MIDRICH_CLERGY = -1,
 	CON_REFORM_IMPACT = -50,
 	CON_COLONIAL_FACTOR = 0.5,
-	RULING_PARTY_HAPPY_CHANGE = 0,
-	RULING_PARTY_ANGRY_CHANGE = 0,
+	RULING_PARTY_HAPPY_CHANGE = -1,
+	RULING_PARTY_ANGRY_CHANGE = 2,
 
 	PDEF_BASE_CON = 20.0,			-- so half'ed effect.
 	
@@ -663,8 +663,8 @@ pops = {
 	POP_SAVINGS = 0.03,
 	
 	STATE_CREATION_ADMIN_LIMIT = 0.01,
-	MIL_TO_JOIN_REBEL = 7, -- Rebels over this will join a faction
-	MIL_TO_JOIN_RISING = 8, -- Rebels over this will join a general rising
+	MIL_TO_JOIN_REBEL = 8, -- Rebels over this will join a faction
+	MIL_TO_JOIN_RISING = 9, -- Rebels over this will join a general rising
 	MIL_TO_AUTORISE = 9, -- Rebels over this rise no matter what
 	REDUCTION_AFTER_RISEING = 0.0, -- After a pop spawns a rebellion, its militancy will be reduced this much
 	REDUCTION_AFTER_DEFEAT = 7.0, -- After a rebellion is being defeated in combat, its pop militancy will be divided by this number.
@@ -676,7 +676,7 @@ pops = {
 	
 	MIL_HIT_FROM_CONQUEST = 4, -- how much militancy grows in a province if taken without being core.
 	LUXURY_CON_CHANGE = 0.001, -- con boost from over-buying luxury goods
-	INVENTION_IMPACT_ON_DEMAND = 0.014, -- how much each invention in a country increases demand for a product in percent
+	INVENTION_IMPACT_ON_DEMAND =  0.0075, -- how much each invention in a country increases demand for a product in percent
 	ARTISAN_SUPPRESSED_COLONIAL_GOODS_CATEGORY = 0, -- Goods category index not produced in colonies
 	ISSUE_MOVEMENT_JOIN_LIMIT = 8,
 	ISSUE_MOVEMENT_LEAVE_LIMIT = 7,

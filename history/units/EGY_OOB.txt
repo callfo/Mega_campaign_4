@@ -466,7 +466,7 @@ army = {
 
 army = {
 	name="9th Army"
-	location=1827
+	location=1545
 	regiment = {
 		name="3rd Tingzhou Irregulars"
 		type=irregular
@@ -696,7 +696,7 @@ army = {
 
 army = {
 	name="3rd Army"
-	location=2030
+	location=1483
 	regiment = {
 		name="1st Harer Irregulars"
 		type=irregular
@@ -811,7 +811,7 @@ army = {
 
 army = {
 	name="7th Army"
-	location=1870
+	location=1505
 	regiment = {
 		name="8th Tingzhou Irregulars"
 		type=irregular
