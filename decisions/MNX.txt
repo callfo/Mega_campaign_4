@@ -1,0 +1,59 @@
+political_decisions = {
+	northen_bandits_deafeated = {
+        potential = {
+            tag = MNX
+			NOT = { has_country_flag = bandits_dead }
+        }
+
+        allow = {
+            war = no
+            owns = 1616
+            NOT = { has_country_flag = mandate }
+            CSH = { exists = no }
+        }
+
+        effect = {
+            prestige = 20
+            any_owned = {
+				limit = {
+					NOT = { is_core = THIS }
+					any_core = {
+						is_core = CSH
+						NOT = { is_core = MCK }
+                    }
+				}
+				add_core = MNX
+				remove_core = CSH
+			}
+			any_owned = {
+				limit = { 
+					is_core = CSH
+				}
+				remove_core = CSH
+			}
+			1566 = {
+				remove_core = CSH
+				add_core = MNX
+			}
+			1565 = {
+				remove_core = CSH
+				add_core = MNX
+			}
+			1569 = {
+				remove_core = CSH
+				add_core = MNX
+			}
+			release = MCK
+			create_vassal = MCK
+            add_accepted_culture = beifaren
+			any_pop = {
+                limit = { is_primary_culture = yes }
+                militancy = -5
+            }
+			set_country_flag = bandits_dead
+     
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+}
