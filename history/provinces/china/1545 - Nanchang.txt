@@ -1,7 +1,6 @@
-owner=MNX
-controller=MNX
-add_core=CHI
-add_core=DLH
-add_core=MNX
+owner = MNX
+controller = MNX
+add_core = CHI
+add_core = MNX
+life_rating = 35
 trade_goods = cattle
-life_rating = 32

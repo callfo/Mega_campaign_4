@@ -1,6 +1,7 @@
-owner=ITA
-controller=ITA
-add_core=ITA
+owner = PAP
+controller = PAP
+add_core = PAP
+add_core = ITA
 trade_goods = grain
 life_rating = 45
 fort = 1

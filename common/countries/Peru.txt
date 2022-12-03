@@ -1,5 +1,5 @@
 graphical_culture = SouthAmericanGC
-color = { 165 30 30 }
+color = { 124  140  162 }
 
 party = {
 	name = "PEU_conservative"

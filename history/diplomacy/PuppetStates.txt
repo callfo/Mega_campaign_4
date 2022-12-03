@@ -178,6 +178,14 @@ vassal=
 vassal=
 {
 	first="X00"
+	second="PAP"
+	start_date="1758.12.28"
+	end_date="1936.1.1"
+}
+
+vassal=
+{
+	first="X00"
 	second="X06"
 	start_date="1773.1.2"
 	end_date="1936.1.1"
