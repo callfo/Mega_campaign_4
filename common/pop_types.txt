@@ -740,17 +740,23 @@ assimilation_chance =
     modifier = {
         factor = -20
         has_culture_core = yes
+		NOT = { primary_culture = dynamic-german-culture-num1 }
     }
 
     modifier = {
         factor = 10
-        country = { has_country_flag = new_world_nation }
+		country = { has_country_flag = new_world_nation }
         OR = {
             location = { continent = north_america }
             location = { continent = south_america }
             location = { continent = australia_new_zealand }
         }
     }
+	
+	modifier = {
+		factor = 10
+		primary_culture = dynamic-german-culture-num1
+	}
 
     modifier = {
         factor = -0.2

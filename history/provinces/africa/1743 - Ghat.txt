@@ -2,5 +2,5 @@ owner = X00
 controller = X00
 add_core = GER
 add_core = X00
-trade_goods = cattle
 life_rating = 40
+trade_goods = cattle
