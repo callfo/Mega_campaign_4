@@ -7,7 +7,7 @@ name = "Russian Conquest of Finland"
 		casus_belli = acquire_state
 		actor = RUS
 		receiver = SWE
-		state_province_id = 339
+		state_province_id = 343
 	}
 	war_goal = {
 		casus_belli = acquire_state
