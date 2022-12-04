@@ -6,6 +6,7 @@ government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_productivity
 literacy = 0.465926
+civilized = yes
 
 
 # Social Reforms

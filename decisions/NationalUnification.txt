@@ -436,6 +436,7 @@ political_decisions = {
 				tag = SLA
 				tag = WSF
 				tag = ENS
+				tag = X00
 			}
 		}
 		

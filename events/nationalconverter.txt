@@ -1131,6 +1131,7 @@ country_event = {
 		nationalism_n_imperialism = 1
 		primary_culture = french
 		NOT = { exists = FRA } #Cultural country
+		NOT = { tag = X00 }
 		FRA = {
 			all_core = {
 				OR = {
