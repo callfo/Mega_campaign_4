@@ -7,16 +7,16 @@ political_decisions = {
 		}
 		
 		allow = {
-			year = 1870
+			year = 1885
 			war = no
 		}
 		
 		effect = {
-			badboy = 5
+			badboy = 10
 			war = {
 				target = X05
 				attacker_goal = {
-					casus_belli = conquest
+					casus_belli = conquest_any
 				}
 				defender_goal = {
 					casus_belli = status_quo

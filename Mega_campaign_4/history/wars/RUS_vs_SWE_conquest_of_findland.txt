@@ -4,27 +4,16 @@ name = "Russian Conquest of Finland"
 	add_attacker = RUS
 	add_defender = SWE
 	war_goal = {
-		casus_belli = acquire_state
+		casus_belli = war_reparations
 		actor = RUS
 		receiver = SWE
-		state_province_id = 343
+		
 	}
 	war_goal = {
 		casus_belli = acquire_state
-		actor = RUS
-		receiver = SWE
-		state_province_id = 339
+		actor = SWE
+		receiver = RUS
+		state_province_id = 984
 	}
-	war_goal = {
-		casus_belli = acquire_state
-		actor = RUS
-		receiver = SWE
-		state_province_id = 337
-	}
-	war_goal = {
-		casus_belli = acquire_state
-		actor = RUS
-		receiver = SWE
-		state_province_id = 346
-	}
+	
 }

@@ -1,0 +1,49 @@
+country_event = {
+	id = 234212985
+    title = "Treaty of Stockholm"
+    desc = "We have won the war with the Swedes, now it's time to decicde what shall we take from them"
+    picture = "Pushkin"
+    news = yes
+    news_desc_long = "EVTDESC32500_NEWS_LONG"
+    news_desc_medium = "EVTDESC32500_NEWS_MEDIUM"
+    news_desc_short = "EVTDESC32500_NEWS_SHORT"
+
+    trigger = {
+        tag = RUS
+        war = no
+		has_recently_lost_war = no
+		RUS = { has_country_flag = war_with_sweden }
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen =  {
+        months = 1
+    }
+
+    option = {
+        name = "We shall only take Karelia"
+        prestige = 10
+		clr_country_flag = war_with_sweden
+		339 = { secede_province = THIS change_controller = THIS }
+    }
+	
+	option = {
+		name = "We shall annex all of Finland"
+		badboy = 5
+		prestige = 5
+		339 = { secede_province = THIS change_controller = THIS }
+		340 = { secede_province = THIS change_controller = THIS }
+		343 = { secede_province = THIS change_controller = THIS }
+		345 = { secede_province = THIS change_controller = THIS }
+		344 = { secede_province = THIS change_controller = THIS }
+		347 = { secede_province = THIS change_controller = THIS }
+		341 = { secede_province = THIS change_controller = THIS }
+		342 = { secede_province = THIS change_controller = THIS }
+		346 = { secede_province = THIS change_controller = THIS }
+		336 = { secede_province = THIS change_controller = THIS }
+		337 = { secede_province = THIS change_controller = THIS }
+		338 = { secede_province = THIS change_controller = THIS }
+		clr_country_flag = war_with_sweden
+	}
+}
