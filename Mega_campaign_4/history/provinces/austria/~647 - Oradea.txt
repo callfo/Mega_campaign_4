@@ -1,0 +1,6 @@
+owner=RUM
+controller=RUM
+add_core=ROM
+add_core=RUM
+trade_goods = wool
+life_rating = 35

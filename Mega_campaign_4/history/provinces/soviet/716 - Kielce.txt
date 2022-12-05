@@ -1,7 +1,6 @@
-owner = POL
-controller = POL
+owner=WSF
+controller=WSF
+add_core=WSF
 add_core = POL
-add_core = POL
-add_core = WSF
 trade_goods = sulphur
 life_rating = 35

@@ -1,5 +1,6 @@
-owner=ITA
-controller=ITA
+owner=LVN
+controller=LVN
+add_core=LVN
 add_core=ITA
 trade_goods = fish
 life_rating = 40

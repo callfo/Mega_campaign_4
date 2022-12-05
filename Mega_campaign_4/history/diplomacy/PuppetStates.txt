@@ -166,6 +166,13 @@ vassal=
 	start_date="1753.8.1"
 	end_date="1936.1.1"
 }
+vassal=
+{
+	first="X00"
+	second="LVN"
+	start_date="1753.8.1"
+	end_date="1936.1.1"
+}
 
 vassal=
 {

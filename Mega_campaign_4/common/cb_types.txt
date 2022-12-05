@@ -8378,6 +8378,8 @@ treaty_port_casus_belli = {
             owns = 1637 #Cheju
             owns = 2589 #Tsushima
             owns = 12 #Sado
+			owns = 1540
+			owns = 1482
         }
     }
 

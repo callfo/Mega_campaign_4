@@ -1,8 +1,8 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = SCA
-add_core = SWE
+owner=RUS
+controller=RUS
+add_core=DEN
+add_core=RUS
+add_core=SCA
 trade_goods = fruit
 life_rating = 35
 fort = 1

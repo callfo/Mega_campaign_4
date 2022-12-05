@@ -1,7 +1,7 @@
-owner=PRU
-
-add_core=PRU
-add_core = GER
+owner=WSF
+controller=WSF
+add_core=WSF
+add_core=GER
 trade_goods = cattle
 life_rating = 40
 naval_base = 2

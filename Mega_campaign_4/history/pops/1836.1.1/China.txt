@@ -1573,9 +1573,9 @@
 
 	bureaucrats=
 	{
-		culture = yue
-		religion = protestant
-		size= 3093
+		culture = nanfaren
+		religion = theravada
+		size= 15000
 	}
 
 	officers=
@@ -2063,7 +2063,7 @@
 
 	bureaucrats=
 	{
-		culture = hakka
+		culture = nanfaren
 		religion = theravada
 		size= 1132
 	}

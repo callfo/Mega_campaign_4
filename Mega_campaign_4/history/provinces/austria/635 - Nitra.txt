@@ -3,5 +3,6 @@ controller=X02
 add_core=SLV
 add_core=WSF
 add_core=X02
+add_core=WSF
 trade_goods = grain
 life_rating = 35

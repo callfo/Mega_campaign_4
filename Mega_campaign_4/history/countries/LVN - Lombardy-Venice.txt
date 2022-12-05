@@ -1,11 +1,11 @@
 capital = 729
 primary_culture = dummy
-culture = zzz_religion_shamanist
-religion = shamanist
-government = absolute_monarchy
+culture = zzz_religion_catholic
+religion = catholic
+government = democracy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0
+literacy =  0.580855
 
 civilized = yes
 

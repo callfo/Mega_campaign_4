@@ -1,6 +1,5 @@
-owner=PRU
-controller=PRU
-add_core=PRU
+owner=WSF
+controller=WSF
 add_core=WSF
 add_core = GER
 trade_goods = grain
