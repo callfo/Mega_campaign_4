@@ -740,7 +740,10 @@ assimilation_chance =
     modifier = {
         factor = -20
         has_culture_core = yes
-		NOT = { primary_culture = dynamic-german-culture-num1 }
+		AND = {
+			country = { NOT = { primary_culture = dynamic-german-culture-num1 } }
+			country = { NOT = { primary_culture = europian } }
+		}
     }
 
     modifier = {
@@ -755,7 +758,10 @@ assimilation_chance =
 	
 	modifier = {
 		factor = 10
-		primary_culture = dynamic-german-culture-num1
+		OR = {
+			country = { primary_culture = dynamic-german-culture-num1 }
+			country = { primary_culture = europian }
+		}
 	}
 
     modifier = {

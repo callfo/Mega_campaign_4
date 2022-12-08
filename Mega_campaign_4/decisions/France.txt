@@ -544,7 +544,32 @@ political_decisions = {
             add_country_modifier = { name = penal_colonies duration = -1 }
         }
     }
+	
+	annex_republics = {
+		picture = embrace_minority
+        potential = {
+			tag = X00
+			NOT = { has_country_flag = annex_vassals }
+        }
 
+        allow = {
+            war = no
+            mass_politics = 1
+			num_of_vassals = 1
+        }
+		effect = {
+			any_country = {
+				limit = {
+					overlord = { tag = X00 }
+					continent = europe
+				}
+				annex_to = X00
+			}
+			set_country_flag = annex_vassals
+		}
+	}
+
+	
     french_language_schooling = {
         picture = embrace_minority
         potential = {
@@ -559,24 +584,25 @@ political_decisions = {
 
         allow = {
             war = no
-            NOT = { school_reforms = no_schools }
-            invention = biased_multiculturalism
-            invention = social_darwinism
+            revolution_n_counterrevolution = 1
         }
 
         effect = {
             set_country_flag = enacted_french_schooling
+			primary_culture = europian
             remove_accepted_culture = picard
             remove_accepted_culture = occitan
             remove_accepted_culture = breton
             remove_accepted_culture = french_canadian
+			remove_accepted_culture = dutch
             any_owned = {
                 limit = {
-                    OR = {
-                        is_core = BRT
-                        is_core = OCC
-                        culture = picard
-                    }
+					continent = europe
+                    #OR = {
+                    #    is_core = BRT
+                    #    is_core = OCC
+                    #    culture = picard
+                    #}
                 }
                 add_province_modifier = {
                     name = french_cultural_unity
@@ -595,6 +621,26 @@ political_decisions = {
                 }
                 OCC = { all_core = { remove_core = OCC } }
             }
+			random_owned = {
+                limit = {
+                    FRA = { exists = no }
+                }
+                FRA = { all_core = { remove_core = FRA } }
+            }
+			any_owned = {
+				limit = {
+					OR = {
+						culture = french
+						culture = dynamic-cosmopolitan_french-culture-num1
+						culture = dynamic-cosmopolitan_french-culture-num2
+						culture = dutch
+						culture = occitan
+					}
+					
+				}
+				assimilate = yes
+			
+			}
         }
     }
 

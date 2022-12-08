@@ -1960,6 +1960,15 @@ french = {
 	leader = european
 	unit = FrenchGC
 	
+	europian = {
+	
+		color = { 51 51 255 }
+		
+		first_names = { "Édouard" "Érrard" "Étienne" "Adémar" "Adrien" "Aimery" "Alain" "Aldebert" "Aldéric" "Alphonse" "Amaury" "Amédée" "Ancel" "André" "Antoine" "Archambaud" "Arnaud" "Arnault" "Arnoul" "Aubry" "Aymar" "Barthélémi" "Baudouin" "Benoît" "Bérenger" "Bernard" "Bertrand" "Bohemond" "Boson" "Bouchard" "Centule" "Charles" "Clotaire" "Ebbon" "Enguerrand" "Eudes" "Eustache" "Evrard" "Foulques" "François" "Frédéric" "Gaucher" "Gaucelin" "Gauthier" "Geoffroi" "Géraud" "Gilbert" "Gilles" "Godefroi" "Guichard" "Guiges" "Guilhem" "Guillaume" "Guy" "Hélie" "Hamelin" "Henri" "Herbert" "Hildebert" "Hugues" "Humbert" "Jacques" "Jaufré" "Jaspert" "Jean" "Jourdain" "Julien" "Léon" "Léonard" "Lothaire" "Louis" "Loup" "Mathieu" "Maurice" "Nicolas" "Ogier" "Onfroi" "Orson" "Othon" "Payen" "Philippe" "Pierre" "Raimbaut" "Raoul" "Raymond" "Raynaud" "Renaud" "Richard" "Robert" "Robin" "Roger" "Rorgues" "Roubaud" "Savary" "Sigismond" "Simon" "Thibault" "Thiébaut" "Thierry" "Thomas" "Valeran" "Yves" }
+		
+		last_names = { "de Valois" "de Bourbon" "de la Tour" "d'Anjou" "de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux" "de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne" "de Castellane" "d'Auvergne" "de Montbéliard" "de Metz" "de Laval" "de la Tour du Pin" "de La Trémoille" "de Créquy" "de Broglie" "de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier" "de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy" "de Barrau" "de La Fayette" "d'Armagnac" "de Rougé" "du Quenoy" "de Ficquelmont" "de Talleyrand" "de Saintignon" "von Luxemburg" "de Montmorency" "de Savoie" "de Vaudemont" "de Nicolaÿ" }
+	}
+	
 	breton = {
 		color = { 100 110 100 }
 		
@@ -2050,7 +2059,7 @@ french = {
 		
 	}
 	
-	union = FRA
+	union = X00
 	
 }
 

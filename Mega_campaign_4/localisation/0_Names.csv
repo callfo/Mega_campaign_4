@@ -1202,6 +1202,10 @@ TTL_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido
 TTL_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Iaoeiiaeuiay Ia0oey;Kansallispuolue;x
 TTL_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Nioeaeenoe0aneay Ia0oey;Sosialistinenpuolue;x
 X00;Europia United;Europia;Europia;Europia;Europia;Europia;Europia;Europia;Europia;Europia;Europia;Europia;Europia;x
+X00_fascist_dictatorship;Second Revolutionary Empire of Europia;;;;;;;;;;;;;
+X00_hms_government;United Federal Empire of Europia;;;;;;;;;;;;;
+X00_democracy;United Republics of Europia;;;;;;;;;;;;;
+X00_proletarian_dictatorship;United Socialist Republics of Europia;;;;;;;;;;;;;
 X00_ADJ;European;European;European;European;European;European;European;European;European;European;European;European;European;x
 X00_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;0aaeeaeuiay Ia0oey;Radikaalipuolue;x
 X00_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Eiiioienoe0aneay Ia0oey;Kommunistinenpuolue;x

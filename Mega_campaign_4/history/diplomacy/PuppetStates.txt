@@ -159,14 +159,14 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="X00"
 	second="ITA"
 	start_date="1753.8.1"
 	end_date="1936.1.1"
 }
-vassal=
+substate=
 {
 	first="X00"
 	second="LVN"
@@ -174,7 +174,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="X00"
 	second="X05"
@@ -182,7 +182,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="X00"
 	second="PAP"
@@ -190,7 +190,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="X00"
 	second="X06"
@@ -198,7 +198,7 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
+substate=
 {
 	first="X00"
 	second="NAP"
