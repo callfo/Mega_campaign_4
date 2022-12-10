@@ -2,7 +2,10 @@ political_decisions = {
 
     tanzimat_reforms = {
         potential = {
-            tag = TUR
+			OR = {
+				tag = TUR
+				tag = RUM
+			}
             NOT = { has_country_flag = tanzimat_reforms_enacted }
             has_country_modifier = ottoman_oppression
             OR = {
@@ -67,7 +70,10 @@ political_decisions = {
     hatt_i_humayun = {
         picture = kanun_i_esasi
         potential = {
-            tag = TUR
+            OR = {
+				tag = TUR
+				tag = RUM
+			}
             OR = {
                 government = absolute_monarchy
                 government = prussian_constitutionalism
@@ -147,7 +153,10 @@ political_decisions = {
 
     republican_reforms = {
         potential = {
-            tag = TUR
+            OR = {
+				tag = TUR
+				tag = RUM
+			}
             government = democracy
             NOT = { has_country_flag = had_ataturk_reforms }
         }
@@ -169,7 +178,10 @@ political_decisions = {
 
     greater_turkey = {
         potential = {
-            tag = TUR
+           OR = {
+				tag = TUR
+				tag = RUM
+			}
             government = fascist_dictatorship
             has_country_flag = ottomans_to_turks
             NOT = { has_country_flag = claimed_greater_turkey }
@@ -224,7 +236,10 @@ political_decisions = {
         picture = map_montenegro
         potential = {
             NOT = { has_country_flag = montenegro_claims }
-            tag = TUR
+            OR = {
+				tag = TUR
+				tag = RUM
+			}
             exists = MON
             NOT = { year = 1860 }
         }
@@ -290,7 +305,10 @@ political_decisions = {
                 government = prussian_constitutionalism
                 government = hms_government
             }
-            tag = TUR
+            OR = {
+				tag = TUR
+				tag = RUM
+			}
         }
 
         allow = {
@@ -456,7 +474,10 @@ political_decisions = {
     end_tunisian_independence = {
         picture = map_tunisia
         potential = {
-            tag = TUR
+           OR = {
+				tag = TUR
+				tag = RUM
+			}
             NOT = { has_country_flag = tunisia_annexed }
             OR = {
                 government = absolute_monarchy
@@ -691,7 +712,10 @@ political_decisions = {
     centralize_kurdish_states = {
         picture = map_kurdistan
         potential = {
-            tag = TUR
+           OR = {
+				tag = TUR
+				tag = RUM
+			}
             NOT = { has_country_flag = centralized_kurdish_states }
             any_neighbor_country = { vassal_of = THIS primary_culture = kurdish }
         }
@@ -912,7 +936,10 @@ political_decisions = {
     turkish_tea = {
         picture = turkish_coffee_house
         potential = {
-            tag = TUR
+            OR = {
+				tag = TUR
+				tag = RUM
+			}
             NOT = { has_country_flag = turkish_tea_in_turkey }
         }
 
@@ -942,7 +969,10 @@ political_decisions = {
     authorize_bulgarian_exarchate = {
         picture = bulgarian_orthodox_church
         potential = {
-            tag = TUR
+            OR = {
+				tag = TUR
+				tag = RUM
+			}
             year = 1870
             any_owned_province = {
                 is_core = BUL
@@ -988,6 +1018,7 @@ political_decisions = {
             OR = {
                 tag = TUR
                 tag = EGY
+				tag = RUM
             }
             OR = {
                 government = absolute_monarchy
@@ -1027,6 +1058,7 @@ political_decisions = {
             OR = {
                 tag = TUR
                 tag = EGY
+				tag = RUM
             }
             OR = {
                 government = absolute_monarchy
@@ -1374,6 +1406,7 @@ political_decisions = {
             OR = {
                 tag = TUR
                 tag = EGY
+				tag = RUM
             }
             OR = {
                 government = absolute_monarchy
@@ -1408,4 +1441,28 @@ political_decisions = {
         }
         ai_will_do = { factor = 1 }
     }
+	
+	demand_the_black_sea_coast = {
+		picture = bedouins_granger
+		potential = {
+			tag = RUM
+			RUS = {
+				AND = {
+					owns = 967
+					owns = 968
+					owns = 979
+				}
+			}
+			NOT = { has_country_flag = demanded_black_sea }
+		}
+		allow = {
+			year = 1865
+			NOT = { alliance_with = RUS }
+		}
+		effect = {
+			badboy = 5
+			set_country_flag = demanded_black_sea
+			RUS = { country_event = 84236697 }
+		}
+	}
 }

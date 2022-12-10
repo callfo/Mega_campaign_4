@@ -8,18 +8,23 @@ political_decisions = {
 				tag = X00
 				tag = FRA
 			}
-            exists = FRA
+			OR = {
+				exists = FRA
+				exists = X00
+			}
             exists = USA
             USA = {
                 government = democracy
                 owns = 232
             }
-            FRA = {
-                OR = {
-                    government = hms_government
-                    government = democracy
-                }
-            }
+			OR = {
+				FRA = {
+					OR = {
+						government = hms_government
+						government = democracy
+					}
+				}
+			}
             year = 1850
         }
 
@@ -51,7 +56,10 @@ political_decisions = {
     }
     support_french_foreign_legion = {
         potential = {
-            tag = FRA
+			OR = {
+				tag = FRA
+				tag = X00
+			}
             owns = 1700
             NOT = {
                 has_country_flag = french_foreign_legion_supported
@@ -309,7 +317,7 @@ political_decisions = {
                 has_country_flag = the_eiffel_tower_was_built
             }
 
-            has_country_flag = world_fair_planner
+            
         }
 
         allow = {
@@ -562,6 +570,8 @@ political_decisions = {
 				limit = {
 					overlord = { tag = X00 }
 					continent = europe
+					NOT = { tag = NAP }
+					NOT = { tag = X06 }
 				}
 				annex_to = X00
 			}

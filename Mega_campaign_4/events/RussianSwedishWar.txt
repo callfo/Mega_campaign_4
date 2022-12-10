@@ -3,10 +3,6 @@ country_event = {
     title = "Treaty of Stockholm"
     desc = "We have won the war with the Swedes, now it's time to decicde what shall we take from them"
     picture = "Pushkin"
-    news = yes
-    news_desc_long = "EVTDESC32500_NEWS_LONG"
-    news_desc_medium = "EVTDESC32500_NEWS_MEDIUM"
-    news_desc_short = "EVTDESC32500_NEWS_SHORT"
 
     trigger = {
         tag = RUS

@@ -1,6 +1,5 @@
 owner=X08
 controller=X08
-add_core=ROM
 add_core=LUZ
 add_core=WSF
 add_core=X08

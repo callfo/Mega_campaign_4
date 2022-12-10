@@ -142,3 +142,134 @@ country_event = {
         capital = 876
     }
 }
+country_event = {
+	id = 84236697
+	is_triggered_only = yes
+	fire_only_once = yes
+	title = "Rum demands the Black Sea Coast!"
+	desc = "If you decline their demands Rum can declare war on you and press demands if they win, but if you manage to win the war then you'll get to create a puppet in Romania and gain costal provinces in Caucasia"
+	picture = "redline"
+	
+	option = {
+		name = "Cave into the Rum demands"
+		prestige = -25
+		678 = { secede_province = RUM }
+		968 = { secede_province = RUM }
+		970 = { secede_province = RUM }
+		965 = { secede_province = RUM }
+		964 = { secede_province = RUM }
+		967 = { secede_province = RUM }
+		973 = { secede_province = RUM }
+		976 = { secede_province = RUM }
+		975 = { secede_province = RUM }
+		979 = { secede_province = RUM }
+		1047 = { secede_province = RUM }
+		1048 = { secede_province = RUM }
+		1048 = { secede_province = RUM }
+		966 = { secede_province = RUM }
+	}
+	
+	option = {
+		name = "We shall never cave into these empty threats"
+		prestige = 25
+		RUM = { country_event = 84236698 }
+	}
+}
+
+country_event = {
+	id = 84236698
+	is_triggered_only = yes
+	fire_only_once = yes
+	title = "Russia has denied our demands!"
+	desc = "If you choose to persue war and manage to win it, you'll get an event after few months to tranfer the provinces. If you lose the war you'll lose all of Romania and provinces alongside the coast in Caucasia"
+	picture = "redline"
+	
+	
+	option = {
+		name = "Russia was foolish to deny our demands"
+		war = {
+			target = RUS
+			attacker_goal = {
+				casus_belli = war_reparations
+			}
+			defender_goal = {
+				casus_belli = war_reparations
+				call_ally = yes
+			}
+		}
+		set_country_flag = war_for_black_sea
+	}
+	option = {
+		name = "Now it's not the time for war"
+		prestige = -60
+	}
+}
+
+country_event = {
+	id = 84236699
+	title = "We have won the Crimean War!"
+	picture = "redline"
+	trigger = {
+        tag = RUM
+        war = no
+		has_recently_lost_war = no
+		RUM = { has_country_flag = war_for_black_sea }
+    }
+	fire_only_once = yes
+	
+	option = {
+		name = "It's time to press our demands"
+		prestige = 10
+		678 = { secede_province = RUM }
+		968 = { secede_province = RUM }
+		970 = { secede_province = RUM }
+		965 = { secede_province = RUM }
+		964 = { secede_province = RUM }
+		967 = { secede_province = RUM }
+		973 = { secede_province = RUM }
+		976 = { secede_province = RUM }
+		975 = { secede_province = RUM }
+		979 = { secede_province = RUM }
+		1047 = { secede_province = RUM }
+		1048 = { secede_province = RUM }
+		1051 = { secede_province = RUM }
+		1048 = { secede_province = RUM }
+		966 = { secede_province = RUM }
+		clr_country_flag = war_for_black_sea
+	}
+}
+
+country_event = {
+	id = 84236700
+	title = "We have won the Crimean War!"
+	picture = "redline"
+	trigger = {
+        tag = RUS
+        war = no
+		has_recently_lost_war = no
+		RUM = { 
+			has_country_flag = war_for_black_sea 
+			has_recently_lost_war = yes
+		}
+    }
+	fire_only_once = yes
+	
+	option = {
+		name = "It's time to press our demands"
+		prestige = 30
+		1049 = { secede_province = THIS }
+		1095 = { secede_province = THIS }
+		1092 = { secede_province = THIS }
+		1094 = { secede_province = THIS }
+		RUM = {
+			release = ROM
+		}
+		ROM = {
+			inherit = X08
+		}
+		RUS = {
+			create_vassal = ROM 
+		}
+		RUM = { clr_country_flag = war_for_black_sea}
+	}
+}

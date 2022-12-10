@@ -1,6 +1,6 @@
-owner = TTL
-controller = TTL
+owner = X05
+controller = X05
 add_core = GER
-add_core = TTL
+add_core = X05
 trade_goods = fruit
 life_rating = 40

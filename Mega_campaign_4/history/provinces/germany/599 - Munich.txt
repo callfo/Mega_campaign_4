@@ -5,3 +5,4 @@ add_core = BAV
 trade_goods = coal
 life_rating = 40
 fort = 1
+#state_building = { level = 1 bulding = machine_parts_factory upgrade = yes }

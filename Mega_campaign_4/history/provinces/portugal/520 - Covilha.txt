@@ -1,6 +1,6 @@
-owner=ADU
-controller=ADU
-add_core=ADU
+owner=CST
+controller=CST
+add_core=CST
 add_core=SPA
 trade_goods = wool
 life_rating = 35

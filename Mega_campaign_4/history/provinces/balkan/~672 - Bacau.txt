@@ -1,6 +1,5 @@
 owner=X08
 controller=X08
-add_core=ROM
 add_core=PCH
 add_core=X08
 trade_goods = grain

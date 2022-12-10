@@ -3,6 +3,7 @@ controller=X08
 add_core=LUZ
 add_core=WSF
 add_core=X08
+add_core=ROM
 trade_goods = cattle
 life_rating = 35
 fort = 1

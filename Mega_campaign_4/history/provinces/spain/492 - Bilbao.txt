@@ -1,5 +1,5 @@
-owner=X00
-controller=X00
+owner=CST
+controller=CST
 add_core=CST
 add_core=SPA
 trade_goods = fruit

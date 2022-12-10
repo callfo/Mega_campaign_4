@@ -1,7 +1,6 @@
-owner=CST
-controller=CST
-add_core=CST
+owner=ADU
+controller=ADU
+add_core=ADU
 add_core=SPA
 trade_goods = grain
 life_rating = 35
-fort = 1

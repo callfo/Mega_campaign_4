@@ -20,6 +20,8 @@ AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME_CHL_PBC;$ORDER$War of the Confederation;;;;;
 NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME_CHL_PBC;$ORDER$War of the Confederation;;;;;;;;;;;;;
 NORMAL_WAR_NAME_REPARATIONS;$ORDER$$FIRST$-$SECOND$ War;;;;;;;;;;;;;
 AGRESSION_WAR_NAME_REPARATIONS;$ORDER$War of $FIRST$ Aggression;;;;;;;;;;;;;
+NORMAL_WAR_NAME_REPARATIONS_RUM_RUS;Crimean War;;;;;;;;;;;;;
+AGRESSION_WAR_NAME_REPARATIONS_RUM_RUS;Crimean War;;;;;;;;;;;;;
 war_reparations;Reparations;;;;;;;;;;;;;
 war_reparations_desc;Demand §Yreparations§W from another country.;;;;;;;;;;;;;
 war_reparations_short;Demand Reparations;;;;;;;;;;;;;
@@ -344,4 +346,15 @@ take_capital;Take Capital;;;;;;;;;;;;;
 take_capital_setup;Take capital;;;;;;;;;;;;;
 take_capital_short;Take capital of $RECIPIENT$;;;;;;;;;;;;;
 take_capital_desc;Take the capital state of a country;;;;;;;;;;;;;
-acquire_state;Acquire State;;;;;;;;;;;;;
+acquire_state_mid;Acquire State Mid;Prendre territoire cle;Kernprovinz erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+acquire_state_mid_desc;Aquire an enemy ¡±Ystate¡±W;Prendre un ¡±YEtat¡±W ennemi ou nous avons des ¡±Yprovinces principales¡±W;Erobern Sie einen feindlichen ¡±YStaat¡±W, in dem wir ¡±YKernprovinzen¡±W haben.;;;;;;;;;;;x,,
+acquire_state_mid_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+acquire_state_mid_setup;Acquire $STATE$ from $RECIPIENT$;Prendre Etat cle $STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+acquire_state_late;Acquire State Late;Prendre territoire cle;Kernprovinz erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+acquire_state_late_desc;Aquire an enemy ¡±Ystate¡±W;Prendre un ¡±YEtat¡±W ennemi ou nous avons des ¡±Yprovinces principales¡±W;Erobern Sie einen feindlichen ¡±YStaat¡±W, in dem wir ¡±YKernprovinzen¡±W haben.;;;;;;;;;;;x,,
+acquire_state_late_short;Acquire $STATE$;Prendre $STATE$;$STATE$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+acquire_state_late_setup;Acquire $STATE$ from $RECIPIENT$;Prendre Etat cle $STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;;;;;;x;;;;;;;;;;;;;;,,,
+demand_concession_capital;Demand Capital Concession;;;;;;;;;;;;;
+demand_concession_capital_desc;Force a ¡±Ycountry¡±W to secede its capital to form a concession.;;;;;;;;;;;;;
+demand_concession_capital_setup;Demand that $RECIPIENT$ secede their capital to form a concession.;;;;;;;;;;;;;
+demand_concession_capital_casus_belli_short;Demand the capital state of $STATE$;;;;;;;;;;;;;

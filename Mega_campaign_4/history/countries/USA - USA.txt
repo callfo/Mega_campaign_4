@@ -21,6 +21,7 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # political reforms
+border_policy=open_borders
 slavery=yes_slavery
 vote_franschise=wealth_weighted_voting
 upper_house_composition=state_equal_weight

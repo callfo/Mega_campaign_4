@@ -7,3 +7,4 @@ trade_goods = coal
 life_rating = 40
 fort = 1
 state_building = { level = 1 building = steel_factory upgrade = yes } 
+state_building = { level = 1 building = machine_parts_factory upgrade = yes }
